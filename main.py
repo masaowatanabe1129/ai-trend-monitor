@@ -2,7 +2,9 @@ import feedparser
 import requests
 import json
 import os
-from datetime import datetime
+import re
+from datetime import datetime, timedelta
+from dateutil import parser
 from openai import OpenAI
 
 # ========= 設定 =========
@@ -90,10 +92,17 @@ def fetch_articles():
                     continue
 
             title = entry.title
-            summary = entry.summary if "summary" in entry else ""
-        
-            if not is_ai_related(title + summary):
-                continue
+            if "summary" in entry:
+                summary = entry.summary
+            elif "description" in entry:
+                summary = entry.description
+            summary = clean_html(summary)
+            summary = summary[:500]   # 長すぎ防止
+
+            if "arxiv.org" not in url:
+                text = (title + " " + summary[:200]).lower()
+                if not is_ai_related(text):
+                    continue
         
             articles.append({
                 "title": title,
@@ -103,6 +112,14 @@ def fetch_articles():
 
     print(f"Total articles: {len(articles)}")
     return articles
+
+# ========= HTML除去 =========
+def clean_html(text):
+    if not text:
+        return ""
+    text = re.sub("<.*?>", "", text)  # HTMLタグ削除
+    text = text.replace("\n", " ").strip()
+    return text
 
 # ========= 記事重複削除 =========
 def remove_duplicates(articles):
