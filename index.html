@@ -7,7 +7,7 @@
 <style>
 
 body{
-font-family:Arial;
+font-family: Arial, sans-serif;
 background:#0f172a;
 color:white;
 margin:40px;
@@ -18,20 +18,25 @@ font-size:36px;
 margin-bottom:30px;
 }
 
+h2{
+margin-top:0;
+}
+
 .card{
 background:#1e293b;
 padding:25px;
-border-radius:10px;
+border-radius:12px;
 margin-bottom:25px;
 }
 
 .article{
-margin-bottom:15px;
+margin-bottom:20px;
 }
 
 .summary{
 font-size:14px;
-opacity:0.8;
+opacity:0.85;
+margin-top:5px;
 }
 
 a{
@@ -39,8 +44,23 @@ color:#60a5fa;
 text-decoration:none;
 }
 
+a:hover{
+text-decoration:underline;
+}
+
+ul{
+padding-left:20px;
+}
+
 pre{
 white-space:pre-wrap;
+line-height:1.6;
+}
+
+.grid{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:25px;
 }
 
 </style>
@@ -50,35 +70,134 @@ white-space:pre-wrap;
 
 <h1>AIトレンドモニター</h1>
 
+<!-- AIサマリー -->
+
 <div class="card">
 
 <h2>🧠 今日のAI業界サマリー</h2>
 
-<pre id="trend"></pre>
+<pre id="trend">読み込み中...</pre>
 
 </div>
+
+<!-- トピック + GitHub -->
+
+<div class="grid">
+
+<div class="card">
+
+<h2>🔥 今日のAIトピック</h2>
+
+<ul id="topics">
+<li>読み込み中...</li>
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>💻 注目AIツール（GitHub）</h2>
+
+<ul id="github">
+<li>読み込み中...</li>
+</ul>
+
+</div>
+
+</div>
+
+<!-- 記事 -->
 
 <div class="card">
 
 <h2>📄 今日のAIニュース</h2>
 
-<div id="articles"></div>
+<div id="articles">
+読み込み中...
+</div>
 
 </div>
 
 <script>
 
+/////////////////////////////
+// AIサマリー
+/////////////////////////////
+
 fetch("data/trend_summary.txt")
 .then(r=>r.text())
-.then(t=>{
-document.getElementById("trend").textContent=t
+.then(text=>{
+document.getElementById("trend").textContent=text
 })
+.catch(()=>{
+document.getElementById("trend").textContent="データがまだ生成されていません"
+})
+
+/////////////////////////////
+// トピックランキング
+/////////////////////////////
+
+fetch("data/topic_ranking.json")
+.then(r=>r.json())
+.then(data=>{
+
+const list=document.getElementById("topics")
+
+list.innerHTML=""
+
+data.forEach(t=>{
+
+const li=document.createElement("li")
+
+li.textContent=`${t.topic} (${t.count})`
+
+list.appendChild(li)
+
+})
+
+})
+.catch(()=>{
+document.getElementById("topics").innerHTML="<li>データなし</li>"
+})
+
+/////////////////////////////
+// GitHub AIツール
+/////////////////////////////
+
+fetch("data/github_ai.json")
+.then(r=>r.json())
+.then(data=>{
+
+const list=document.getElementById("github")
+
+list.innerHTML=""
+
+data.forEach(repo=>{
+
+const li=document.createElement("li")
+
+li.innerHTML=`<a href="${repo.url}" target="_blank">${repo.name}</a> ⭐${repo.stars}`
+
+list.appendChild(li)
+
+})
+
+})
+.catch(()=>{
+document.getElementById("github").innerHTML="<li>データなし</li>"
+})
+
+/////////////////////////////
+// 記事一覧
+/////////////////////////////
 
 fetch("data/latest.json")
 .then(r=>r.json())
 .then(data=>{
 
 const container=document.getElementById("articles")
+
+container.innerHTML=""
 
 data.forEach(a=>{
 
@@ -95,6 +214,9 @@ container.appendChild(div)
 
 })
 
+})
+.catch(()=>{
+document.getElementById("articles").textContent="記事データがありません"
 })
 
 </script>
