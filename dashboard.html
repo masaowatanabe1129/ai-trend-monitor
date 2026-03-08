@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>AI Coding Trend Monitor</title>
+
+<style>
+
+body{
+font-family:Arial;
+margin:40px;
+background:#f7f7f7;
+}
+
+h1{
+color:#222;
+}
+
+.article{
+background:white;
+padding:15px;
+margin-bottom:10px;
+border-radius:8px;
+}
+
+a{
+color:#0077cc;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>🤖 AI Coding Trend Monitor</h1>
+
+<div id="articles"></div>
+
+<script>
+
+fetch("data/latest.json")
+.then(res=>res.json())
+.then(data=>{
+
+const container=document.getElementById("articles")
+
+data.forEach(a=>{
+
+const div=document.createElement("div")
+div.className="article"
+
+div.innerHTML=`
+<h3>${a.title}</h3>
+<p>${a.analysis?.summary_200j ?? ""}</p>
+<a href="${a.link}" target="_blank">Read article</a>
+`
+
+container.appendChild(div)
+
+})
+
+})
+
+</script>
+
+</body>
+</html>
