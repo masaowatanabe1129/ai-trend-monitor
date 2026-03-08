@@ -21,13 +21,11 @@ def fetch_articles():
     for url in RSS_FEEDS:
         feed = feedparser.parse(url)
         for entry in feed.entries:
-            title = entry.title.lower()
-            if any(k in title for k in KEYWORDS):
-                articles.append({
-                    "title": entry.title,
-                    "link": entry.link,
-                    "summary": entry.summary if "summary" in entry else ""
-                })
+            articles.append({
+                "title": entry.title,
+                "link": entry.link,
+                "summary": entry.summary if "summary" in entry else ""
+            })
     return articles
 
 # ========= GPT分類 =========
