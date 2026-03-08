@@ -1,6 +1,6 @@
 import os
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from collections import Counter
 from openai import OpenAI
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
@@ -15,59 +15,89 @@ OUTPUT_DIR = "reports"
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 today = datetime.now()
-target_month = today.strftime("%Y-%m")
+current_month = today.strftime("%Y-%m")
+last_month_date = today.replace(day=1) - timedelta(days=1)
+last_month = last_month_date.strftime("%Y-%m")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ========= データ読み込み =========
-all_articles = []
+def load_month_data(target_month):
+    articles = []
+    if not os.path.exists(DATA_DIR):
+        return articles
 
-for file in os.listdir(DATA_DIR):
-    if file.startswith(target_month) and file.endswith(".json"):
-        with open(os.path.join(DATA_DIR, file), "r", encoding="utf-8") as f:
-            all_articles.extend(json.load(f))
+    for file in os.listdir(DATA_DIR):
+        if file.startswith(target_month) and file.endswith(".json"):
+            with open(os.path.join(DATA_DIR, file), "r", encoding="utf-8") as f:
+                articles.extend(json.load(f))
+    return articles
 
-if not all_articles:
-    print("No data for this month.")
+current_articles = load_month_data(current_month)
+last_articles = load_month_data(last_month)
+
+if not current_articles:
+    print("No current month data.")
     exit()
 
 # ========= 集計 =========
-categories = []
-importance = []
+def extract_categories(articles):
+    categories = []
+    for item in articles:
+        analysis = item.get("analysis", {})
+        categories.append(analysis.get("tech_category", "unknown"))
+    return Counter(categories)
 
-for item in all_articles:
-    analysis = item.get("analysis", {})
-    categories.append(analysis.get("tech_category", "unknown"))
-    importance.append(analysis.get("importance_score", 0))
+current_counter = extract_categories(current_articles)
+last_counter = extract_categories(last_articles)
 
-top_categories = Counter(categories).most_common(5)
-avg_importance = round(sum(importance)/len(importance), 2)
+# ========= 差分検出 =========
+trend_increase = []
+trend_decrease = []
+trend_new = []
 
-# ========= GPTで戦略要約生成 =========
-summary_prompt = f"""
-以下は今月のAI技術動向データです。
+for category, count in current_counter.items():
+    last_count = last_counter.get(category, 0)
+    if last_count == 0:
+        trend_new.append(category)
+    elif count > last_count:
+        trend_increase.append((category, count - last_count))
 
-主要カテゴリ: {top_categories}
-平均重要度: {avg_importance}
+for category, count in last_counter.items():
+    if category not in current_counter:
+        trend_decrease.append(category)
+
+trend_increase = sorted(trend_increase, key=lambda x: x[1], reverse=True)[:5]
+
+# ========= GPTで戦略分析 =========
+analysis_prompt = f"""
+以下はAIトレンドの月次変化データです。
+
+今月カテゴリ件数: {current_counter}
+先月カテゴリ件数: {last_counter}
+
+急上昇分野: {trend_increase}
+新規出現分野: {trend_new}
+減少分野: {trend_decrease}
 
 IT企業向けに
-1. 今月の技術傾向
+1. この変化の意味
 2. 事業インパクト
-3. 来月の注視ポイント
+3. 来月の戦略アクション
 
-を日本語で500文字程度でまとめてください。
+を600文字程度でまとめてください。
 """
 
 response = client.chat.completions.create(
     model="gpt-4o-mini",
-    messages=[{"role": "user", "content": summary_prompt}],
+    messages=[{"role": "user", "content": analysis_prompt}],
     temperature=0.4
 )
 
-monthly_summary = response.choices[0].message.content
+trend_summary = response.choices[0].message.content
 
 # ========= PDF生成 =========
-output_file = f"{OUTPUT_DIR}/AI_Monthly_Report_{target_month}.pdf"
+output_file = f"{OUTPUT_DIR}/AI_Monthly_Report_{current_month}.pdf"
 
 pdfmetrics.registerFont(UnicodeCIDFont("HeiseiMin-W3"))
 
@@ -89,11 +119,13 @@ title_style = ParagraphStyle(
     fontSize=18
 )
 
-elements.append(Paragraph(f"AI戦略レポート（月次） {target_month}", title_style))
+elements.append(Paragraph(f"AI戦略レポート（月次） {current_month}", title_style))
 elements.append(Spacer(1, 0.3 * inch))
-elements.append(Paragraph("■ 戦略サマリ", base_style))
+
+elements.append(Paragraph("■ トレンド変化分析", base_style))
 elements.append(Spacer(1, 0.2 * inch))
-elements.append(Paragraph(monthly_summary.replace("\n", "<br/>"), base_style))
+
+elements.append(Paragraph(trend_summary.replace("\n", "<br/>"), base_style))
 
 doc.build(elements)
 
