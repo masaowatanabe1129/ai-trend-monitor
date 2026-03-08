@@ -1,45 +1,68 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>AI Coding Trend Monitor</title>
+<meta charset="utf-8">
+<title>AI Trend Monitor</title>
 
 <style>
-
 body{
 font-family:Arial;
+background:#0f172a;
+color:white;
 margin:40px;
-background:#f7f7f7;
 }
 
 h1{
-color:#222;
+font-size:32px;
+}
+
+.card{
+background:#1e293b;
+padding:20px;
+border-radius:10px;
+margin-bottom:20px;
 }
 
 .article{
-background:white;
-padding:15px;
 margin-bottom:10px;
-border-radius:8px;
 }
 
 a{
-color:#0077cc;
+color:#60a5fa;
+text-decoration:none;
 }
 
+pre{
+white-space:pre-wrap;
+}
 </style>
+
 </head>
 
 <body>
 
-<h1>🤖 AI Coding Trend Monitor</h1>
+<h1>AI Trend Monitor</h1>
 
+<div class="card">
+<h2>Today's AI Landscape</h2>
+<pre id="trend"></pre>
+</div>
+
+<div class="card">
+<h2>Source Articles</h2>
 <div id="articles"></div>
+</div>
 
 <script>
 
+fetch("data/trend_summary.txt")
+.then(r=>r.text())
+.then(t=>{
+document.getElementById("trend").textContent=t
+})
+
 fetch("data/latest.json")
-.then(res=>res.json())
+.then(r=>r.json())
 .then(data=>{
 
 const container=document.getElementById("articles")
@@ -47,13 +70,10 @@ const container=document.getElementById("articles")
 data.forEach(a=>{
 
 const div=document.createElement("div")
+
 div.className="article"
 
-div.innerHTML=`
-<h3>${a.title}</h3>
-<p>${a.analysis?.summary_200j ?? ""}</p>
-<a href="${a.link}" target="_blank">Read article</a>
-`
+div.innerHTML=`<a href="${a.link}" target="_blank">${a.title}</a>`
 
 container.appendChild(div)
 
