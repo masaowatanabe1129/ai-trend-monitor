@@ -362,6 +362,32 @@ def fetch_github_ai_tools():
     with open("data/github_ai.json","w") as f:
         json.dump(repos,f)
 
+# ========= トレンド履歴を更新 =========
+
+def update_trend_history():
+
+    import json
+    import os
+    from datetime import datetime
+
+    today = datetime.now().strftime("%Y-%m-%d")
+
+    with open("data/topic_ranking.json") as f:
+        today_topics = json.load(f)
+
+    history_file = "data/topic_history.json"
+
+    if os.path.exists(history_file):
+        with open(history_file) as f:
+            history = json.load(f)
+    else:
+        history = {}
+
+    history[today] = today_topics
+
+    with open(history_file,"w") as f:
+        json.dump(history,f)
+
 # ========= main =========
 
 def main():
@@ -405,6 +431,8 @@ def main():
     generate_topic_ranking(articles)
     
     fetch_github_ai_tools()
+    
+    update_trend_history()
 
     import shutil
     
