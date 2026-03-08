@@ -7,16 +7,70 @@ from openai import OpenAI
 
 # ========= 設定 =========
 RSS_FEEDS = [
+
+    # research
+    "https://arxiv.org/rss/cs.AI",
+    "https://arxiv.org/rss/cs.CL",
+    "https://arxiv.org/rss/cs.LG",
+
+    # companies
     "https://huggingface.co/blog/feed.xml",
+    "https://deepmind.google/blog/rss.xml",
+
+    # AI news
     "https://www.marktechpost.com/feed/",
-    "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+    "https://www.artificialintelligence-news.com/feed/",
+
+    # tech media
+    "https://venturebeat.com/category/ai/feed/",
+
+    # github
+    "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "https://github.com/topics/artificial-intelligence.atom"
 ]
 
-KEYWORDS = ["agent", "rag", "llm", "multimodal", "ai"]
+KEYWORDS = [
+
+    # LLM
+    "llm",
+    "large language model",
+    "transformer",
+    "rag",
+    "agent",
+    "agents",
+
+    # generative
+    "generative ai",
+    "diffusion",
+    "multimodal",
+
+    # tools
+    "vector database",
+    "embedding",
+
+    # companies / models
+    "gpt",
+    "claude",
+    "gemini",
+    "llama",
+]
+
+MAX_ARTICLES = 10
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # ========= RSS取得 =========
+def is_ai_related(text):
+
+    text = text.lower()
+
+    for keyword in KEYWORDS:
+        if keyword in text:
+            return True
+
+    return False
+
+# ========= 記事フィルタリング =========
 def fetch_articles():
     articles = []
 
@@ -28,14 +82,37 @@ def fetch_articles():
         print(f"Entries found: {len(feed.entries)}")
 
         for entry in feed.entries:
+        
+            title = entry.title
+            summary = entry.summary if "summary" in entry else ""
+        
+            if not is_ai_related(title + summary):
+                continue
+        
             articles.append({
-                "title": entry.title,
+                "title": title,
                 "link": entry.link,
-                "summary": entry.summary if "summary" in entry else ""
+                "summary": summary
             })
 
     print(f"Total articles: {len(articles)}")
     return articles
+
+# ========= 記事重複削除 =========
+def remove_duplicates(articles):
+
+    seen = set()
+    unique = []
+
+    for article in articles:
+
+        if article["link"] in seen:
+            continue
+
+        seen.add(article["link"])
+        unique.append(article)
+
+    return unique
 
 # ========= GPT分類 =========
 def analyze_article(article):
@@ -79,7 +156,7 @@ def save_results(results):
 
 # ========= 実行 =========
 def main():
-    articles = fetch_articles()
+    articles = remove_duplicates(fetch_articles())
     results = []
 
     for article in articles:
