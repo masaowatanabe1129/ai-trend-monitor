@@ -55,7 +55,7 @@ KEYWORDS = [
     "llama",
 ]
 
-MAX_ARTICLES = 10
+MAX_ARTICLES = 20
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
@@ -73,6 +73,7 @@ def is_ai_related(text):
 # ========= 記事フィルタリング =========
 def fetch_articles():
     articles = []
+    today = datetime.utcnow() - timedelta(days=1)
 
     for url in RSS_FEEDS:
         print(f"Fetching RSS: {url}")
@@ -82,7 +83,12 @@ def fetch_articles():
         print(f"Entries found: {len(feed.entries)}")
 
         for entry in feed.entries:
-        
+            if "published" in entry:
+                published = parser.parse(entry.published)
+
+                if published < today:
+                    continue
+
             title = entry.title
             summary = entry.summary if "summary" in entry else ""
         
@@ -157,6 +163,7 @@ def save_results(results):
 # ========= 実行 =========
 def main():
     articles = remove_duplicates(fetch_articles())
+    articles = articles[:MAX_ARTICLES]
     results = []
 
     for article in articles:
