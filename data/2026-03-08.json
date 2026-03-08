@@ -2,17 +2,11 @@
   {
     "title": "GoogleCloudPlatform/generative-ai",
     "link": "https://github.com/GoogleCloudPlatform/generative-ai",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "```json\n{\n  \"tech_category\": \"Generative AI\",\n  \"tech_maturity\": \"beta\",\n  \"si_business_fit\": 4,\n  \"internal_poc_feasibility\": 4,\n  \"importance_score\": 5,\n  \"summary_200j\": \"Google Cloud PlatformのGenerative AIに関するサンプルコードやノートブックが提供されており、特にGemini 3.1 Proのリリースに伴う最新のデモやリソースが含まれています。このリポジトリは、Generative AIワークフローの開発と管理を支援するためのもので、企業がAI技術を活用する際の実践的なガイドとなります。\"\n}\n```"
-    }
+    "analysis": "Google Cloud Platformの生成AIに関する記事では、AI技術を活用したさまざまなサービスやツールについて解説しています。特に、データ活用や創造的なコンテンツ生成を支援する機能が紹介されています。"
   },
   {
     "title": "QwenLM/Qwen-Agent",
     "link": "https://github.com/QwenLM/Qwen-Agent",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "```json\n{\n  \"tech_category\": \"AI/ML Frameworks\",\n  \"tech_maturity\": \"beta\",\n  \"si_business_fit\": 4,\n  \"internal_poc_feasibility\": 3,\n  \"importance_score\": 4,\n  \"summary_200j\": \"QwenLM/Qwen-Agentは、Qwen>=3.0に基づくエージェントフレームワークであり、Function Calling、MCP、Code Interpreter、RAG、Chrome拡張機能などを特徴としています。このフレームワークは、LLMアプリケーションの開発を容易にし、特にIT企業においては、効率的なプロトタイピングや新機能の実装に役立つ可能性があります。\"\n}\n```"
-    }
+    "analysis": "「QwenLM/Qwen-Agent」は、人工知能の言語モデルおよびそのエージェントに関する情報を提供する記事です。この技術は自然言語処理の分野での進展を目指しており、さまざまな応用が期待されています。"
   }
 ]
