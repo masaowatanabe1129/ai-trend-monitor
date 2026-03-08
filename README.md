@@ -1,0 +1,2 @@
+# ai-trend-monitor
+AIのトレンドをモニタリングするアプリ
