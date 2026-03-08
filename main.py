@@ -3,7 +3,7 @@ import requests
 import json
 import os
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from dateutil import parser
 from openai import OpenAI
 
@@ -75,12 +75,14 @@ def is_ai_related(text):
 # ========= 記事フィルタリング =========
 def fetch_articles():
     articles = []
-    today = datetime.utcnow() - timedelta(days=1)
+    today = datetime.now(timezone.utc) - timedelta(days=1)
 
     for url in RSS_FEEDS:
         print(f"Fetching RSS: {url}")
 
-        feed = feedparser.parse(url)
+        feed = feedparser.parse(url, request_headers={
+            "User-Agent": "Mozilla/5.0 (AI Trend Monitor)"
+        })
 
         print(f"Entries found: {len(feed.entries)}")
 
