@@ -7,8 +7,9 @@ from openai import OpenAI
 
 # ========= 設定 =========
 RSS_FEEDS = [
-    "https://openai.com/blog/rss",
-    "https://www.anthropic.com/news/rss",
+    "https://huggingface.co/blog/feed.xml",
+    "https://www.marktechpost.com/feed/",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
 ]
 
 KEYWORDS = ["agent", "rag", "llm", "multimodal", "ai"]
