@@ -2,6 +2,7 @@ import feedparser
 import json
 import os
 import re
+import shutil
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from dateutil import parser
@@ -300,3 +301,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+    shutil.copy(
+        f"data/{today}.json",
+        "data/latest.json"
+    )
