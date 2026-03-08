@@ -30,10 +30,27 @@ RSS_FEEDS = [
 ]
 
 KEYWORDS = [
-    "llm","large language model","transformer","rag","agent","agents",
-    "generative ai","diffusion","multimodal",
-    "vector database","embedding",
-    "gpt","claude","gemini","llama"
+
+    # coding AI
+    "code generation",
+    "ai coding",
+    "developer ai",
+    "ai programming",
+
+    # models
+    "gpt",
+    "claude",
+    "gemini",
+    "llama",
+
+    # frameworks
+    "langchain",
+    "llm agent",
+    "rag",
+
+    # tools
+    "copilot",
+    "cursor",
 ]
 
 MAX_FEED_ARTICLES = 10
