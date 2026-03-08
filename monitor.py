@@ -1,36 +1,31 @@
 def generate_trend_summary(articles):
 
-    import json
-
     text = "\n".join(
-        f"{a['title']} - {a.get('summary','')}"
+        f"{a['title']}"
         for a in articles
     )
 
     prompt = f"""
-You are an AI industry analyst.
+あなたはAI業界のアナリストです。
 
-Below are today's AI news headlines.
+以下は今日のAIニュースです。
 
 {text}
 
-Analyze the AI ecosystem today.
+次の形式で日本語で分析してください。
 
-Output in this format:
+【今日のAI業界サマリー】
 
-## Major Developments
-(key events)
+【主要トレンド】
+箇条書き3〜5個
 
-## Emerging Trends
-(technical trends like agents, RAG, coding AI)
+【AI企業の動き】
+OpenAI / Google / Anthropic / Metaなど
 
-## Company Activity
-(OpenAI, Google, Anthropic etc)
+【研究トレンド】
+論文や研究の動き
 
-## Research Signals
-(arXiv or academic trends)
-
-Keep it concise.
+簡潔に書いてください。
 """
 
     response = client.chat.completions.create(
