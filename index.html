@@ -2,54 +2,101 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>AIトレンドモニター</title>
+<title>AI Trend Monitor</title>
 
 <style>
 
 body{
-font-family: Arial, sans-serif;
-background:#0f172a;
+font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+background:#0b1220;
 color:white;
-margin:40px;
+margin:0;
+padding:40px;
 }
 
 h1{
-font-size:36px;
+font-size:34px;
 margin-bottom:30px;
 }
 
 h2{
-margin-top:0;
+font-size:20px;
+margin-bottom:15px;
+}
+
+.container{
+max-width:1000px;
+margin:auto;
 }
 
 .card{
-background:#1e293b;
+background:#151c2f;
 padding:25px;
-border-radius:12px;
+border-radius:14px;
 margin-bottom:25px;
+box-shadow:0 4px 12px rgba(0,0,0,0.3);
 }
 
-.article{
-margin-bottom:20px;
+.grid{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:20px;
 }
 
-.summary{
-font-size:14px;
-opacity:0.85;
-margin-top:5px;
+.topic{
+display:flex;
+justify-content:space-between;
+padding:6px 0;
 }
 
-a{
+.badge{
+padding:3px 8px;
+border-radius:6px;
+font-size:12px;
+}
+
+.up{
+background:#16a34a;
+}
+
+.down{
+background:#dc2626;
+}
+
+.flat{
+background:#6b7280;
+}
+
+.repo{
+margin-bottom:10px;
+}
+
+.repo a{
 color:#60a5fa;
 text-decoration:none;
 }
 
-a:hover{
-text-decoration:underline;
+.repo span{
+font-size:13px;
+opacity:0.7;
+margin-left:8px;
 }
 
-ul{
-padding-left:20px;
+.article{
+padding:12px 0;
+border-bottom:1px solid rgba(255,255,255,0.08);
+}
+
+.article a{
+color:#60a5fa;
+font-weight:500;
+text-decoration:none;
+}
+
+.summary{
+font-size:14px;
+opacity:0.8;
+margin-top:4px;
 }
 
 pre{
@@ -57,20 +104,15 @@ white-space:pre-wrap;
 line-height:1.6;
 }
 
-.grid{
-display:grid;
-grid-template-columns:1fr 1fr;
-gap:25px;
-}
-
 </style>
+
 </head>
 
 <body>
 
-<h1>AIトレンドモニター</h1>
+<div class="container">
 
-<!-- AIサマリー -->
+<h1>AI Trend Monitor</h1>
 
 <div class="card">
 
@@ -80,116 +122,124 @@ gap:25px;
 
 </div>
 
-<!-- トピック + GitHub -->
-
 <div class="grid">
 
 <div class="card">
 
-<h2>🔥 今日のAIトピック</h2>
+<h2>🔥 AIトレンド</h2>
 
-<ul id="topics">
-<li>読み込み中...</li>
-</ul>
+<div id="trend-change">読み込み中...</div>
 
 </div>
 
 <div class="card">
 
-<h2>💻 注目AIツール（GitHub）</h2>
+<h2>💻 注目AIツール</h2>
 
-<ul id="github">
-<li>読み込み中...</li>
-</ul>
+<div id="github">読み込み中...</div>
 
 </div>
 
 </div>
-
-<!-- 記事 -->
 
 <div class="card">
 
-<h2>📄 今日のAIニュース</h2>
+<h2>📄 AIニュース</h2>
 
-<div id="articles">
-読み込み中...
+<div id="articles">読み込み中...</div>
+
 </div>
 
 </div>
 
 <script>
 
-/////////////////////////////
-// AIサマリー
-/////////////////////////////
-
 fetch("data/trend_summary.txt")
 .then(r=>r.text())
 .then(text=>{
 document.getElementById("trend").textContent=text
 })
-.catch(()=>{
-document.getElementById("trend").textContent="データがまだ生成されていません"
-})
 
-/////////////////////////////
-// トピックランキング
-/////////////////////////////
-
-fetch("data/topic_ranking.json")
+fetch("data/topic_history.json")
 .then(r=>r.json())
-.then(data=>{
+.then(history=>{
 
-const list=document.getElementById("topics")
+const dates=Object.keys(history).sort()
 
-list.innerHTML=""
+if(dates.length<2){
+document.getElementById("trend-change").textContent="履歴不足"
+return
+}
 
-data.forEach(t=>{
+const today=history[dates[dates.length-1]]
+const yesterday=history[dates[dates.length-2]]
 
-const li=document.createElement("li")
+const container=document.getElementById("trend-change")
 
-li.textContent=`${t.topic} (${t.count})`
+container.innerHTML=""
 
-list.appendChild(li)
+today.forEach(t=>{
+
+let prev=0
+
+yesterday.forEach(y=>{
+if(y.topic===t.topic) prev=y.count
+})
+
+let diff=t.count-prev
+
+let badge="flat"
+let symbol="→"
+
+if(diff>0){
+badge="up"
+symbol="▲"
+}
+
+if(diff<0){
+badge="down"
+symbol="▼"
+}
+
+const div=document.createElement("div")
+
+div.className="topic"
+
+div.innerHTML=`
+<span>${t.topic}</span>
+<span class="badge ${badge}">${symbol}</span>
+`
+
+container.appendChild(div)
 
 })
 
 })
-.catch(()=>{
-document.getElementById("topics").innerHTML="<li>データなし</li>"
-})
-
-/////////////////////////////
-// GitHub AIツール
-/////////////////////////////
 
 fetch("data/github_ai.json")
 .then(r=>r.json())
 .then(data=>{
 
-const list=document.getElementById("github")
+const container=document.getElementById("github")
 
-list.innerHTML=""
+container.innerHTML=""
 
 data.forEach(repo=>{
 
-const li=document.createElement("li")
+const div=document.createElement("div")
 
-li.innerHTML=`<a href="${repo.url}" target="_blank">${repo.name}</a> ⭐${repo.stars}`
+div.className="repo"
 
-list.appendChild(li)
+div.innerHTML=`
+<a href="${repo.url}" target="_blank">${repo.name}</a>
+<span>⭐ ${repo.stars}</span>
+`
+
+container.appendChild(div)
 
 })
 
 })
-.catch(()=>{
-document.getElementById("github").innerHTML="<li>データなし</li>"
-})
-
-/////////////////////////////
-// 記事一覧
-/////////////////////////////
 
 fetch("data/latest.json")
 .then(r=>r.json())
@@ -214,9 +264,6 @@ container.appendChild(div)
 
 })
 
-})
-.catch(()=>{
-document.getElementById("articles").textContent="記事データがありません"
 })
 
 </script>
