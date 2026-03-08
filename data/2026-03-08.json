@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "title": "Building Next-Gen Agentic AI: A Complete Framework for Cognitive Blueprint Driven Runtime Agents with Memory Tools and Validation",
+    "link": "https://www.marktechpost.com/2026/03/07/building-next-gen-agentic-ai-a-complete-framework-for-cognitive-blueprint-driven-runtime-agents-with-memory-tools-and-validation/",
+    "analysis": {
+      "error": "openai_failed"
+    }
+  },
+  {
+    "title": "GoogleCloudPlatform/generative-ai",
+    "link": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "analysis": {
+      "error": "openai_failed"
+    }
+  },
+  {
+    "title": "openai/skills",
+    "link": "https://github.com/openai/skills",
+    "analysis": {
+      "error": "openai_failed"
+    }
+  },
+  {
+    "title": "QwenLM/Qwen-Agent",
+    "link": "https://github.com/QwenLM/Qwen-Agent",
+    "analysis": {
+      "error": "openai_failed"
+    }
+  },
+  {
+    "title": "microsoft/hve-core",
+    "link": "https://github.com/microsoft/hve-core",
+    "analysis": {
+      "error": "openai_failed"
+    }
+  },
+  {
+    "title": "agentjido/jido",
+    "link": "https://github.com/agentjido/jido",
+    "analysis": {
+      "error": "openai_failed"
+    }
+  },
+  {
+    "title": "msitarzewski/agency-agents",
+    "link": "https://github.com/msitarzewski/agency-agents",
+    "analysis": {
+      "error": "openai_failed"
+    }
+  }
+]
