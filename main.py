@@ -1,13 +1,14 @@
 import feedparser
-import requests
 import json
 import os
 import re
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from dateutil import parser
 from openai import OpenAI
 
 # ========= 設定 =========
+
 RSS_FEEDS = [
 
     # research
@@ -19,49 +20,41 @@ RSS_FEEDS = [
     "https://huggingface.co/blog/feed.xml",
     "https://deepmind.google/blog/rss.xml",
 
-    # AI news
+    # news
     "https://www.marktechpost.com/feed/",
     "https://www.artificialintelligence-news.com/feed/",
-
-    # tech media
     "https://venturebeat.com/category/ai/feed/",
 
     # github
     "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "https://github.com/topics/artificial-intelligence.atom"
 ]
 
 KEYWORDS = [
-
-    # LLM
-    "llm",
-    "large language model",
-    "transformer",
-    "rag",
-    "agent",
-    "agents",
-
-    # generative
-    "generative ai",
-    "diffusion",
-    "multimodal",
-
-    # tools
-    "vector database",
-    "embedding",
-
-    # companies / models
-    "gpt",
-    "claude",
-    "gemini",
-    "llama",
+    "llm","large language model","transformer","rag","agent","agents",
+    "generative ai","diffusion","multimodal",
+    "vector database","embedding",
+    "gpt","claude","gemini","llama"
 ]
 
+MAX_FEED_ARTICLES = 10
 MAX_ARTICLES = 20
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# ========= RSS取得 =========
+# ========= HTML除去 =========
+
+def clean_html(text):
+
+    if not text:
+        return ""
+
+    text = re.sub("<.*?>", "", text)
+    text = text.replace("\n", " ")
+    return text.strip()
+
+
+# ========= AI関連判定 =========
+
 def is_ai_related(text):
 
     text = text.lower()
@@ -72,58 +65,76 @@ def is_ai_related(text):
 
     return False
 
-# ========= 記事フィルタリング =========
+
+# ========= RSS取得 =========
+
 def fetch_articles():
+
     articles = []
     today = datetime.now(timezone.utc) - timedelta(days=1)
 
     for url in RSS_FEEDS:
-        print(f"Fetching RSS: {url}")
 
-        feed = feedparser.parse(url, request_headers={
-            "User-Agent": "Mozilla/5.0 (AI Trend Monitor)"
-        })
+        try:
 
-        print(f"Entries found: {len(feed.entries)}")
+            print(f"Fetching RSS: {url}")
 
-        for entry in feed.entries:
-            if "published" in entry:
-                published = parser.parse(entry.published)
+            feed = feedparser.parse(
+                url,
+                request_headers={"User-Agent": "AI-Trend-Monitor"}
+            )
 
-                if published < today:
+            print(f"Entries found: {len(feed.entries)}")
+
+            for entry in feed.entries[:MAX_FEED_ARTICLES]:
+
+                try:
+
+                    if "published" in entry:
+
+                        published = parser.parse(entry.published)
+
+                        if published < today:
+                            continue
+
+                    title = entry.title
+
+                    summary = ""
+
+                    if "summary" in entry:
+                        summary = entry.summary
+                    elif "description" in entry:
+                        summary = entry.description
+
+                    summary = clean_html(summary)[:500]
+
+                    if "arxiv.org" not in url:
+
+                        text = (title + " " + summary[:200]).lower()
+
+                        if not is_ai_related(text):
+                            continue
+
+                    articles.append({
+                        "title": title,
+                        "link": entry.link,
+                        "summary": summary
+                    })
+
+                except Exception as e:
+                    print("Entry skipped:", e)
                     continue
 
-            title = entry.title
-            if "summary" in entry:
-                summary = entry.summary
-            elif "description" in entry:
-                summary = entry.description
-            summary = clean_html(summary)
-            summary = summary[:500]   # 長すぎ防止
+        except Exception as e:
+            print("Feed error:", e)
+            continue
 
-            if "arxiv.org" not in url:
-                text = (title + " " + summary[:200]).lower()
-                if not is_ai_related(text):
-                    continue
-        
-            articles.append({
-                "title": title,
-                "link": entry.link,
-                "summary": summary
-            })
-
-    print(f"Total articles: {len(articles)}")
+    print("Total collected:", len(articles))
     return articles
 
-# ========= HTML除去 =========
-def clean_html(text):
-    if not text:
-        return ""
-    text = re.sub("<.*?>", "", text)  # HTMLタグ削除
-    text = text.replace("\n", " ").strip()
-    return text
 
-# ========= 記事重複削除 =========
+# ========= 重複削除 =========
+
 def remove_duplicates(articles):
 
     seen = set()
@@ -139,61 +150,136 @@ def remove_duplicates(articles):
 
     return unique
 
-# ========= GPT分類 =========
+
+# ========= GPT分析 =========
+
 def analyze_article(article):
+
     prompt = f"""
-    次の記事をIT企業向けに分析してください。
-    記事タイトル: {article['title']}
-    概要: {article['summary']}
+記事をIT企業向けに分析してください
 
-    以下のJSON形式で出力してください:
-    {{
-        "tech_category": "",
-        "tech_maturity": "research/beta/production",
-        "si_business_fit": 1-5,
-        "internal_poc_feasibility": 1-5,
-        "importance_score": 1-5,
-        "summary_200j": ""
-    }}
-    """
+タイトル:
+{article['title']}
 
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.3
-    )
+概要:
+{article['summary']}
 
-    content = response.choices[0].message.content
+JSONで出力:
+
+{{
+"tech_category":"",
+"tech_maturity":"research/beta/production",
+"si_business_fit":1-5,
+"internal_poc_feasibility":1-5,
+"importance_score":1-5,
+"summary_200j":""
+}}
+"""
 
     try:
-        return json.loads(content)
-    except:
-        return {"error": "JSON parse error", "raw": content}
+
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{"role":"user","content":prompt}],
+            temperature=0.3
+        )
+
+        content = response.choices[0].message.content
+
+        try:
+            return json.loads(content)
+
+        except:
+            return {"error":"json_parse","raw":content}
+
+    except Exception as e:
+
+        print("OpenAI error:", e)
+        return {"error":"openai_failed"}
+
+
+# ========= トレンド検出 =========
+
+def detect_trends(articles):
+
+    text = ""
+
+    for a in articles:
+        text += a["title"] + " " + a["summary"] + " "
+
+    text = text.lower()
+
+    words = re.findall(r"[a-zA-Z]{4,}", text)
+
+    counter = Counter(words)
+
+    trends = counter.most_common(20)
+
+    return trends
+
 
 # ========= 保存 =========
+
 def save_results(results):
-    today = datetime.now().strftime("%Y-%m-%d")
+
     os.makedirs("data", exist_ok=True)
+
+    today = datetime.now().strftime("%Y-%m-%d")
+
     filename = f"data/{today}.json"
 
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(results, f, ensure_ascii=False, indent=2)
+    with open(filename,"w",encoding="utf-8") as f:
+        json.dump(results,f,ensure_ascii=False,indent=2)
 
-# ========= 実行 =========
+
+def save_trends(trends):
+
+    os.makedirs("data", exist_ok=True)
+
+    filename = "data/trends.json"
+
+    with open(filename,"w") as f:
+        json.dump(trends,f,indent=2)
+
+
+# ========= main =========
+
 def main():
-    articles = remove_duplicates(fetch_articles())
+
+    articles = fetch_articles()
+
+    articles = remove_duplicates(articles)
+
     articles = articles[:MAX_ARTICLES]
+
     results = []
 
     for article in articles:
-        analysis = analyze_article(article)
-        results.append({
-            "title": article["title"],
-            "link": article["link"],
-            "analysis": analysis
-        })
+
+        try:
+
+            analysis = analyze_article(article)
+
+            results.append({
+                "title":article["title"],
+                "link":article["link"],
+                "analysis":analysis
+            })
+
+        except Exception as e:
+
+            print("Article skipped:", e)
+            continue
+
+
+    trends = detect_trends(articles)
 
     save_results(results)
+
+    save_trends(trends)
+
+    print("Finished")
+
 
 if __name__ == "__main__":
     main()
