@@ -297,6 +297,8 @@ def main():
 
     save_trends(trends)
 
+    generate_trend_summary(articles)
+
     import shutil
     
     shutil.copy(
