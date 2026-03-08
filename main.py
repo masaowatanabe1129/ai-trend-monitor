@@ -172,15 +172,15 @@ def remove_duplicates(articles):
 def analyze_article(article):
 
     prompt = f"""
-以下の記事タイトルを日本語で要約してください。
+以下のAIニュースのタイトルを日本語で簡潔に要約してください。
 
 タイトル:
 {article["title"]}
 
 出力:
-2〜3行の要約
+2〜3行の日本語要約
 """
-
+    
     try:
 
         response = client.chat.completions.create(
@@ -188,8 +188,8 @@ def analyze_article(article):
             messages=[{"role":"user","content":prompt}]
         )
     
-        return response.choices[0].message.content
-
+        content = response.choices[0].message.content.strip()
+    
         try:
             return json.loads(content)
 
@@ -249,30 +249,26 @@ def save_trends(trends):
 
 def generate_trend_summary(articles):
 
-    text = "\n".join(
-        f"{a['title']}"
-        for a in articles
-    )
+    text = "\n".join(a["title"] for a in articles)
 
     prompt = f"""
-あなたはAI業界のアナリストです。
+あなたはAI業界アナリストです。
 
 以下は今日のAIニュースです。
 
 {text}
 
-次の形式で日本語で分析してください。
+日本語で分析してください。
+
+出力:
 
 【今日のAI業界サマリー】
 
 【主要トレンド】
-箇条書き3〜5個
 
 【AI企業の動き】
-OpenAI / Google / Anthropic / Metaなど
 
 【研究トレンド】
-論文や研究の動き
 
 簡潔に書いてください。
 """
@@ -286,6 +282,85 @@ OpenAI / Google / Anthropic / Metaなど
 
     with open("data/trend_summary.txt","w") as f:
         f.write(summary)
+
+# ========= ランキング作成 =========
+
+def generate_topic_ranking(articles):
+
+    text = "\n".join(a["title"] for a in articles)
+
+    prompt = f"""
+以下は今日のAIニュースです。
+
+{text}
+
+ニュースからAI技術トピックを抽出してください。
+
+例
+Agent
+RAG
+AI coding
+Open source LLM
+Multimodal
+
+出力形式(JSON):
+
+[
+{{"topic":"Agent","count":5}},
+{{"topic":"RAG","count":3}}
+]
+
+最大5個。
+"""
+
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[{"role":"user","content":prompt}]
+    )
+
+    import json
+
+    try:
+        ranking = json.loads(response.choices[0].message.content)
+    except:
+        ranking = []
+
+    with open("data/topic_ranking.json","w") as f:
+        json.dump(ranking,f)
+
+# ========= GitHub AIツール取得 =========
+
+def fetch_github_ai_tools():
+
+    import requests
+
+    url = "https://api.github.com/search/repositories"
+
+    params = {
+        "q":"AI agent OR LLM OR AI coding",
+        "sort":"stars",
+        "order":"desc",
+        "per_page":5
+    }
+
+    r = requests.get(url,params=params)
+
+    data = r.json()
+
+    repos = []
+
+    for repo in data.get("items",[]):
+
+        repos.append({
+            "name":repo["name"],
+            "url":repo["html_url"],
+            "stars":repo["stargazers_count"]
+        })
+
+    import json
+
+    with open("data/github_ai.json","w") as f:
+        json.dump(repos,f)
 
 # ========= main =========
 
@@ -308,9 +383,9 @@ def main():
             analysis = analyze_article(article)
 
             results.append({
-                "title":article["title"],
-                "link":article["link"],
-                "analysis":analysis
+                "title": article["title"],
+                "link": article["link"],
+                "analysis": analysis
             })
 
         except Exception as e:
@@ -320,12 +395,16 @@ def main():
 
 
     trends = detect_trends(articles)
-
+    
     save_results(results)
-
+    
     save_trends(trends)
-
+    
     generate_trend_summary(articles)
+    
+    generate_topic_ranking(articles)
+    
+    fetch_github_ai_tools()
 
     import shutil
     
