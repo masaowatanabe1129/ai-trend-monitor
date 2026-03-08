@@ -263,6 +263,8 @@ def save_trends(trends):
 
 def main():
 
+    today = datetime.now().strftime("%Y-%m-%d")   # ←これ追加
+
     articles = fetch_articles()
 
     articles = remove_duplicates(articles)
