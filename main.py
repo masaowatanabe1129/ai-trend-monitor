@@ -2,7 +2,6 @@ import feedparser
 import json
 import os
 import re
-import shutil
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 from dateutil import parser
@@ -296,12 +295,14 @@ def main():
 
     save_trends(trends)
 
-    print("Finished")
-
-
-if __name__ == "__main__":
-    main()
+    import shutil
+    
     shutil.copy(
         f"data/{today}.json",
         "data/latest.json"
     )
+
+    print("Finished")
+
+if __name__ == "__main__":
+    main()
