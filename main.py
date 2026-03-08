@@ -169,39 +169,26 @@ def remove_duplicates(articles):
 
 
 # ========= GPT分析 =========
-
 def analyze_article(article):
 
     prompt = f"""
-記事をIT企業向けに分析してください
+以下の記事タイトルを日本語で要約してください。
 
 タイトル:
-{article['title']}
+{article["title"]}
 
-概要:
-{article['summary']}
-
-JSONで出力:
-
-{{
-"tech_category":"",
-"tech_maturity":"research/beta/production",
-"si_business_fit":1-5,
-"internal_poc_feasibility":1-5,
-"importance_score":1-5,
-"summary_200j":""
-}}
+出力:
+2〜3行の要約
 """
 
     try:
 
         response = client.chat.completions.create(
             model="gpt-4o-mini",
-            messages=[{"role":"user","content":prompt}],
-            temperature=0.3
+            messages=[{"role":"user","content":prompt}]
         )
-
-        content = response.choices[0].message.content
+    
+        return response.choices[0].message.content
 
         try:
             return json.loads(content)
