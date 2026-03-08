@@ -2,11 +2,17 @@
   {
     "title": "GoogleCloudPlatform/generative-ai",
     "link": "https://github.com/GoogleCloudPlatform/generative-ai",
-    "analysis": "Google Cloud Platformの生成AIに関する記事では、AI技術を活用したさまざまなサービスやツールについて解説しています。特に、データ活用や創造的なコンテンツ生成を支援する機能が紹介されています。"
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Google Cloud Platformが生成AIに関する新しい機能やサービスを導入し、企業向けに効果的なAIツールを提供する取り組みを強化している。これにより、ユーザーはより簡単にAI技術を活用できるようになる。"
+    }
   },
   {
     "title": "QwenLM/Qwen-Agent",
     "link": "https://github.com/QwenLM/Qwen-Agent",
-    "analysis": "「QwenLM/Qwen-Agent」は、人工知能の言語モデルおよびそのエージェントに関する情報を提供する記事です。この技術は自然言語処理の分野での進展を目指しており、さまざまな応用が期待されています。"
+    "analysis": {
+      "error": "json_parse",
+      "raw": "QwenLMおよびQwen-Agentは、最新のAI技術を活用した言語モデルとエージェントシステムです。これにより、より高度な自然言語処理や自動化機能を提供します。"
+    }
   }
 ]
