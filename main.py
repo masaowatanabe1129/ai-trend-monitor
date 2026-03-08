@@ -18,14 +18,22 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 # ========= RSS取得 =========
 def fetch_articles():
     articles = []
+
     for url in RSS_FEEDS:
+        print(f"Fetching RSS: {url}")
+
         feed = feedparser.parse(url)
+
+        print(f"Entries found: {len(feed.entries)}")
+
         for entry in feed.entries:
             articles.append({
                 "title": entry.title,
                 "link": entry.link,
                 "summary": entry.summary if "summary" in entry else ""
             })
+
+    print(f"Total articles: {len(articles)}")
     return articles
 
 # ========= GPT分類 =========
