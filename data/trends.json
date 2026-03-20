@@ -16,27 +16,35 @@
     20
   ],
   [
+    "reasoning",
+    17
+  ],
+  [
     "language",
     16
+  ],
+  [
+    "this",
+    13
+  ],
+  [
+    "llms",
+    13
   ],
   [
     "models",
     13
   ],
   [
-    "agent",
-    13
+    "that",
+    12
   ],
   [
-    "memory",
-    11
+    "based",
+    10
   ],
   [
-    "llms",
-    11
-  ],
-  [
-    "model",
+    "with",
     9
   ],
   [
@@ -44,39 +52,31 @@
     9
   ],
   [
-    "this",
-    9
-  ],
-  [
-    "reasoning",
-    8
-  ],
-  [
-    "with",
-    8
-  ],
-  [
-    "based",
-    8
-  ],
-  [
-    "that",
-    8
-  ],
-  [
-    "recursive",
-    8
-  ],
-  [
-    "long",
-    8
+    "agent",
+    7
   ],
   [
     "large",
-    8
+    7
   ],
   [
-    "context",
-    7
+    "routing",
+    6
+  ],
+  [
+    "from",
+    6
+  ],
+  [
+    "present",
+    6
+  ],
+  [
+    "level",
+    6
+  ],
+  [
+    "model",
+    5
   ]
 ]
