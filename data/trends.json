@@ -1,5 +1,13 @@
 [
   [
+    "models",
+    24
+  ],
+  [
+    "language",
+    23
+  ],
+  [
     "arxiv",
     20
   ],
@@ -16,67 +24,59 @@
     20
   ],
   [
-    "language",
-    18
-  ],
-  [
-    "models",
+    "from",
     18
   ],
   [
     "large",
-    16
-  ],
-  [
-    "reasoning",
-    15
-  ],
-  [
-    "llms",
-    13
+    14
   ],
   [
     "this",
+    13
+  ],
+  [
+    "reasoning",
     12
+  ],
+  [
+    "model",
+    11
+  ],
+  [
+    "with",
+    11
   ],
   [
     "that",
     11
   ],
   [
-    "planning",
+    "based",
     9
   ],
   [
-    "existing",
+    "llms",
     9
   ],
   [
-    "systems",
-    8
+    "data",
+    9
   ],
   [
-    "learning",
-    8
+    "reward",
+    9
   ],
   [
-    "with",
-    8
+    "however",
+    7
   ],
   [
     "multi",
-    7
-  ],
-  [
-    "long",
-    7
-  ],
-  [
-    "based",
     6
   ],
   [
-    "generation",
+    "agent",
     6
   ]
 ]
