@@ -1,13 +1,5 @@
 [
   [
-    "models",
-    24
-  ],
-  [
-    "language",
-    23
-  ],
-  [
     "arxiv",
     20
   ],
@@ -24,59 +16,67 @@
     20
   ],
   [
-    "from",
-    18
+    "models",
+    19
   ],
   [
-    "large",
-    14
-  ],
-  [
-    "this",
-    13
-  ],
-  [
-    "reasoning",
-    12
-  ],
-  [
-    "model",
-    11
+    "language",
+    16
   ],
   [
     "with",
-    11
+    15
   ],
   [
     "that",
-    11
+    10
   ],
   [
-    "based",
+    "large",
+    10
+  ],
+  [
+    "emotion",
     9
   ],
   [
-    "llms",
+    "this",
     9
-  ],
-  [
-    "data",
-    9
-  ],
-  [
-    "reward",
-    9
-  ],
-  [
-    "however",
-    7
-  ],
-  [
-    "multi",
-    6
   ],
   [
     "agent",
+    9
+  ],
+  [
+    "often",
+    7
+  ],
+  [
+    "level",
+    7
+  ],
+  [
+    "model",
+    7
+  ],
+  [
+    "llms",
+    7
+  ],
+  [
+    "memory",
+    6
+  ],
+  [
+    "multimodal",
+    6
+  ],
+  [
+    "thought",
+    6
+  ],
+  [
+    "whether",
     6
   ]
 ]
