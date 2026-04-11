@@ -1,13 +1,5 @@
 [
   [
-    "language",
-    23
-  ],
-  [
-    "type",
-    21
-  ],
-  [
     "arxiv",
     20
   ],
@@ -16,67 +8,75 @@
     20
   ],
   [
+    "type",
+    20
+  ],
+  [
     "abstract",
     20
   ],
   [
-    "models",
+    "that",
     19
   ],
   [
-    "with",
-    16
-  ],
-  [
-    "this",
+    "models",
     15
   ],
   [
-    "from",
-    12
-  ],
-  [
-    "that",
-    12
-  ],
-  [
-    "large",
-    11
+    "language",
+    14
   ],
   [
     "reasoning",
+    14
+  ],
+  [
+    "with",
+    10
+  ],
+  [
+    "this",
+    10
+  ],
+  [
+    "from",
+    10
+  ],
+  [
+    "based",
     9
   ],
   [
-    "llms",
+    "speech",
+    9
+  ],
+  [
+    "data",
     8
+  ],
+  [
+    "framework",
+    7
+  ],
+  [
+    "multi",
+    7
+  ],
+  [
+    "emotion",
+    7
+  ],
+  [
+    "large",
+    6
   ],
   [
     "rules",
     6
   ],
   [
-    "study",
+    "existing",
     6
-  ],
-  [
-    "agent",
-    6
-  ],
-  [
-    "agents",
-    6
-  ],
-  [
-    "data",
-    5
-  ],
-  [
-    "hallucination",
-    5
-  ],
-  [
-    "model",
-    5
   ]
 ]
