@@ -1,82 +1,82 @@
 [
   [
+    "that",
+    11
+  ],
+  [
     "arxiv",
-    20
+    10
   ],
   [
     "announce",
-    20
+    10
   ],
   [
     "type",
-    20
+    10
   ],
   [
     "abstract",
-    20
-  ],
-  [
-    "that",
-    19
-  ],
-  [
-    "models",
-    15
-  ],
-  [
-    "language",
-    14
-  ],
-  [
-    "reasoning",
-    14
-  ],
-  [
-    "with",
     10
-  ],
-  [
-    "this",
-    10
-  ],
-  [
-    "from",
-    10
-  ],
-  [
-    "based",
-    9
   ],
   [
     "speech",
     9
   ],
   [
-    "data",
+    "with",
     8
   ],
   [
-    "framework",
+    "from",
+    8
+  ],
+  [
+    "based",
+    8
+  ],
+  [
+    "models",
     7
   ],
   [
-    "multi",
+    "reasoning",
     7
   ],
   [
-    "emotion",
+    "coding",
     7
   ],
   [
-    "large",
+    "language",
     6
   ],
   [
-    "rules",
-    6
+    "text",
+    5
   ],
   [
     "existing",
-    6
+    5
+  ],
+  [
+    "multi",
+    5
+  ],
+  [
+    "claude",
+    5
+  ],
+  [
+    "this",
+    4
+  ],
+  [
+    "model",
+    4
+  ],
+  [
+    "geospatial",
+    4
   ]
 ]
