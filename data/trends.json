@@ -1,82 +1,82 @@
 [
   [
-    "claude",
-    9
+    "models",
+    25
   ],
   [
-    "coding",
-    8
+    "arxiv",
+    20
   ],
   [
-    "code",
-    6
+    "announce",
+    20
   ],
   [
-    "andrej",
-    4
+    "type",
+    20
   ],
   [
-    "karpathy",
-    4
+    "abstract",
+    20
+  ],
+  [
+    "that",
+    15
+  ],
+  [
+    "with",
+    13
+  ],
+  [
+    "language",
+    13
+  ],
+  [
+    "this",
+    12
+  ],
+  [
+    "reasoning",
+    12
+  ],
+  [
+    "text",
+    12
   ],
   [
     "from",
-    4
+    9
   ],
   [
-    "practice",
-    4
+    "model",
+    9
   ],
   [
-    "archon",
-    3
+    "large",
+    9
   ],
   [
-    "make",
-    3
+    "systems",
+    8
   ],
   [
-    "agents",
-    3
+    "learning",
+    8
   ],
   [
-    "your",
-    3
+    "action",
+    7
   ],
   [
-    "tweet",
-    3
+    "planning",
+    6
   ],
   [
-    "first",
-    2
+    "memory",
+    6
   ],
   [
-    "open",
-    2
-  ],
-  [
-    "source",
-    2
-  ],
-  [
-    "harness",
-    2
-  ],
-  [
-    "builder",
-    2
-  ],
-  [
-    "deterministic",
-    2
-  ],
-  [
-    "repeatable",
-    2
-  ],
-  [
-    "them",
-    2
+    "speech",
+    6
   ]
 ]
