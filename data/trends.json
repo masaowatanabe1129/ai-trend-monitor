@@ -1,9 +1,5 @@
 [
   [
-    "models",
-    25
-  ],
-  [
     "arxiv",
     20
   ],
@@ -20,35 +16,35 @@
     20
   ],
   [
-    "that",
-    15
-  ],
-  [
     "with",
-    13
+    17
   ],
   [
     "language",
     13
   ],
   [
+    "models",
+    11
+  ],
+  [
+    "that",
+    11
+  ],
+  [
     "this",
-    12
+    11
   ],
   [
-    "reasoning",
-    12
+    "data",
+    10
   ],
   [
-    "text",
-    12
-  ],
-  [
-    "from",
+    "systems",
     9
   ],
   [
-    "model",
+    "from",
     9
   ],
   [
@@ -56,27 +52,31 @@
     9
   ],
   [
-    "systems",
+    "human",
     8
   ],
   [
-    "learning",
+    "reasoning",
     8
   ],
   [
-    "action",
+    "scientific",
     7
   ],
   [
-    "planning",
+    "criteria",
     6
   ],
   [
-    "memory",
+    "based",
     6
   ],
   [
-    "speech",
+    "they",
+    6
+  ],
+  [
+    "these",
     6
   ]
 ]
