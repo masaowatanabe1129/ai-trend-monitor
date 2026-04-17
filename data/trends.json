@@ -1,9 +1,5 @@
 [
   [
-    "abstract",
-    25
-  ],
-  [
     "arxiv",
     20
   ],
@@ -16,40 +12,24 @@
     20
   ],
   [
-    "models",
-    17
+    "abstract",
+    20
   ],
   [
     "that",
-    13
-  ],
-  [
-    "language",
-    13
+    20
   ],
   [
     "this",
-    12
+    13
   ],
   [
-    "llms",
-    11
-  ],
-  [
-    "large",
-    11
+    "task",
+    10
   ],
   [
     "memory",
-    10
-  ],
-  [
-    "reasoning",
-    10
-  ],
-  [
-    "generation",
-    8
+    9
   ],
   [
     "systems",
@@ -60,11 +40,11 @@
     8
   ],
   [
-    "paper",
-    7
+    "multimodal",
+    8
   ],
   [
-    "self",
+    "paper",
     7
   ],
   [
@@ -76,7 +56,27 @@
     7
   ],
   [
-    "long",
+    "language",
     7
+  ],
+  [
+    "reasoning",
+    7
+  ],
+  [
+    "semantic",
+    7
+  ],
+  [
+    "scientific",
+    6
+  ],
+  [
+    "knowledge",
+    6
+  ],
+  [
+    "multi",
+    6
   ]
 ]
