@@ -1,82 +1,82 @@
 [
   [
-    "arxiv",
-    20
-  ],
-  [
-    "announce",
-    20
-  ],
-  [
     "type",
-    20
-  ],
-  [
-    "abstract",
-    20
-  ],
-  [
-    "models",
-    20
-  ],
-  [
-    "language",
-    15
-  ],
-  [
-    "large",
-    14
-  ],
-  [
-    "agents",
-    13
-  ],
-  [
-    "this",
-    12
-  ],
-  [
-    "reasoning",
     11
   ],
   [
-    "while",
+    "claude",
+    11
+  ],
+  [
+    "arxiv",
     10
   ],
   [
-    "model",
-    9
+    "announce",
+    10
   ],
   [
-    "from",
-    9
+    "abstract",
+    10
+  ],
+  [
+    "with",
+    10
   ],
   [
     "data",
+    9
+  ],
+  [
+    "that",
+    9
+  ],
+  [
+    "models",
     8
   ],
   [
-    "llms",
+    "code",
+    8
+  ],
+  [
+    "optimization",
     7
   ],
   [
-    "they",
+    "graph",
     7
+  ],
+  [
+    "methods",
+    6
+  ],
+  [
+    "this",
+    6
+  ],
+  [
+    "fraud",
+    6
+  ],
+  [
+    "framework",
+    5
+  ],
+  [
+    "real",
+    5
   ],
   [
     "based",
-    7
+    5
   ],
   [
-    "text",
-    7
+    "detection",
+    5
   ],
   [
-    "however",
-    6
-  ],
-  [
-    "agent",
-    6
+    "high",
+    5
   ]
 ]
