@@ -1,82 +1,82 @@
 [
   [
-    "claude",
-    10
+    "type",
+    23
   ],
   [
-    "code",
-    10
+    "abstract",
+    21
   ],
   [
-    "skills",
-    7
+    "arxiv",
+    20
   ],
   [
-    "free",
-    5
+    "announce",
+    20
   ],
   [
-    "anthropic",
-    4
+    "language",
+    20
   ],
   [
-    "nbsp",
-    4
+    "that",
+    16
+  ],
+  [
+    "this",
+    15
+  ],
+  [
+    "models",
+    13
   ],
   [
     "reasoning",
-    3
+    12
   ],
   [
-    "development",
-    3
+    "model",
+    12
   ],
   [
-    "templates",
-    3
+    "with",
+    10
   ],
   [
-    "without",
-    2
+    "which",
+    9
   ],
   [
-    "vectors",
-    2
+    "large",
+    9
   ],
   [
-    "pageindex",
-    2
+    "from",
+    8
   ],
   [
-    "retrieves",
-    2
+    "based",
+    6
   ],
   [
-    "break",
-    2
+    "deployment",
+    6
   ],
   [
-    "similarity",
-    2
+    "agents",
+    6
   ],
   [
-    "into",
-    2
+    "data",
+    6
   ],
   [
-    "proxy",
-    2
+    "knowledge",
+    6
   ],
   [
-    "what",
-    2
-  ],
-  [
-    "like",
-    2
-  ],
-  [
-    "vscode",
-    2
+    "retrieval",
+    6
   ]
 ]
