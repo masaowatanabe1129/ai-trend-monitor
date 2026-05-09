@@ -1,9 +1,5 @@
 [
   [
-    "abstract",
-    21
-  ],
-  [
     "arxiv",
     20
   ],
@@ -16,7 +12,11 @@
     20
   ],
   [
-    "that",
+    "abstract",
+    20
+  ],
+  [
+    "language",
     16
   ],
   [
@@ -24,59 +24,59 @@
     15
   ],
   [
-    "language",
+    "with",
     12
+  ],
+  [
+    "evidence",
+    11
   ],
   [
     "this",
-    12
-  ],
-  [
-    "llms",
-    12
-  ],
-  [
-    "reasoning",
-    10
-  ],
-  [
-    "based",
-    10
+    11
   ],
   [
     "large",
-    10
+    11
   ],
   [
     "model",
     10
   ],
   [
-    "with",
-    10
+    "reasoning",
+    9
+  ],
+  [
+    "that",
+    9
+  ],
+  [
+    "generation",
+    9
+  ],
+  [
+    "multi",
+    9
   ],
   [
     "from",
     8
   ],
   [
-    "methods",
-    8
-  ],
-  [
-    "have",
+    "retrieval",
     7
   ],
   [
-    "their",
+    "context",
     7
   ],
   [
-    "languages",
-    7
+    "agents",
+    6
   ],
   [
-    "performance",
+    "settings",
     6
   ]
 ]
