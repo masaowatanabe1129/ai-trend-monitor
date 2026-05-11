@@ -1,58 +1,34 @@
 [
   [
-    "coding",
-    12
+    "chrome",
+    6
   ],
   [
-    "agents",
-    10
+    "devtools",
+    6
   ],
   [
-    "development",
-    7
+    "gemini",
+    5
   ],
   [
     "claude",
-    7
-  ],
-  [
-    "skills",
-    7
-  ],
-  [
-    "research",
-    7
-  ],
-  [
-    "spec",
-    6
-  ],
-  [
-    "driven",
-    6
-  ],
-  [
-    "with",
-    6
-  ],
-  [
-    "code",
-    6
-  ],
-  [
-    "that",
     5
   ],
   [
-    "local",
+    "agents",
     5
   ],
   [
-    "deep",
+    "coding",
     5
   ],
   [
-    "this",
+    "nadirclaw",
+    4
+  ],
+  [
+    "model",
     4
   ],
   [
@@ -60,23 +36,47 @@
     4
   ],
   [
-    "free",
-    4
-  ],
-  [
-    "best",
+    "vector",
     3
   ],
   [
-    "tools",
+    "databases",
     3
   ],
   [
-    "production",
+    "pricing",
     3
   ],
   [
-    "engineering",
+    "scale",
+    3
+  ],
+  [
+    "architecture",
+    3
+  ],
+  [
+    "nine",
+    3
+  ],
+  [
+    "this",
+    3
+  ],
+  [
+    "routing",
+    3
+  ],
+  [
+    "system",
+    3
+  ],
+  [
+    "with",
+    3
+  ],
+  [
+    "local",
     3
   ]
 ]
