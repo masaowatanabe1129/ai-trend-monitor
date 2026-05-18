@@ -1,82 +1,82 @@
 [
   [
-    "agent",
-    26
-  ],
-  [
     "skills",
-    15
+    8
   ],
   [
-    "that",
-    13
-  ],
-  [
-    "arxiv",
-    10
-  ],
-  [
-    "announce",
-    10
-  ],
-  [
-    "type",
-    10
-  ],
-  [
-    "abstract",
-    10
+    "agent",
+    7
   ],
   [
     "with",
-    10
-  ],
-  [
-    "based",
-    9
-  ],
-  [
-    "from",
-    8
-  ],
-  [
-    "agents",
-    8
-  ],
-  [
-    "models",
-    8
-  ],
-  [
-    "scientific",
-    8
-  ],
-  [
-    "claude",
-    8
-  ],
-  [
-    "framework",
     6
   ],
   [
-    "agentic",
+    "claude",
+    6
+  ],
+  [
+    "code",
+    6
+  ],
+  [
+    "scientific",
     5
   ],
   [
-    "this",
+    "codegraph",
     5
   ],
   [
-    "self",
-    5
+    "benchmark",
+    3
   ],
   [
-    "platform",
-    5
+    "instruction",
+    3
   ],
   [
-    "orchestration",
-    4
+    "tuned",
+    3
+  ],
+  [
+    "gptq",
+    3
+  ],
+  [
+    "quantization",
+    3
+  ],
+  [
+    "that",
+    3
+  ],
+  [
+    "your",
+    3
+  ],
+  [
+    "fewer",
+    3
+  ],
+  [
+    "coding",
+    2
+  ],
+  [
+    "implementation",
+    2
+  ],
+  [
+    "compress",
+    2
+  ],
+  [
+    "llms",
+    2
+  ],
+  [
+    "smoothquant",
+    2
   ]
 ]
