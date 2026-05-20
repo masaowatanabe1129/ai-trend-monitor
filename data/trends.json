@@ -1,7 +1,7 @@
 [
   [
     "arxiv",
-    20
+    22
   ],
   [
     "announce",
@@ -16,67 +16,67 @@
     20
   ],
   [
-    "language",
-    15
-  ],
-  [
-    "this",
+    "that",
     14
   ],
   [
-    "that",
+    "agents",
     13
   ],
   [
-    "model",
+    "language",
     13
   ],
   [
-    "models",
-    11
+    "large",
+    12
+  ],
+  [
+    "from",
+    10
   ],
   [
     "agent",
     10
   ],
   [
-    "from",
+    "model",
     9
   ],
   [
-    "large",
+    "with",
     9
   ],
   [
-    "human",
+    "models",
+    9
+  ],
+  [
+    "based",
     8
   ],
   [
-    "across",
+    "knowledge",
     8
   ],
   [
-    "learning",
+    "this",
+    8
+  ],
+  [
+    "requires",
     7
   ],
   [
-    "legal",
+    "reasoning",
     7
   ],
   [
-    "through",
-    6
-  ],
-  [
-    "systems",
-    6
+    "multi",
+    7
   ],
   [
     "task",
-    6
-  ],
-  [
-    "data",
     6
   ]
 ]
