@@ -1,14 +1,14 @@
 [
   [
-    "arxiv",
-    22
+    "type",
+    21
   ],
   [
-    "announce",
+    "arxiv",
     20
   ],
   [
-    "type",
+    "announce",
     20
   ],
   [
@@ -16,67 +16,67 @@
     20
   ],
   [
-    "that",
-    14
-  ],
-  [
-    "agents",
-    13
-  ],
-  [
     "language",
+    17
+  ],
+  [
+    "models",
+    17
+  ],
+  [
+    "that",
     13
   ],
   [
-    "large",
-    12
-  ],
-  [
-    "from",
-    10
+    "data",
+    11
   ],
   [
     "agent",
+    11
+  ],
+  [
+    "multi",
+    11
+  ],
+  [
+    "agents",
+    11
+  ],
+  [
+    "large",
     10
   ],
   [
-    "model",
-    9
+    "llms",
+    10
   ],
   [
     "with",
     9
   ],
   [
-    "models",
+    "model",
     9
   ],
   [
-    "based",
-    8
-  ],
-  [
-    "knowledge",
-    8
-  ],
-  [
     "this",
-    8
-  ],
-  [
-    "requires",
-    7
-  ],
-  [
-    "reasoning",
-    7
-  ],
-  [
-    "multi",
-    7
+    9
   ],
   [
     "task",
-    6
+    9
+  ],
+  [
+    "performance",
+    8
+  ],
+  [
+    "training",
+    8
+  ],
+  [
+    "reasoning",
+    8
   ]
 ]
