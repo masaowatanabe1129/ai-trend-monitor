@@ -1,7 +1,7 @@
 [
   [
-    "type",
-    21
+    "models",
+    24
   ],
   [
     "arxiv",
@@ -12,63 +12,39 @@
     20
   ],
   [
+    "type",
+    20
+  ],
+  [
     "abstract",
     20
   ],
   [
     "language",
-    17
-  ],
-  [
-    "models",
-    17
-  ],
-  [
-    "that",
-    13
+    20
   ],
   [
     "data",
-    11
+    13
   ],
   [
-    "agent",
-    11
+    "large",
+    12
+  ],
+  [
+    "with",
+    12
   ],
   [
     "multi",
     11
   ],
   [
-    "agents",
-    11
-  ],
-  [
-    "large",
-    10
+    "performance",
+    8
   ],
   [
     "llms",
-    10
-  ],
-  [
-    "with",
-    9
-  ],
-  [
-    "model",
-    9
-  ],
-  [
-    "this",
-    9
-  ],
-  [
-    "task",
-    9
-  ],
-  [
-    "performance",
     8
   ],
   [
@@ -76,7 +52,31 @@
     8
   ],
   [
-    "reasoning",
+    "model",
     8
+  ],
+  [
+    "that",
+    8
+  ],
+  [
+    "this",
+    8
+  ],
+  [
+    "from",
+    8
+  ],
+  [
+    "task",
+    8
+  ],
+  [
+    "study",
+    7
+  ],
+  [
+    "reasoning",
+    7
   ]
 ]
