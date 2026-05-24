@@ -1,82 +1,82 @@
 [
   [
-    "arxiv",
-    20
-  ],
-  [
-    "announce",
-    20
-  ],
-  [
-    "type",
-    20
-  ],
-  [
-    "abstract",
-    20
-  ],
-  [
-    "that",
-    16
-  ],
-  [
-    "language",
-    14
-  ],
-  [
-    "models",
-    11
-  ],
-  [
-    "based",
-    11
-  ],
-  [
-    "llms",
+    "code",
     10
   ],
   [
-    "large",
+    "claude",
     9
   ],
   [
-    "this",
-    9
-  ],
-  [
-    "safety",
-    8
-  ],
-  [
-    "these",
+    "plugins",
     7
   ],
   [
-    "information",
+    "skills",
     7
   ],
   [
-    "systems",
-    7
-  ],
-  [
-    "model",
-    7
-  ],
-  [
-    "learning",
+    "chrome",
     6
   ],
   [
-    "world",
+    "devtools",
     6
+  ],
+  [
+    "cursor",
+    5
+  ],
+  [
+    "agent",
+    5
+  ],
+  [
+    "coding",
+    5
+  ],
+  [
+    "agents",
+    5
+  ],
+  [
+    "that",
+    4
+  ],
+  [
+    "knowledge",
+    4
+  ],
+  [
+    "codex",
+    4
   ],
   [
     "with",
-    6
+    4
   ],
   [
-    "optimization",
-    6
+    "directory",
+    3
+  ],
+  [
+    "plugin",
+    3
+  ],
+  [
+    "more",
+    3
+  ],
+  [
+    "codegraph",
+    3
+  ],
+  [
+    "graph",
+    3
+  ],
+  [
+    "fewer",
+    3
   ]
 ]
