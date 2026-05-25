@@ -1,19 +1,43 @@
 [
   [
     "code",
-    10
+    15
   ],
   [
     "claude",
+    15
+  ],
+  [
+    "skills",
+    14
+  ],
+  [
+    "agent",
     9
+  ],
+  [
+    "coding",
+    8
+  ],
+  [
+    "agents",
+    8
+  ],
+  [
+    "with",
+    7
   ],
   [
     "plugins",
     7
   ],
   [
-    "skills",
-    7
+    "that",
+    6
+  ],
+  [
+    "cursor",
+    6
   ],
   [
     "chrome",
@@ -24,23 +48,23 @@
     6
   ],
   [
-    "cursor",
+    "codex",
     5
   ],
   [
-    "agent",
+    "cybersecurity",
     5
   ],
   [
-    "coding",
-    5
+    "webwright",
+    4
   ],
   [
-    "agents",
-    5
+    "framework",
+    4
   ],
   [
-    "that",
+    "from",
     4
   ],
   [
@@ -48,35 +72,11 @@
     4
   ],
   [
-    "codex",
+    "copilot",
     4
   ],
   [
-    "with",
+    "anthropic",
     4
-  ],
-  [
-    "directory",
-    3
-  ],
-  [
-    "plugin",
-    3
-  ],
-  [
-    "more",
-    3
-  ],
-  [
-    "codegraph",
-    3
-  ],
-  [
-    "graph",
-    3
-  ],
-  [
-    "fewer",
-    3
   ]
 ]
