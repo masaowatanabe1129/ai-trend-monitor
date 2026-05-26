@@ -1,82 +1,82 @@
 [
   [
-    "code",
-    15
+    "type",
+    27
   ],
   [
-    "claude",
-    15
+    "arxiv",
+    20
   ],
   [
-    "skills",
-    14
+    "announce",
+    20
   ],
   [
-    "agent",
-    9
+    "abstract",
+    20
   ],
   [
-    "coding",
-    8
+    "language",
+    18
   ],
   [
-    "agents",
-    8
+    "models",
+    16
+  ],
+  [
+    "large",
+    11
+  ],
+  [
+    "from",
+    11
   ],
   [
     "with",
-    7
+    9
   ],
   [
-    "plugins",
+    "reasoning",
+    9
+  ],
+  [
+    "this",
+    8
+  ],
+  [
+    "systems",
     7
   ],
   [
     "that",
+    7
+  ],
+  [
+    "llms",
+    7
+  ],
+  [
+    "into",
     6
   ],
   [
-    "cursor",
+    "agentic",
     6
   ],
   [
-    "chrome",
+    "research",
     6
   ],
   [
-    "devtools",
+    "level",
     6
   ],
   [
-    "codex",
-    5
+    "agents",
+    6
   ],
   [
-    "cybersecurity",
-    5
-  ],
-  [
-    "webwright",
-    4
-  ],
-  [
-    "framework",
-    4
-  ],
-  [
-    "from",
-    4
-  ],
-  [
-    "knowledge",
-    4
-  ],
-  [
-    "copilot",
-    4
-  ],
-  [
-    "anthropic",
-    4
+    "training",
+    6
   ]
 ]
