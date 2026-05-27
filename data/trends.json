@@ -1,14 +1,14 @@
 [
   [
-    "type",
-    27
-  ],
-  [
     "arxiv",
     20
   ],
   [
     "announce",
+    20
+  ],
+  [
+    "type",
     20
   ],
   [
@@ -25,58 +25,58 @@
   ],
   [
     "large",
-    11
-  ],
-  [
-    "from",
-    11
-  ],
-  [
-    "with",
-    9
-  ],
-  [
-    "reasoning",
-    9
-  ],
-  [
-    "this",
-    8
-  ],
-  [
-    "systems",
-    7
-  ],
-  [
-    "that",
-    7
+    15
   ],
   [
     "llms",
+    13
+  ],
+  [
+    "this",
+    10
+  ],
+  [
+    "speech",
+    8
+  ],
+  [
+    "framework",
     7
   ],
   [
-    "into",
+    "their",
     6
   ],
   [
-    "agentic",
+    "that",
     6
   ],
   [
-    "research",
+    "however",
     6
   ],
   [
-    "level",
+    "time",
     6
   ],
   [
-    "agents",
+    "both",
     6
   ],
   [
-    "training",
+    "modeling",
     6
+  ],
+  [
+    "data",
+    6
+  ],
+  [
+    "optimization",
+    6
+  ],
+  [
+    "these",
+    5
   ]
 ]
