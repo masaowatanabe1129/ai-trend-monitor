@@ -1,5 +1,9 @@
 [
   [
+    "abstract",
+    21
+  ],
+  [
     "arxiv",
     20
   ],
@@ -12,71 +16,67 @@
     20
   ],
   [
-    "abstract",
-    20
-  ],
-  [
     "language",
-    18
-  ],
-  [
-    "models",
-    16
-  ],
-  [
-    "large",
     15
   ],
   [
-    "llms",
+    "large",
+    14
+  ],
+  [
+    "models",
+    14
+  ],
+  [
+    "from",
     13
+  ],
+  [
+    "that",
+    12
+  ],
+  [
+    "agents",
+    12
+  ],
+  [
+    "llms",
+    10
   ],
   [
     "this",
     10
   ],
   [
-    "speech",
+    "memory",
+    10
+  ],
+  [
+    "model",
+    10
+  ],
+  [
+    "agent",
+    9
+  ],
+  [
+    "with",
     8
   ],
   [
-    "framework",
-    7
-  ],
-  [
-    "their",
-    6
-  ],
-  [
-    "that",
-    6
-  ],
-  [
-    "however",
-    6
-  ],
-  [
-    "time",
-    6
-  ],
-  [
-    "both",
-    6
-  ],
-  [
-    "modeling",
-    6
+    "reasoning",
+    8
   ],
   [
     "data",
-    6
+    7
   ],
   [
-    "optimization",
-    6
+    "long",
+    7
   ],
   [
-    "these",
-    5
+    "context",
+    7
   ]
 ]
