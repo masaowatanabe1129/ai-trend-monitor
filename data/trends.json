@@ -1,82 +1,82 @@
 [
   [
-    "arxiv",
-    20
+    "code",
+    10
   ],
   [
-    "announce",
-    20
+    "plugin",
+    7
   ],
   [
-    "type",
-    20
+    "cursor",
+    6
   ],
   [
-    "abstract",
-    20
+    "engineering",
+    5
   ],
   [
-    "models",
-    17
+    "claude",
+    5
+  ],
+  [
+    "your",
+    5
+  ],
+  [
+    "text",
+    4
   ],
   [
     "that",
-    16
+    4
+  ],
+  [
+    "plugins",
+    4
+  ],
+  [
+    "parsing",
+    4
+  ],
+  [
+    "speech",
+    3
+  ],
+  [
+    "models",
+    3
+  ],
+  [
+    "fast",
+    3
   ],
   [
     "language",
-    14
+    3
   ],
   [
-    "this",
-    12
+    "official",
+    3
   ],
   [
-    "with",
-    10
+    "each",
+    3
   ],
   [
-    "large",
-    10
+    "codebase",
+    3
   ],
   [
-    "their",
-    8
+    "tool",
+    3
   ],
   [
-    "llms",
-    8
+    "complex",
+    3
   ],
   [
-    "arabic",
-    8
-  ],
-  [
-    "methods",
-    7
-  ],
-  [
-    "existing",
-    7
-  ],
-  [
-    "from",
-    7
-  ],
-  [
-    "policy",
-    6
-  ],
-  [
-    "based",
-    6
-  ],
-  [
-    "reasoning",
-    6
-  ],
-  [
-    "behavior",
-    5
+    "liteparse",
+    3
   ]
 ]
