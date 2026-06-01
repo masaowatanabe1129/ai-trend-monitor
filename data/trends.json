@@ -1,22 +1,26 @@
 [
   [
     "code",
-    10
-  ],
-  [
-    "plugin",
-    7
-  ],
-  [
-    "cursor",
-    6
-  ],
-  [
-    "engineering",
-    5
+    12
   ],
   [
     "claude",
+    8
+  ],
+  [
+    "plugin",
+    8
+  ],
+  [
+    "cursor",
+    7
+  ],
+  [
+    "harness",
+    6
+  ],
+  [
+    "that",
     5
   ],
   [
@@ -24,35 +28,39 @@
     5
   ],
   [
-    "text",
-    4
+    "language",
+    5
   ],
   [
-    "that",
-    4
+    "engineering",
+    5
   ],
   [
     "plugins",
     4
   ],
   [
-    "parsing",
+    "agent",
     4
   ],
   [
-    "speech",
+    "skills",
+    4
+  ],
+  [
+    "team",
+    4
+  ],
+  [
+    "english",
+    4
+  ],
+  [
+    "codebase",
     3
   ],
   [
-    "models",
-    3
-  ],
-  [
-    "fast",
-    3
-  ],
-  [
-    "language",
+    "workflows",
     3
   ],
   [
@@ -64,19 +72,11 @@
     3
   ],
   [
-    "codebase",
+    "architecture",
     3
   ],
   [
-    "tool",
-    3
-  ],
-  [
-    "complex",
-    3
-  ],
-  [
-    "liteparse",
-    3
+    "agentic",
+    2
   ]
 ]
