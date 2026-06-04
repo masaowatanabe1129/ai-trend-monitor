@@ -1,5 +1,9 @@
 [
   [
+    "reasoning",
+    23
+  ],
+  [
     "arxiv",
     20
   ],
@@ -16,67 +20,63 @@
     20
   ],
   [
-    "multi",
-    14
-  ],
-  [
-    "model",
-    14
-  ],
-  [
     "language",
+    19
+  ],
+  [
+    "models",
+    19
+  ],
+  [
+    "large",
+    17
+  ],
+  [
+    "this",
     14
+  ],
+  [
+    "llms",
+    12
+  ],
+  [
+    "from",
+    12
   ],
   [
     "that",
     12
   ],
   [
-    "models",
-    10
-  ],
-  [
-    "based",
-    10
-  ],
-  [
-    "from",
+    "systems",
     8
   ],
   [
-    "decoding",
-    8
-  ],
-  [
-    "this",
+    "model",
     7
   ],
   [
-    "optimization",
+    "work",
     7
   ],
   [
-    "framework",
+    "context",
     7
+  ],
+  [
+    "memory",
+    6
+  ],
+  [
+    "representations",
+    6
   ],
   [
     "with",
-    7
-  ],
-  [
-    "large",
-    7
-  ],
-  [
-    "under",
     6
   ],
   [
-    "systems",
-    6
-  ],
-  [
-    "time",
+    "agent",
     6
   ]
 ]
