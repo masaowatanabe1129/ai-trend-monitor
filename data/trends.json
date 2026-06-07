@@ -1,82 +1,82 @@
 [
   [
     "arxiv",
-    20
+    10
   ],
   [
     "announce",
-    20
+    10
   ],
   [
     "type",
-    20
+    10
   ],
   [
     "abstract",
-    20
-  ],
-  [
-    "language",
-    20
-  ],
-  [
-    "models",
-    18
+    10
   ],
   [
     "that",
-    17
-  ],
-  [
-    "this",
-    12
-  ],
-  [
-    "reasoning",
-    11
-  ],
-  [
-    "agents",
-    10
-  ],
-  [
-    "large",
-    10
-  ],
-  [
-    "with",
-    10
-  ],
-  [
-    "data",
-    10
-  ],
-  [
-    "based",
     9
   ],
   [
-    "model",
-    8
+    "agents",
+    7
+  ],
+  [
+    "from",
+    7
   ],
   [
     "agent",
-    8
+    7
+  ],
+  [
+    "this",
+    6
+  ],
+  [
+    "language",
+    6
+  ],
+  [
+    "framework",
+    6
   ],
   [
     "multi",
-    7
+    5
   ],
   [
-    "benchmark",
-    7
+    "context",
+    5
   ],
   [
-    "natural",
-    6
+    "knowledge",
+    5
   ],
   [
-    "llms",
-    6
+    "copilotkit",
+    5
+  ],
+  [
+    "models",
+    4
+  ],
+  [
+    "often",
+    4
+  ],
+  [
+    "inference",
+    4
+  ],
+  [
+    "existing",
+    4
+  ],
+  [
+    "time",
+    4
   ]
 ]
