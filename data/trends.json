@@ -1,9 +1,5 @@
 [
   [
-    "abstract",
-    21
-  ],
-  [
     "arxiv",
     20
   ],
@@ -16,67 +12,71 @@
     20
   ],
   [
-    "this",
-    15
-  ],
-  [
-    "model",
-    14
-  ],
-  [
-    "large",
-    13
+    "abstract",
+    20
   ],
   [
     "that",
-    12
-  ],
-  [
-    "language",
-    12
+    18
   ],
   [
     "models",
-    12
+    14
+  ],
+  [
+    "language",
+    13
+  ],
+  [
+    "agent",
+    13
   ],
   [
     "from",
-    10
+    11
   ],
   [
-    "systems",
+    "large",
+    11
+  ],
+  [
+    "multi",
     9
   ],
   [
-    "world",
+    "this",
     8
+  ],
+  [
+    "reasoning",
+    8
+  ],
+  [
+    "with",
+    8
+  ],
+  [
+    "inference",
+    7
+  ],
+  [
+    "structured",
+    7
   ],
   [
     "agents",
-    8
+    7
   ],
   [
-    "using",
-    8
-  ],
-  [
-    "problem",
+    "often",
     7
   ],
   [
     "llms",
-    7
+    6
   ],
   [
-    "real",
-    7
-  ],
-  [
-    "context",
-    7
-  ],
-  [
-    "based",
-    7
+    "learning",
+    6
   ]
 ]
