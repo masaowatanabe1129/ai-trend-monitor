@@ -1,5 +1,9 @@
 [
   [
+    "abstract",
+    21
+  ],
+  [
     "arxiv",
     20
   ],
@@ -12,63 +16,55 @@
     20
   ],
   [
-    "abstract",
-    20
-  ],
-  [
-    "that",
-    18
-  ],
-  [
     "models",
-    14
-  ],
-  [
-    "language",
     13
-  ],
-  [
-    "agent",
-    13
-  ],
-  [
-    "from",
-    11
-  ],
-  [
-    "large",
-    11
-  ],
-  [
-    "multi",
-    9
   ],
   [
     "this",
-    8
-  ],
-  [
-    "reasoning",
-    8
+    13
   ],
   [
     "with",
-    8
+    12
   ],
   [
-    "inference",
-    7
+    "reasoning",
+    11
   ],
   [
-    "structured",
-    7
+    "tool",
+    10
+  ],
+  [
+    "large",
+    10
+  ],
+  [
+    "language",
+    10
   ],
   [
     "agents",
+    10
+  ],
+  [
+    "generation",
+    9
+  ],
+  [
+    "from",
+    8
+  ],
+  [
+    "that",
     7
   ],
   [
-    "often",
+    "level",
+    7
+  ],
+  [
+    "clinical",
     7
   ],
   [
@@ -76,7 +72,11 @@
     6
   ],
   [
-    "learning",
+    "agent",
+    6
+  ],
+  [
+    "systems",
     6
   ]
 ]
