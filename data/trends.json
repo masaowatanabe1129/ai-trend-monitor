@@ -1,43 +1,23 @@
 [
   [
+    "agents",
+    6
+  ],
+  [
     "skills",
     5
   ],
   [
-    "anthropic",
+    "coding",
+    4
+  ],
+  [
+    "agentsview",
+    4
+  ],
+  [
+    "install",
     3
-  ],
-  [
-    "government",
-    3
-  ],
-  [
-    "agents",
-    3
-  ],
-  [
-    "disables",
-    2
-  ],
-  [
-    "claude",
-    2
-  ],
-  [
-    "fable",
-    2
-  ],
-  [
-    "mythos",
-    2
-  ],
-  [
-    "after",
-    2
-  ],
-  [
-    "order",
-    2
   ],
   [
     "agent",
@@ -56,27 +36,47 @@
     2
   ],
   [
-    "coding",
+    "across",
     2
   ],
   [
-    "shutdown",
+    "local",
+    2
+  ],
+  [
+    "https",
+    2
+  ],
+  [
+    "addyosmani",
     1
   ],
   [
-    "followed",
+    "encode",
     1
   ],
   [
-    "export",
+    "workflows",
     1
   ],
   [
-    "control",
+    "quality",
     1
   ],
   [
-    "directive",
+    "gates",
+    1
+  ],
+  [
+    "best",
+    1
+  ],
+  [
+    "practices",
+    1
+  ],
+  [
+    "that",
     1
   ]
 ]
