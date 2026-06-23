@@ -4,20 +4,16 @@
     12
   ],
   [
-    "build",
-    5
-  ],
-  [
-    "with",
-    5
+    "skills",
+    6
   ],
   [
     "video",
     5
   ],
   [
-    "full",
-    4
+    "cybersecurity",
+    5
   ],
   [
     "open",
@@ -28,20 +24,8 @@
     4
   ],
   [
-    "insomnia",
-    4
-  ],
-  [
-    "crawlee",
-    3
-  ],
-  [
-    "python",
-    3
-  ],
-  [
     "production",
-    3
+    4
   ],
   [
     "coding",
@@ -52,31 +36,47 @@
     3
   ],
   [
-    "server",
+    "full",
     3
   ],
   [
-    "client",
+    "deerflow",
     3
   ],
   [
-    "apis",
+    "code",
     3
   ],
   [
-    "using",
+    "agents",
     3
   ],
   [
-    "crawling",
+    "openmontage",
     2
   ],
   [
-    "pipeline",
+    "first",
     2
   ],
   [
-    "robots",
+    "agentic",
+    2
+  ],
+  [
+    "system",
+    2
+  ],
+  [
+    "pipelines",
+    2
+  ],
+  [
+    "tools",
+    2
+  ],
+  [
+    "agent",
     2
   ]
 ]
