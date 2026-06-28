@@ -1,82 +1,82 @@
 [
   [
-    "type",
-    21
-  ],
-  [
     "abstract",
-    21
+    11
   ],
   [
     "arxiv",
-    20
+    10
   ],
   [
     "announce",
-    20
+    10
   ],
   [
-    "that",
-    18
-  ],
-  [
-    "models",
-    15
-  ],
-  [
-    "language",
-    13
+    "type",
+    10
   ],
   [
     "this",
-    12
-  ],
-  [
-    "reasoning",
     9
   ],
   [
+    "agent",
+    9
+  ],
+  [
+    "that",
+    8
+  ],
+  [
     "model",
-    8
+    6
   ],
   [
-    "large",
-    8
+    "models",
+    5
   ],
   [
-    "context",
-    8
+    "refusal",
+    5
   ],
   [
-    "data",
-    7
+    "persona",
+    5
   ],
   [
-    "from",
-    7
+    "governance",
+    5
   ],
   [
-    "systems",
-    7
+    "such",
+    4
+  ],
+  [
+    "analysis",
+    4
+  ],
+  [
+    "information",
+    4
+  ],
+  [
+    "berkshire",
+    4
+  ],
+  [
+    "claude",
+    4
   ],
   [
     "with",
-    6
+    3
   ],
   [
-    "present",
-    6
+    "behavior",
+    3
   ],
   [
-    "benchmark",
-    6
-  ],
-  [
-    "study",
-    6
-  ],
-  [
-    "agent",
-    6
+    "which",
+    3
   ]
 ]
