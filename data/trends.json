@@ -1,62 +1,26 @@
 [
   [
-    "abstract",
-    11
+    "code",
+    7
   ],
   [
-    "arxiv",
-    10
-  ],
-  [
-    "announce",
-    10
-  ],
-  [
-    "type",
-    10
-  ],
-  [
-    "this",
-    9
-  ],
-  [
-    "agent",
-    9
-  ],
-  [
-    "that",
-    8
-  ],
-  [
-    "model",
+    "claude",
     6
   ],
   [
-    "models",
+    "with",
     5
   ],
   [
-    "refusal",
+    "website",
     5
   ],
   [
-    "persona",
-    5
-  ],
-  [
-    "governance",
-    5
-  ],
-  [
-    "such",
+    "traces",
     4
   ],
   [
-    "analysis",
-    4
-  ],
-  [
-    "information",
+    "tool",
     4
   ],
   [
@@ -64,19 +28,55 @@
     4
   ],
   [
-    "claude",
+    "agent",
     4
   ],
   [
-    "with",
+    "stable",
     3
   ],
   [
-    "behavior",
+    "fable",
     3
   ],
   [
-    "which",
+    "workflow",
     3
+  ],
+  [
+    "colab",
+    3
+  ],
+  [
+    "calls",
+    3
+  ],
+  [
+    "liquid",
+    3
+  ],
+  [
+    "device",
+    3
+  ],
+  [
+    "built",
+    3
+  ],
+  [
+    "like",
+    3
+  ],
+  [
+    "template",
+    3
+  ],
+  [
+    "coding",
+    3
+  ],
+  [
+    "building",
+    2
   ]
 ]
