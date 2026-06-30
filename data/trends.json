@@ -1,82 +1,82 @@
 [
   [
-    "code",
-    7
+    "abstract",
+    22
   ],
   [
-    "claude",
-    6
+    "arxiv",
+    20
+  ],
+  [
+    "announce",
+    20
+  ],
+  [
+    "type",
+    20
+  ],
+  [
+    "that",
+    19
+  ],
+  [
+    "models",
+    17
   ],
   [
     "with",
-    5
+    15
   ],
   [
-    "website",
-    5
+    "model",
+    12
   ],
   [
-    "traces",
-    4
+    "language",
+    11
   ],
   [
-    "tool",
-    4
+    "this",
+    10
   ],
   [
-    "berkshire",
-    4
+    "training",
+    9
   ],
   [
-    "agent",
-    4
+    "agents",
+    9
   ],
   [
-    "stable",
-    3
+    "world",
+    9
   ],
   [
-    "fable",
-    3
+    "planning",
+    7
   ],
   [
-    "workflow",
-    3
+    "reasoning",
+    7
   ],
   [
-    "colab",
-    3
+    "framework",
+    7
   ],
   [
-    "calls",
-    3
+    "large",
+    6
   ],
   [
-    "liquid",
-    3
+    "local",
+    6
   ],
   [
-    "device",
-    3
+    "paper",
+    6
   ],
   [
-    "built",
-    3
-  ],
-  [
-    "like",
-    3
-  ],
-  [
-    "template",
-    3
-  ],
-  [
-    "coding",
-    3
-  ],
-  [
-    "building",
-    2
+    "llms",
+    6
   ]
 ]
