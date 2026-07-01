@@ -1,7 +1,11 @@
 [
   [
+    "language",
+    23
+  ],
+  [
     "abstract",
-    22
+    21
   ],
   [
     "arxiv",
@@ -16,67 +20,63 @@
     20
   ],
   [
-    "that",
+    "models",
     19
   ],
   [
-    "models",
-    17
-  ],
-  [
-    "with",
-    15
-  ],
-  [
-    "model",
-    12
-  ],
-  [
-    "language",
-    11
+    "that",
+    16
   ],
   [
     "this",
-    10
+    11
   ],
   [
-    "training",
+    "with",
     9
-  ],
-  [
-    "agents",
-    9
-  ],
-  [
-    "world",
-    9
-  ],
-  [
-    "planning",
-    7
   ],
   [
     "reasoning",
+    9
+  ],
+  [
+    "such",
+    8
+  ],
+  [
+    "introduce",
+    8
+  ],
+  [
+    "multimodal",
+    8
+  ],
+  [
+    "from",
+    8
+  ],
+  [
+    "model",
     7
   ],
   [
-    "framework",
+    "training",
     7
   ],
   [
     "large",
-    6
+    7
   ],
   [
-    "local",
-    6
-  ],
-  [
-    "paper",
+    "policy",
     6
   ],
   [
     "llms",
+    6
+  ],
+  [
+    "turn",
     6
   ]
 ]
