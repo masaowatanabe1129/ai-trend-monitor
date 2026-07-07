@@ -5,46 +5,22 @@
   ],
   [
     "claude",
-    10
+    12
   ],
   [
     "code",
-    10
+    12
   ],
   [
-    "chrome",
-    6
-  ],
-  [
-    "devtools",
-    6
+    "skills",
+    9
   ],
   [
     "review",
     5
   ],
   [
-    "caveman",
-    5
-  ],
-  [
-    "with",
-    4
-  ],
-  [
-    "read",
-    4
-  ],
-  [
-    "agents",
-    4
-  ],
-  [
-    "first",
-    4
-  ],
-  [
-    "plugin",
+    "meetily",
     4
   ],
   [
@@ -52,31 +28,55 @@
     4
   ],
   [
-    "coding",
-    4
-  ],
-  [
-    "meetily",
-    4
-  ],
-  [
     "system",
     4
   ],
   [
-    "llamaindex",
+    "privacy",
     3
   ],
   [
-    "legal",
+    "first",
     3
   ],
   [
-    "index",
+    "meeting",
     3
   ],
   [
-    "retrieve",
+    "plugin",
     3
+  ],
+  [
+    "this",
+    3
+  ],
+  [
+    "prompts",
+    3
+  ],
+  [
+    "agent",
+    3
+  ],
+  [
+    "plugins",
+    3
+  ],
+  [
+    "assistant",
+    2
+  ],
+  [
+    "open",
+    2
+  ],
+  [
+    "source",
+    2
+  ],
+  [
+    "ready",
+    2
   ]
 ]
