@@ -2,6 +2,9 @@
 
 AI Trend Monitor は、AI 関連ニュース・研究・ツール情報を毎日収集し、日本語の要約、トレンド集計、GitHub の注目 AI リポジトリ情報を生成するための小規模なモニタリングプロジェクトです。生成された JSON / テキストデータは `index.html` から静的サイトとして閲覧でき、月次では PDF レポートも作成します。
 
+https://masaowatanabe1129.github.io/ai-trend-monitor/
+でアクセス
+
 ## 主な機能
 
 - RSS フィードから AI 関連の記事・論文・ニュースを収集
