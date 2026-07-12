@@ -1,82 +1,82 @@
 [
   [
     "arxiv",
-    20
+    10
   ],
   [
     "announce",
-    20
+    10
   ],
   [
     "type",
-    20
+    10
   ],
   [
     "abstract",
-    20
+    10
+  ],
+  [
+    "skills",
+    10
   ],
   [
     "that",
-    19
-  ],
-  [
-    "models",
-    14
+    9
   ],
   [
     "language",
-    13
-  ],
-  [
-    "large",
-    11
-  ],
-  [
-    "this",
-    9
-  ],
-  [
-    "llms",
-    9
+    7
   ],
   [
     "agents",
-    8
-  ],
-  [
-    "have",
-    8
-  ],
-  [
-    "human",
     7
   ],
   [
-    "model",
-    7
+    "models",
+    5
   ],
   [
-    "based",
-    7
+    "this",
+    5
   ],
   [
-    "systems",
-    6
-  ],
-  [
-    "data",
-    6
-  ],
-  [
-    "methods",
-    6
-  ],
-  [
-    "analysis",
-    6
+    "real",
+    5
   ],
   [
     "from",
-    6
+    5
+  ],
+  [
+    "large",
+    5
+  ],
+  [
+    "human",
+    5
+  ],
+  [
+    "methods",
+    5
+  ],
+  [
+    "these",
+    5
+  ],
+  [
+    "they",
+    4
+  ],
+  [
+    "research",
+    4
+  ],
+  [
+    "however",
+    4
+  ],
+  [
+    "self",
+    4
   ]
 ]
