@@ -1,5 +1,9 @@
 [
   [
+    "abstract",
+    21
+  ],
+  [
     "arxiv",
     20
   ],
@@ -12,71 +16,67 @@
     20
   ],
   [
-    "abstract",
-    20
-  ],
-  [
     "language",
-    17
-  ],
-  [
-    "that",
-    14
-  ],
-  [
-    "this",
-    13
-  ],
-  [
-    "with",
-    12
-  ],
-  [
-    "agent",
-    12
-  ],
-  [
-    "models",
-    11
-  ],
-  [
-    "legal",
-    11
-  ],
-  [
-    "large",
-    10
-  ],
-  [
-    "framework",
-    9
-  ],
-  [
-    "multi",
-    9
-  ],
-  [
-    "based",
-    9
+    16
   ],
   [
     "model",
+    14
+  ],
+  [
+    "that",
+    13
+  ],
+  [
+    "models",
+    13
+  ],
+  [
+    "this",
+    12
+  ],
+  [
+    "reasoning",
+    12
+  ],
+  [
+    "with",
+    10
+  ],
+  [
+    "from",
     8
   ],
   [
-    "have",
+    "index",
+    8
+  ],
+  [
+    "clinical",
+    8
+  ],
+  [
+    "agent",
     7
   ],
   [
-    "control",
+    "based",
     6
   ],
   [
-    "introduce",
+    "format",
     6
   ],
   [
-    "their",
+    "study",
+    6
+  ],
+  [
+    "under",
+    6
+  ],
+  [
+    "when",
     6
   ]
 ]
