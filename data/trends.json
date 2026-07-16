@@ -1,9 +1,5 @@
 [
   [
-    "abstract",
-    21
-  ],
-  [
     "arxiv",
     20
   ],
@@ -16,67 +12,71 @@
     20
   ],
   [
-    "language",
-    16
+    "abstract",
+    20
   ],
   [
-    "model",
+    "language",
+    17
+  ],
+  [
+    "models",
     14
   ],
   [
     "that",
-    13
+    14
   ],
   [
-    "models",
-    13
-  ],
-  [
-    "this",
-    12
-  ],
-  [
-    "reasoning",
-    12
+    "framework",
+    10
   ],
   [
     "with",
     10
   ],
   [
-    "from",
-    8
+    "this",
+    10
   ],
   [
-    "index",
-    8
+    "model",
+    9
   ],
   [
-    "clinical",
-    8
+    "learning",
+    9
   ],
   [
-    "agent",
+    "distillation",
     7
   ],
   [
-    "based",
+    "text",
+    7
+  ],
+  [
+    "graph",
+    7
+  ],
+  [
+    "control",
     6
   ],
   [
-    "format",
+    "from",
     6
   ],
   [
-    "study",
+    "large",
     6
   ],
   [
-    "under",
+    "must",
     6
   ],
   [
-    "when",
+    "optimization",
     6
   ]
 ]
