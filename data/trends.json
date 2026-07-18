@@ -1,5 +1,9 @@
 [
   [
+    "type",
+    22
+  ],
+  [
     "arxiv",
     20
   ],
@@ -8,75 +12,71 @@
     20
   ],
   [
-    "type",
-    20
-  ],
-  [
     "abstract",
     20
   ],
   [
-    "models",
-    16
-  ],
-  [
     "language",
-    15
+    20
   ],
   [
     "that",
+    14
+  ],
+  [
+    "models",
     13
+  ],
+  [
+    "this",
+    12
   ],
   [
     "with",
     12
   ],
   [
-    "from",
+    "tool",
     12
   ],
   [
-    "this",
-    10
-  ],
-  [
-    "framework",
-    8
-  ],
-  [
-    "based",
-    8
+    "model",
+    11
   ],
   [
     "learning",
-    8
+    9
   ],
   [
-    "human",
-    8
-  ],
-  [
-    "model",
-    7
-  ],
-  [
-    "systems",
-    7
+    "large",
+    9
   ],
   [
     "reasoning",
+    8
+  ],
+  [
+    "from",
+    8
+  ],
+  [
+    "token",
+    8
+  ],
+  [
+    "networks",
     7
   ],
   [
-    "level",
+    "their",
+    7
+  ],
+  [
+    "architecture",
     6
   ],
   [
-    "data",
-    6
-  ],
-  [
-    "agentic",
+    "paper",
     6
   ]
 ]
