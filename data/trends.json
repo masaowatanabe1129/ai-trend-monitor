@@ -1,50 +1,38 @@
 [
   [
     "claude",
-    9
+    14
+  ],
+  [
+    "code",
+    11
   ],
   [
     "your",
-    7
-  ],
-  [
-    "skills",
-    6
+    8
   ],
   [
     "agents",
     6
   ],
   [
+    "skills",
+    6
+  ],
+  [
+    "review",
+    5
+  ],
+  [
     "browser",
     5
   ],
   [
-    "fugu",
+    "open",
     4
   ],
   [
-    "cyber",
-    4
-  ],
-  [
-    "sakana",
-    3
-  ],
-  [
-    "orchestration",
-    3
-  ],
-  [
-    "model",
-    3
-  ],
-  [
-    "cybergym",
-    3
-  ],
-  [
-    "realm",
+    "alibaba",
     3
   ],
   [
@@ -52,31 +40,43 @@
     3
   ],
   [
-    "releases",
+    "cookbooks",
+    3
+  ],
+  [
+    "free",
     2
   ],
   [
-    "reporting",
+    "tool",
     2
   ],
   [
-    "awesome",
+    "agent",
     2
   ],
   [
-    "curated",
+    "built",
     2
   ],
   [
-    "list",
+    "lite",
     2
   ],
   [
-    "tools",
+    "fastest",
     2
   ],
   [
-    "across",
+    "automation",
+    2
+  ],
+  [
+    "with",
+    2
+  ],
+  [
+    "codex",
     2
   ]
 ]
