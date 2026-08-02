@@ -1,82 +1,82 @@
 [
   [
-    "type",
-    21
-  ],
-  [
-    "arxiv",
-    20
-  ],
-  [
-    "announce",
-    20
-  ],
-  [
-    "abstract",
-    20
-  ],
-  [
-    "models",
-    18
-  ],
-  [
-    "language",
-    15
-  ],
-  [
-    "this",
-    13
-  ],
-  [
-    "with",
-    13
-  ],
-  [
-    "benchmark",
-    11
-  ],
-  [
-    "reasoning",
-    10
-  ],
-  [
-    "large",
-    9
-  ],
-  [
-    "tasks",
-    9
-  ],
-  [
-    "llms",
-    9
-  ],
-  [
-    "agents",
-    9
-  ],
-  [
-    "social",
-    9
-  ],
-  [
-    "clinical",
+    "claude",
     8
   ],
   [
-    "evaluation",
+    "copilot",
     8
   ],
   [
-    "that",
-    7
-  ],
-  [
-    "from",
+    "supabase",
     7
   ],
   [
     "open",
-    7
+    6
+  ],
+  [
+    "code",
+    6
+  ],
+  [
+    "source",
+    5
+  ],
+  [
+    "codex",
+    5
+  ],
+  [
+    "opencode",
+    4
+  ],
+  [
+    "openwork",
+    4
+  ],
+  [
+    "agent",
+    4
+  ],
+  [
+    "github",
+    4
+  ],
+  [
+    "evals",
+    3
+  ],
+  [
+    "benchmark",
+    3
+  ],
+  [
+    "that",
+    3
+  ],
+  [
+    "scores",
+    3
+  ],
+  [
+    "real",
+    3
+  ],
+  [
+    "tasks",
+    3
+  ],
+  [
+    "with",
+    3
+  ],
+  [
+    "reverse",
+    3
+  ],
+  [
+    "skill",
+    3
   ]
 ]
