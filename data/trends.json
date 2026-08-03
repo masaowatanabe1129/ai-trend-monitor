@@ -1,75 +1,11 @@
 [
   [
-    "claude",
-    8
-  ],
-  [
     "copilot",
     8
   ],
   [
-    "supabase",
-    7
-  ],
-  [
-    "open",
-    6
-  ],
-  [
-    "code",
-    6
-  ],
-  [
-    "source",
-    5
-  ],
-  [
-    "codex",
-    5
-  ],
-  [
-    "opencode",
-    4
-  ],
-  [
-    "openwork",
-    4
-  ],
-  [
-    "agent",
-    4
-  ],
-  [
     "github",
     4
-  ],
-  [
-    "evals",
-    3
-  ],
-  [
-    "benchmark",
-    3
-  ],
-  [
-    "that",
-    3
-  ],
-  [
-    "scores",
-    3
-  ],
-  [
-    "real",
-    3
-  ],
-  [
-    "tasks",
-    3
-  ],
-  [
-    "with",
-    3
   ],
   [
     "reverse",
@@ -78,5 +14,69 @@
   [
     "skill",
     3
+  ],
+  [
+    "agent",
+    3
+  ],
+  [
+    "router",
+    2
+  ],
+  [
+    "claude",
+    2
+  ],
+  [
+    "code",
+    2
+  ],
+  [
+    "kiro",
+    2
+  ],
+  [
+    "cursor",
+    2
+  ],
+  [
+    "cline",
+    2
+  ],
+  [
+    "your",
+    2
+  ],
+  [
+    "zhaoxuya",
+    1
+  ],
+  [
+    "engineering",
+    1
+  ],
+  [
+    "authorized",
+    1
+  ],
+  [
+    "penetration",
+    1
+  ],
+  [
+    "testing",
+    1
+  ],
+  [
+    "security",
+    1
+  ],
+  [
+    "research",
+    1
+  ],
+  [
+    "pack",
+    1
   ]
 ]
