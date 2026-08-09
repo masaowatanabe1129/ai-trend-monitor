@@ -1,70 +1,42 @@
 [
   [
-    "abstract",
-    22
-  ],
-  [
-    "arxiv",
-    20
-  ],
-  [
-    "announce",
-    20
-  ],
-  [
-    "type",
-    20
-  ],
-  [
     "models",
-    17
-  ],
-  [
-    "that",
-    17
-  ],
-  [
-    "language",
-    12
-  ],
-  [
-    "reasoning",
     10
   ],
   [
-    "model",
+    "arxiv",
+    10
+  ],
+  [
+    "announce",
+    10
+  ],
+  [
+    "type",
+    10
+  ],
+  [
+    "abstract",
+    10
+  ],
+  [
+    "that",
     9
   ],
   [
-    "large",
+    "language",
     8
+  ],
+  [
+    "large",
+    7
+  ],
+  [
+    "model",
+    6
   ],
   [
     "this",
-    8
-  ],
-  [
-    "multi",
-    7
-  ],
-  [
-    "causal",
-    7
-  ],
-  [
-    "such",
-    6
-  ],
-  [
-    "with",
-    6
-  ],
-  [
-    "into",
-    6
-  ],
-  [
-    "training",
     6
   ],
   [
@@ -72,11 +44,39 @@
     6
   ],
   [
-    "existing",
+    "llms",
     5
   ],
   [
-    "parameter",
+    "into",
     5
+  ],
+  [
+    "while",
+    5
+  ],
+  [
+    "training",
+    5
+  ],
+  [
+    "skills",
+    5
+  ],
+  [
+    "reasoning",
+    4
+  ],
+  [
+    "with",
+    4
+  ],
+  [
+    "without",
+    4
+  ],
+  [
+    "rope",
+    4
   ]
 ]
