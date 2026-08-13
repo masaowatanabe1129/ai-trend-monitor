@@ -1,9 +1,5 @@
 [
   [
-    "models",
-    22
-  ],
-  [
     "arxiv",
     20
   ],
@@ -20,63 +16,67 @@
     20
   ],
   [
-    "language",
-    20
-  ],
-  [
-    "with",
-    15
+    "agents",
+    14
   ],
   [
     "this",
-    11
+    12
   ],
   [
-    "from",
+    "language",
     10
   ],
   [
-    "that",
-    8
-  ],
-  [
-    "existing",
-    8
-  ],
-  [
-    "agents",
-    8
-  ],
-  [
-    "long",
-    7
-  ],
-  [
-    "shacl",
-    7
-  ],
-  [
-    "human",
-    6
+    "models",
+    10
   ],
   [
     "model",
-    6
-  ],
-  [
-    "systems",
-    6
-  ],
-  [
-    "benchmark",
-    6
+    9
   ],
   [
     "large",
+    8
+  ],
+  [
+    "framework",
+    8
+  ],
+  [
+    "their",
+    8
+  ],
+  [
+    "self",
+    8
+  ],
+  [
+    "learning",
+    7
+  ],
+  [
+    "agent",
+    7
+  ],
+  [
+    "code",
+    7
+  ],
+  [
+    "from",
     6
   ],
   [
-    "when",
-    5
+    "however",
+    6
+  ],
+  [
+    "have",
+    6
+  ],
+  [
+    "reasoning",
+    6
   ]
 ]
