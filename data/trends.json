@@ -1,5 +1,9 @@
 [
   [
+    "type",
+    21
+  ],
+  [
     "arxiv",
     20
   ],
@@ -8,75 +12,71 @@
     20
   ],
   [
-    "type",
-    20
-  ],
-  [
     "abstract",
     20
   ],
   [
-    "agents",
+    "that",
+    15
+  ],
+  [
+    "with",
     14
   ],
   [
-    "this",
-    12
-  ],
-  [
-    "language",
-    10
-  ],
-  [
-    "models",
-    10
-  ],
-  [
     "model",
-    9
-  ],
-  [
-    "large",
-    8
-  ],
-  [
-    "framework",
-    8
-  ],
-  [
-    "their",
-    8
-  ],
-  [
-    "self",
-    8
-  ],
-  [
-    "learning",
-    7
+    13
   ],
   [
     "agent",
-    7
+    11
   ],
   [
-    "code",
-    7
+    "agents",
+    11
   ],
   [
     "from",
+    9
+  ],
+  [
+    "language",
+    9
+  ],
+  [
+    "this",
+    8
+  ],
+  [
+    "systems",
     6
   ],
   [
-    "however",
+    "whether",
     6
   ],
   [
-    "have",
+    "under",
     6
   ],
   [
-    "reasoning",
+    "which",
+    6
+  ],
+  [
+    "into",
+    6
+  ],
+  [
+    "bench",
+    6
+  ],
+  [
+    "learning",
+    6
+  ],
+  [
+    "cost",
     6
   ]
 ]
