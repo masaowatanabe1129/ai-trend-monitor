@@ -1,82 +1,82 @@
 [
   [
-    "type",
-    22
+    "cursor",
+    5
   ],
   [
-    "arxiv",
-    20
+    "plugin",
+    5
   ],
   [
-    "announce",
-    20
+    "plugins",
+    4
   ],
   [
-    "abstract",
-    20
+    "open",
+    3
   ],
   [
-    "language",
-    16
+    "source",
+    3
   ],
   [
-    "context",
-    15
+    "agent",
+    3
   ],
   [
-    "models",
-    14
+    "loop",
+    3
   ],
   [
-    "this",
-    11
+    "harness",
+    3
   ],
   [
-    "that",
-    11
+    "decoding",
+    2
   ],
   [
-    "large",
-    9
+    "course",
+    2
   ],
   [
-    "multimodal",
-    9
+    "maps",
+    2
+  ],
+  [
+    "three",
+    2
+  ],
+  [
+    "ways",
+    2
+  ],
+  [
+    "each",
+    2
   ],
   [
     "model",
-    8
+    2
+  ],
+  [
+    "coding",
+    2
   ],
   [
     "from",
-    8
+    2
+  ],
+  [
+    "into",
+    2
+  ],
+  [
+    "career",
+    2
   ],
   [
     "with",
-    7
-  ],
-  [
-    "control",
-    7
-  ],
-  [
-    "text",
-    7
-  ],
-  [
-    "agents",
-    6
-  ],
-  [
-    "retrieval",
-    6
-  ],
-  [
-    "framework",
-    6
-  ],
-  [
-    "when",
-    5
+    2
   ]
 ]
