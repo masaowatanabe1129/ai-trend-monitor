@@ -1,82 +1,82 @@
 [
   [
-    "code",
-    12
+    "arxiv",
+    20
   ],
   [
-    "codex",
-    8
+    "announce",
+    20
   ],
   [
-    "your",
-    8
+    "type",
+    20
   ],
   [
-    "claude",
-    6
-  ],
-  [
-    "openai",
-    4
-  ],
-  [
-    "coding",
-    4
-  ],
-  [
-    "agent",
-    4
+    "abstract",
+    20
   ],
   [
     "that",
-    4
+    16
   ],
   [
-    "from",
-    4
-  ],
-  [
-    "install",
-    3
-  ],
-  [
-    "runs",
-    2
-  ],
-  [
-    "want",
-    2
-  ],
-  [
-    "cursor",
-    2
-  ],
-  [
-    "following",
-    2
-  ],
-  [
-    "https",
-    2
+    "models",
+    15
   ],
   [
     "language",
-    2
+    14
   ],
   [
-    "english",
-    2
+    "this",
+    13
   ],
   [
-    "only",
-    2
+    "large",
+    12
   ],
   [
-    "please",
-    2
+    "systems",
+    12
   ],
   [
-    "before",
-    2
+    "from",
+    10
+  ],
+  [
+    "retrieval",
+    10
+  ],
+  [
+    "context",
+    9
+  ],
+  [
+    "with",
+    8
+  ],
+  [
+    "agentic",
+    7
+  ],
+  [
+    "agent",
+    7
+  ],
+  [
+    "model",
+    7
+  ],
+  [
+    "into",
+    7
+  ],
+  [
+    "prompt",
+    7
+  ],
+  [
+    "memory",
+    6
   ]
 ]
