@@ -1,5 +1,13 @@
 [
   [
+    "type",
+    21
+  ],
+  [
+    "abstract",
+    21
+  ],
+  [
     "arxiv",
     20
   ],
@@ -8,51 +16,39 @@
     20
   ],
   [
-    "type",
-    20
-  ],
-  [
-    "abstract",
-    20
-  ],
-  [
     "models",
-    13
-  ],
-  [
-    "with",
-    12
+    19
   ],
   [
     "language",
+    16
+  ],
+  [
+    "large",
+    15
+  ],
+  [
+    "with",
+    13
+  ],
+  [
+    "that",
     12
   ],
   [
     "this",
-    11
+    10
   ],
   [
-    "learning",
-    11
+    "data",
+    9
+  ],
+  [
+    "llms",
+    9
   ],
   [
     "model",
-    9
-  ],
-  [
-    "evidence",
-    9
-  ],
-  [
-    "large",
-    8
-  ],
-  [
-    "based",
-    7
-  ],
-  [
-    "multi",
     7
   ],
   [
@@ -60,23 +56,27 @@
     7
   ],
   [
-    "state",
-    7
-  ],
-  [
-    "that",
-    7
-  ],
-  [
-    "adaptive",
+    "existing",
     6
   ],
   [
-    "memory",
-    5
+    "domain",
+    6
   ],
   [
-    "these",
-    5
+    "knowledge",
+    6
+  ],
+  [
+    "medical",
+    6
+  ],
+  [
+    "like",
+    6
+  ],
+  [
+    "multimodal",
+    6
   ]
 ]
