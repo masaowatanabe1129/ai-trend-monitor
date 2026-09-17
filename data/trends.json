@@ -1,7 +1,11 @@
 [
   [
     "arxiv",
-    20
+    21
+  ],
+  [
+    "models",
+    21
   ],
   [
     "announce",
@@ -20,63 +24,59 @@
     19
   ],
   [
-    "models",
-    16
-  ],
-  [
-    "large",
-    14
-  ],
-  [
-    "reasoning",
-    14
-  ],
-  [
-    "speech",
-    13
-  ],
-  [
     "that",
-    11
-  ],
-  [
-    "this",
-    10
-  ],
-  [
-    "with",
-    10
-  ],
-  [
-    "llms",
-    9
+    15
   ],
   [
     "model",
+    14
+  ],
+  [
+    "this",
+    13
+  ],
+  [
+    "large",
+    10
+  ],
+  [
+    "information",
     8
+  ],
+  [
+    "llms",
+    8
+  ],
+  [
+    "study",
+    7
+  ],
+  [
+    "systems",
+    7
+  ],
+  [
+    "legal",
+    7
+  ],
+  [
+    "using",
+    6
   ],
   [
     "from",
-    8
-  ],
-  [
-    "agents",
-    7
-  ],
-  [
-    "clinical",
-    7
-  ],
-  [
-    "across",
     6
   ],
   [
-    "methods",
+    "bias",
     6
   ],
   [
-    "tasks",
-    6
+    "text",
+    5
+  ],
+  [
+    "safety",
+    5
   ]
 ]
