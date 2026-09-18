@@ -1,18 +1,14 @@
 [
   [
+    "type",
+    21
+  ],
+  [
     "arxiv",
-    21
-  ],
-  [
-    "models",
-    21
-  ],
-  [
-    "announce",
     20
   ],
   [
-    "type",
+    "announce",
     20
   ],
   [
@@ -21,62 +17,66 @@
   ],
   [
     "language",
-    19
-  ],
-  [
-    "that",
-    15
-  ],
-  [
-    "model",
-    14
-  ],
-  [
-    "this",
-    13
+    16
   ],
   [
     "large",
-    10
+    11
   ],
   [
-    "information",
-    8
-  ],
-  [
-    "llms",
-    8
-  ],
-  [
-    "study",
-    7
-  ],
-  [
-    "systems",
-    7
-  ],
-  [
-    "legal",
-    7
-  ],
-  [
-    "using",
-    6
+    "with",
+    11
   ],
   [
     "from",
+    11
+  ],
+  [
+    "models",
+    11
+  ],
+  [
+    "model",
+    9
+  ],
+  [
+    "data",
+    9
+  ],
+  [
+    "that",
+    9
+  ],
+  [
+    "llms",
+    9
+  ],
+  [
+    "evidence",
+    8
+  ],
+  [
+    "this",
+    7
+  ],
+  [
+    "publication",
     6
   ],
   [
-    "bias",
+    "their",
     6
   ],
   [
-    "text",
-    5
+    "than",
+    6
   ],
   [
-    "safety",
-    5
+    "land",
+    6
+  ],
+  [
+    "legal",
+    6
   ]
 ]
