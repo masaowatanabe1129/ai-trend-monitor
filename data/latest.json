@@ -1,162 +1,42 @@
 [
   {
-    "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
-    "link": "https://arxiv.org/abs/2610.02260",
+    "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+    "link": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
     "analysis": {
       "error": "json_parse",
-      "raw": "MintFlowは、制約条件に基づいて流れのマッチングを行うための最小限の軌道介入手法を提案しています。この手法により、効率的かつ効果的な流れの最適化が可能になります。"
+      "raw": "「Meet Together Link」は、Claude Code、Codex、OpenCode内でKimi K3やGLM 5.3などのオープンモデルを実行できる無料のCLIツールです。"
     }
   },
   {
-    "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
-    "link": "https://arxiv.org/abs/2610.02267",
+    "title": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
+    "link": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
     "analysis": {
       "error": "json_parse",
-      "raw": "「高速なモデルと遅い証拠：LLMエージェントのためのシステム1意思決定モデルのペア評価と自己監査評価」では、AIモデルの意思決定能力を評価する方法論に焦点を当てています。評価はペアで行われ、自己監査を通じてその信頼性を確認しています。"
+      "raw": "NVIDIA Cosmos3-DROIDを用いて、ロボティクスの学習パイプラインを構築するプロジェクトについてのニュースです。ストリーミング技術を活用し、効率的な学習環境を提供することを目指しています。"
     }
   },
   {
-    "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
-    "link": "https://arxiv.org/abs/2610.02281",
+    "title": "pbakaus/impeccable",
+    "link": "https://github.com/pbakaus/impeccable",
     "analysis": {
       "error": "json_parse",
-      "raw": "「AIリスク観測所：年次報告書におけるAI開示から社会的レジリエンスについて学べること」は、企業の年次報告書に含まれるAI関連の情報を通じて、社会がどのようにAIリスクに対処できるかを考察する内容です。"
+      "raw": "タイトル「pbakaus/impeccable」は、特定のプロジェクトやリポジトリに関連している可能性があり、詳細な内容は不明ですが、「完璧」や「優れた品質」に関する情報を示唆していると考えられます。また、AIや技術の進展についての話題も含まれているかもしれません。具体的な内容は明示されていないため、より詳細な文脈が必要です。"
     }
   },
   {
-    "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
-    "link": "https://arxiv.org/abs/2610.02300",
+    "title": "coreyhaines31/marketingskills",
+    "link": "https://github.com/coreyhaines31/marketingskills",
     "analysis": {
       "error": "json_parse",
-      "raw": "「CALMを保つ：テキストから画像生成におけるグローバルな安全性の限界を分析する」というタイトルは、テキストから画像を生成する際の安全性やリスクについての分析を行っていることを示しています。特に、生成プロセスに潜む安全上の問題点や限界を検討しています。"
+      "raw": "「coreyhaines31/marketingskills」は、マーケティングスキルに関する情報や実践的なノウハウを提供する内容です。具体的なスキルや戦略を学ぶことで、効果的なマーケティングを行うためのヒントが得られます。"
     }
   },
   {
-    "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
-    "link": "https://arxiv.org/abs/2610.02330",
+    "title": "calesthio/OpenMontage",
+    "link": "https://github.com/calesthio/OpenMontage",
     "analysis": {
       "error": "json_parse",
-      "raw": "「行動前の選択：長期的なツール使用エージェントのための比較価値評価」というタイトルは、ツールを使用するエージェントが行動する前に、さまざまな選択肢の価値を比較して評価するプロセスについて論じています。"
-    }
-  },
-  {
-    "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
-    "link": "https://arxiv.org/abs/2610.02331",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトル「World Editing: Intervening on Executable Worlds at Increasing Depth」は、実行可能な世界に対する介入を深めていくことに関する内容です。具体的には、異なるレベルでの介入の手法やその影響について探求しています。"
-    }
-  },
-  {
-    "title": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
-    "link": "https://arxiv.org/abs/2610.02342",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "自然可視グラフに基づくサイバー攻撃検出のためのトポロジカルメトリクスに関する多方法的な重要性とパフォーマンス効率の分析研究。この研究では、各メトリクスの効果を評価し、攻撃検出能力を向上させる手法を探求しています。"
-    }
-  },
-  {
-    "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
-    "link": "https://arxiv.org/abs/2610.02351",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「DeReAct」は、信頼性のあるAIエージェントのための分解された推論と行動の手法を提案する研究です。これにより、AIの意思決定プロセスが向上し、より効果的な行動が可能になります。"
-    }
-  },
-  {
-    "title": "Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion",
-    "link": "https://arxiv.org/abs/2610.02372",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「テキストから画像への拡散における満足度と多様性の境界を探る」では、AI技術が生成する画像の質と多様性のバランスを評価し、満足度と多様性を同時に向上させる方法について議論しています。"
-    }
-  },
-  {
-    "title": "THPL: A Vision-to-Language Decision Support Framework for Rainbow Trout Feeding Management in RAS",
-    "link": "https://arxiv.org/abs/2610.02378",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「THPL：循環型養殖システムにおけるニジマスの給餌管理のためのビジョンから言語への意思決定サポートフレームワーク」についてのニュースです。このフレームワークは、視覚情報を基に給餌の最適化を支援します。"
-    }
-  },
-  {
-    "title": "HakemBench: A Turkish Benchmark of Typed Decisions",
-    "link": "https://arxiv.org/abs/2610.02293",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「HakemBench」は、トルコにおける型付き決定に関するベンチマークデータセットです。このプロジェクトは、AIの性能を評価するための基準を提供します。"
-    }
-  },
-  {
-    "title": "Finding the Move Is Not Winning the Game: XiangqiBench for Closed-Loop Evaluation of LLM Agents",
-    "link": "https://arxiv.org/abs/2610.02425",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「勝つための手を見つけることは、ゲームに勝つことではない：LLMエージェントの閉ループ評価のためのXiangqiBench」というタイトルは、LLMエージェントが将棋のようなゲームでの性能を評価するための新しい基準「XiangqiBench」を紹介しています。この評価方法は、単に正しい手を見つけること以上の能力を測ることに焦点を当てています。"
-    }
-  },
-  {
-    "title": "Counterexample Generation via Per-Theorem Symbolic Verifiers: When Imitation Hurts and Reinforcement Repairs",
-    "link": "https://arxiv.org/abs/2610.02444",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルは、定理ごとのシンボリック検証器を使用して反例を生成する手法について述べています。この手法では、模倣が逆効果をもたらす場合があり、強化学習が問題を修正する役割を果たすことが示されています。"
-    }
-  },
-  {
-    "title": "FinDialogLens: Event Extraction over Multi-Party Dialogue for Missed-Trade Identification in Financial Chatrooms",
-    "link": "https://arxiv.org/abs/2610.02455",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "FinDialogLensは、金融チャットルームにおける複数の参加者間の対話からイベントを抽出し、取引の見逃しを特定するための手法です。これにより、重要な取引情報の把握が容易になります。"
-    }
-  },
-  {
-    "title": "CUEing User Simulators: Calibrated User Embeddings for Multi-Turn Benchmarking",
-    "link": "https://arxiv.org/abs/2610.02460",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "CUEingは、マルチターンベンチマークのために調整されたユーザー埋め込みを使用したユーザーシミュレーターに関する研究です。この手法により、AIの対話能力評価が向上します。"
-    }
-  },
-  {
-    "title": "APDMem: Agent-Controlled Progressive Disclosure for Query-Adaptive Long-Term Memory",
-    "link": "https://arxiv.org/abs/2610.02472",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトル「APDMem: エージェント制御によるクエリ適応型長期記憶のための漸進的開示」は、エージェントが制御することで情報の段階的開示を行い、ユーザーの問い合わせに応じた長期記憶の活用を目指すシステムについて述べています。"
-    }
-  },
-  {
-    "title": "From Retrieval to Typed Decisions: Calibrated System One Models from Biomedical Sentence Encoders",
-    "link": "https://arxiv.org/abs/2610.02486",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "リトリーバルからタイプ化された意思決定へ：バイオメディカルセンテンスエンコーダからのキャリブレーテッドシステム1モデルについての研究が紹介されています。"
-    }
-  },
-  {
-    "title": "A generative-informed neuro-symbolic framework for syntactic ambiguity resolution: Evidence from Arabic DPs",
-    "link": "https://arxiv.org/abs/2610.02529",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "生成的情報を活用した神経-シンボリックフレームワークによる文法的曖昧さの解決について、アラビア語の名詞句を通じての証拠が示されています。この研究は、文法的曖昧性を解消する新しいアプローチを提案しています。"
-    }
-  },
-  {
-    "title": "Evaluating Multi-Dimensional Generalization of Large Language Models in Temporal Extraction Tasks",
-    "link": "https://arxiv.org/abs/2610.02549",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「大規模言語モデルの多次元一般化を評価する：時間的抽出タスクにおける分析」というタイトルのニュースは、大規模言語モデルが時間に関連する情報を抽出するタスクでどの程度一般化できるかを評価する研究を紹介しています。"
-    }
-  },
-  {
-    "title": "Learning When to Commit from Partial Speech for End-to-End Simultaneous Speech Translation",
-    "link": "https://arxiv.org/abs/2610.02612",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "部分的な音声からいつコミットするかを学習することで、エンドツーエンドの同時音声翻訳を実現する研究に関するニュースです。音声データの断片を用いて、翻訳のタイミングを最適化する方法が探求されています。"
+      "raw": "「calesthio/OpenMontage」は、オープンソースのマルチメディア編集プラットフォームで、プロジェクトの管理やビジュアルコンテンツの制作を支援します。ユーザーが効率的に作業できるような機能を備えています。"
     }
   }
 ]

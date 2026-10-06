@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+    "link": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「Meet Together Link」は、Claude Code、Codex、OpenCode内でKimi K3やGLM 5.3などのオープンモデルを実行できる無料のCLIツールです。"
+    }
+  },
+  {
+    "title": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
+    "link": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "NVIDIA Cosmos3-DROIDを用いて、ロボティクスの学習パイプラインを構築するプロジェクトについてのニュースです。ストリーミング技術を活用し、効率的な学習環境を提供することを目指しています。"
+    }
+  },
+  {
+    "title": "pbakaus/impeccable",
+    "link": "https://github.com/pbakaus/impeccable",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「pbakaus/impeccable」は、特定のプロジェクトやリポジトリに関連している可能性があり、詳細な内容は不明ですが、「完璧」や「優れた品質」に関する情報を示唆していると考えられます。また、AIや技術の進展についての話題も含まれているかもしれません。具体的な内容は明示されていないため、より詳細な文脈が必要です。"
+    }
+  },
+  {
+    "title": "coreyhaines31/marketingskills",
+    "link": "https://github.com/coreyhaines31/marketingskills",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「coreyhaines31/marketingskills」は、マーケティングスキルに関する情報や実践的なノウハウを提供する内容です。具体的なスキルや戦略を学ぶことで、効果的なマーケティングを行うためのヒントが得られます。"
+    }
+  },
+  {
+    "title": "calesthio/OpenMontage",
+    "link": "https://github.com/calesthio/OpenMontage",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「calesthio/OpenMontage」は、オープンソースのマルチメディア編集プラットフォームで、プロジェクトの管理やビジュアルコンテンツの制作を支援します。ユーザーが効率的に作業できるような機能を備えています。"
+    }
+  }
+]
