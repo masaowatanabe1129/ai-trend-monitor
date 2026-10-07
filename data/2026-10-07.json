@@ -1,0 +1,162 @@
+[
+  {
+    "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+    "link": "https://arxiv.org/abs/2610.06910",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "GAMEGOは、実世界の資産に基づいた合成軌道を用いて、ゲーム開発エージェントをトレーニングする方法を提案しています。この技術により、ゲーム開発の効率を向上させることを目指しています。"
+    }
+  },
+  {
+    "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+    "link": "https://arxiv.org/abs/2610.06914",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「Text2Dashboard」は、企業データを基に自然言語からダッシュボードを生成するための統制されたエージェントアーキテクチャを提案しています。これにより、ユーザーは簡単に視覚的なデータ分析を行えるようになります。"
+    }
+  },
+  {
+    "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+    "link": "https://arxiv.org/abs/2610.06917",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "FluidPDは、SLO（サービスレベル目標）を考慮したプレフィル・デコード手法を用いて、ディスアグリゲート型大規模言語モデル（LLM）の提供における場所に応じた弾力性を実現する技術です。"
+    }
+  },
+  {
+    "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+    "link": "https://arxiv.org/abs/2610.06919",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「コントラスト学習における意味的幾何学のためのアンカー発散」というタイトルは、コントラスト学習手法において、意味的な幾何学の特性を向上させるための新たなアプローチを提案しています。この研究は、モデルの性能向上に寄与する可能性があります。"
+    }
+  },
+  {
+    "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+    "link": "https://arxiv.org/abs/2610.06923",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway」は、放射線療法のケアプロセス全体におけるAIワークフローを統括するための大規模言語モデル（LLM）を活用したフレームワーク「RadOnc-Agent」を紹介しています。これにより、放射線治療の効率性と効果が向上することが期待されています。"
+    }
+  },
+  {
+    "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+    "link": "https://arxiv.org/abs/2610.06928",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「視覚トランスフォーマーにおける抽象概念の基盤形成のためのメトニミー回路」というタイトルは、視覚トランスフォーマーを用いて抽象的な概念を具体的なものに結びつける手法についての研究を示しています。メトニミーの手法を通じて、より深い理解を促進することを目指しています。"
+    }
+  },
+  {
+    "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+    "link": "https://arxiv.org/abs/2610.06964",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「知識の抽象化を通じたエージェントの進化に関するガイドラインと行動について」がテーマのニュースで、AIエージェントの発展における基本的な原則と、それに基づく具体的なアクションが論じられています。"
+    }
+  },
+  {
+    "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+    "link": "https://arxiv.org/abs/2610.06971",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "AegisFlowは、脆弱なデータエコシステムにおいて自律的な修復と自己治癒を実現するためのマルチエージェント型AIフレームワークです。複数のエージェントが連携することで、データの安全性と信頼性を向上させることを目指しています。"
+    }
+  },
+  {
+    "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+    "link": "https://arxiv.org/abs/2610.06986",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "EPOCHは証拠に基づく検索を通じて信頼性の高い発見を実現するシステムです。データの裏付けをもとに、より正確で信頼性のある情報を探索することを目指しています。"
+    }
+  },
+  {
+    "title": "When better traffic forecasts fail to improve signal control: a layered diagnostic study of forecast-to-decision value",
+    "link": "https://arxiv.org/abs/2610.06992",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "交通予測の改善が信号制御に反映されない理由を探る研究。予測から意思決定への価値に関する層別診断を行い、改善点を明らかにします。"
+    }
+  },
+  {
+    "title": "Zero-Shot Visualization: Exploring Text Corpora with User-Prompted Axes",
+    "link": "https://arxiv.org/abs/2610.06889",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "ゼロショット可視化：ユーザーが指定した軸でテキストコーパスを探る手法についての研究。テキストデータの分析を促進する新しいアプローチを提案しています。"
+    }
+  },
+  {
+    "title": "Capacity, Responsiveness and Alignment: What Makes a Latent Structure Actionable",
+    "link": "https://arxiv.org/abs/2610.06897",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「潜在構造を行動可能にする要因：能力、応答性、整合性」と題されたこのニュースは、潜在的な構造が実際の行動に転換できる要素について論じています。特に、能力や応答性、整合性の重要性が強調されています。"
+    }
+  },
+  {
+    "title": "Tree Navigation Without LLM Summaries: A Matched-Cost Study of Hierarchical Retrieval for Long-Document QA",
+    "link": "https://arxiv.org/abs/2610.06902",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルは、長文の質問応答（QA）において、階層的検索を用いたマッチコスト研究について述べています。LLMの要約なしでの木構造ナビゲーションに焦点を当てています。"
+    }
+  },
+  {
+    "title": "Component and Dimension Sparsity in Transformer Refusal Mechanisms",
+    "link": "https://arxiv.org/abs/2610.06903",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「Transformerの拒否メカニズムにおけるコンポーネントと次元のスパース性」は、トランスフォーマーの拒否機能に関連する要素や次元の非密度性についての研究を示しています。この研究は、トランスフォーマーの効率性や性能に与える影響を探ります。"
+    }
+  },
+  {
+    "title": "Stabilizing language models under continual learning via condition-anchored distillation",
+    "link": "https://arxiv.org/abs/2610.06940",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "継続学習において、条件に基づく蒸留を使用して言語モデルを安定化する手法に関する研究です。このアプローチは、モデルの性能を維持しながら新しい情報を学習させることを目指しています。"
+    }
+  },
+  {
+    "title": "EMODE: Dynamic Para-Semantic Experts for Emotion-Aware Speech Language Modeling",
+    "link": "https://arxiv.org/abs/2610.06956",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "EMODEは、感情に配慮した音声言語モデルを実現するための動的なパラセマンティック専門家を提案しています。これにより、感情を反映した自然な言語生成が可能になります。"
+    }
+  },
+  {
+    "title": "Verdicts Without Annotated Evidence: Rejection Sampling or Label-Only Post-Training for Evidence Recovery?",
+    "link": "https://arxiv.org/abs/2610.06962",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "注釈付き証拠なしの判決：証拠回復のためのリジェクションサンプリングまたはラベルのみのポストトレーニング手法について。"
+    }
+  },
+  {
+    "title": "WavePrune: One period is often enough for RoPE",
+    "link": "https://arxiv.org/abs/2610.06963",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "WavePrune: RoPEにおいては、1つの期間が十分であることが多いという研究結果を示しています。これにより、効率的なデータ処理が可能となることが期待されています。"
+    }
+  },
+  {
+    "title": "Calibrated Answers About Randomized Trials From a 4-Billion-Parameter Open Model: A Registered Test and a License-Clean Release",
+    "link": "https://arxiv.org/abs/2610.07019",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "4兆パラメータのオープンモデルによるランダム化試験に関する精密な回答が提供され、登録テストとライセンスクリアのリリースが行われた。これにより、研究成果の透明性とアクセスが向上する。"
+    }
+  },
+  {
+    "title": "Investigating Model Compression for Neural Machine Translation in the Biomedical Domain",
+    "link": "https://arxiv.org/abs/2610.07032",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "バイオメディカル領域におけるニューラル機械翻訳のためのモデル圧縮の調査に関するニュースです。効率的な翻訳モデルの開発を目指しています。"
+    }
+  }
+]
