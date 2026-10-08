@@ -4,7 +4,7 @@
     "link": "https://arxiv.org/abs/2610.06910",
     "analysis": {
       "error": "json_parse",
-      "raw": "GAMEGOは、実世界の資産に基づいた合成軌道を用いて、ゲーム開発エージェントをトレーニングする方法を提案しています。この技術により、ゲーム開発の効率を向上させることを目指しています。"
+      "raw": "GAMEGOは、実世界の資産に基づいた合成の軌跡を用いて、ゲーム開発エージェントをトレーニングする手法を提案しています。これにより、ゲーム開発の効率を向上させることを目指しています。"
     }
   },
   {
@@ -12,7 +12,7 @@
     "link": "https://arxiv.org/abs/2610.06914",
     "analysis": {
       "error": "json_parse",
-      "raw": "「Text2Dashboard」は、企業データを基に自然言語からダッシュボードを生成するための統制されたエージェントアーキテクチャを提案しています。これにより、ユーザーは簡単に視覚的なデータ分析を行えるようになります。"
+      "raw": "「Text2Dashboard」は、企業データに基づいた自然言語によるダッシュボード生成のための制御されたエージェントアーキテクチャを提供します。この技術により、ユーザーは自然な言葉でデータ可視化を簡単に作成できるようになります。"
     }
   },
   {
@@ -20,7 +20,7 @@
     "link": "https://arxiv.org/abs/2610.06917",
     "analysis": {
       "error": "json_parse",
-      "raw": "FluidPDは、SLO（サービスレベル目標）を考慮したプレフィル・デコード手法を用いて、ディスアグリゲート型大規模言語モデル（LLM）の提供における場所に応じた弾力性を実現する技術です。"
+      "raw": "FluidPDは、SLO（サービスレベル目標）を意識したプレフィル・デコード手法における、インプレースエラスティシティを実現する技術です。このアプローチにより、分散型LLM（大規模言語モデル）の効率的な提供が可能になります。"
     }
   },
   {
@@ -28,7 +28,7 @@
     "link": "https://arxiv.org/abs/2610.06919",
     "analysis": {
       "error": "json_parse",
-      "raw": "「コントラスト学習における意味的幾何学のためのアンカー発散」というタイトルは、コントラスト学習手法において、意味的な幾何学の特性を向上させるための新たなアプローチを提案しています。この研究は、モデルの性能向上に寄与する可能性があります。"
+      "raw": "「対照学習における意味的幾何学のためのアンカーダイバージェンス」に関するニュースです。この研究は、対照学習の効果を向上させるための新しいアプローチとして、意味的な幾何学を用いたアンカーダイバージェンスの概念を提案しています。"
     }
   },
   {
@@ -36,7 +36,7 @@
     "link": "https://arxiv.org/abs/2610.06923",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway」は、放射線療法のケアプロセス全体におけるAIワークフローを統括するための大規模言語モデル（LLM）を活用したフレームワーク「RadOnc-Agent」を紹介しています。これにより、放射線治療の効率性と効果が向上することが期待されています。"
+      "raw": "RadOnc-Agentは、放射線療法のケアパス全体でAIワークフローを調整するための大規模言語モデル（LLM）を活用したフレームワークです。このシステムは、放射線治療におけるさまざまなプロセスを最適化することを目指しています。"
     }
   },
   {
@@ -44,7 +44,7 @@
     "link": "https://arxiv.org/abs/2610.06928",
     "analysis": {
       "error": "json_parse",
-      "raw": "「視覚トランスフォーマーにおける抽象概念の基盤形成のためのメトニミー回路」というタイトルは、視覚トランスフォーマーを用いて抽象的な概念を具体的なものに結びつける手法についての研究を示しています。メトニミーの手法を通じて、より深い理解を促進することを目指しています。"
+      "raw": "「Vision Transformersにおける抽象概念の基盤となるメトニミー回路」についての研究で、視覚情報を通じて抽象的な概念をどのように理解し、関連付けるかを探ります。"
     }
   },
   {
@@ -52,7 +52,7 @@
     "link": "https://arxiv.org/abs/2610.06964",
     "analysis": {
       "error": "json_parse",
-      "raw": "「知識の抽象化を通じたエージェントの進化に関するガイドラインと行動について」がテーマのニュースで、AIエージェントの発展における基本的な原則と、それに基づく具体的なアクションが論じられています。"
+      "raw": "「指針となる原則、情報を提供する行動：知識の抽象化を通じたエージェントの進化」というタイトルは、知識の抽象化を通じてエージェントがどのように進化し、原則がその行動を導くかを探る内容を示唆しています。"
     }
   },
   {
@@ -60,7 +60,7 @@
     "link": "https://arxiv.org/abs/2610.06971",
     "analysis": {
       "error": "json_parse",
-      "raw": "AegisFlowは、脆弱なデータエコシステムにおいて自律的な修復と自己治癒を実現するためのマルチエージェント型AIフレームワークです。複数のエージェントが連携することで、データの安全性と信頼性を向上させることを目指しています。"
+      "raw": "AegisFlowは、脆弱なデータエコシステムにおいて自律的な修復と自己治癒を実現するためのマルチエージェント型AIフレームワークです。"
     }
   },
   {
@@ -68,7 +68,7 @@
     "link": "https://arxiv.org/abs/2610.06986",
     "analysis": {
       "error": "json_parse",
-      "raw": "EPOCHは証拠に基づく検索を通じて信頼性の高い発見を実現するシステムです。データの裏付けをもとに、より正確で信頼性のある情報を探索することを目指しています。"
+      "raw": "EPOCHは、証拠に基づいた検索を通じて信頼性の高い発見を提供するシステムです。このアプローチにより、情報の正確性と信頼性を向上させます。"
     }
   },
   {
@@ -76,87 +76,87 @@
     "link": "https://arxiv.org/abs/2610.06992",
     "analysis": {
       "error": "json_parse",
-      "raw": "交通予測の改善が信号制御に反映されない理由を探る研究。予測から意思決定への価値に関する層別診断を行い、改善点を明らかにします。"
+      "raw": "「より良い交通予測が信号制御の改善に失敗する際の分析」では、予測から意思決定への価値に関する層別診断スタディを通じて、交通予測が必ずしも信号制御の効果を向上させない理由を探ります。"
     }
   },
   {
-    "title": "Zero-Shot Visualization: Exploring Text Corpora with User-Prompted Axes",
-    "link": "https://arxiv.org/abs/2610.06889",
+    "title": "Tokka-Bench: Evaluating Tokenizers Across 100 Natural and 20 Programming Languages",
+    "link": "https://arxiv.org/abs/2610.08794",
     "analysis": {
       "error": "json_parse",
-      "raw": "ゼロショット可視化：ユーザーが指定した軸でテキストコーパスを探る手法についての研究。テキストデータの分析を促進する新しいアプローチを提案しています。"
+      "raw": "「Tokka-Bench」は、100の自然言語と20のプログラミング言語にわたるトークナイザーの評価を行うプラットフォームです。この評価により、言語処理技術の性能向上が期待されます。"
     }
   },
   {
-    "title": "Capacity, Responsiveness and Alignment: What Makes a Latent Structure Actionable",
-    "link": "https://arxiv.org/abs/2610.06897",
+    "title": "Child ASR Adaptation with Adult Retention: An Empirical Study",
+    "link": "https://arxiv.org/abs/2610.08827",
     "analysis": {
       "error": "json_parse",
-      "raw": "「潜在構造を行動可能にする要因：能力、応答性、整合性」と題されたこのニュースは、潜在的な構造が実際の行動に転換できる要素について論じています。特に、能力や応答性、整合性の重要性が強調されています。"
+      "raw": "「成人保持による子供の音声認識適応：実証研究」というタイトルの研究では、子供向けの音声認識システムが成人のデータを活用してどのように適応するかを実証的に調査しています。"
     }
   },
   {
-    "title": "Tree Navigation Without LLM Summaries: A Matched-Cost Study of Hierarchical Retrieval for Long-Document QA",
-    "link": "https://arxiv.org/abs/2610.06902",
+    "title": "When Forgetting Looks Like Improvement: Metric Masking in Streaming Diarizer Adaptation and the Price of Rehearsal",
+    "link": "https://arxiv.org/abs/2610.08828",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトルは、長文の質問応答（QA）において、階層的検索を用いたマッチコスト研究について述べています。LLMの要約なしでの木構造ナビゲーションに焦点を当てています。"
+      "raw": "「忘却が改善に見えるとき：ストリーミングダイアライザー適応におけるメトリックマスキングとリハーサルの代価」では、音声認識システムの適応において、情報の忘却が逆にパフォーマンス向上につながる場合があることを探求し、メトリックマスキングの効果とリハーサルのコストについて考察しています。"
     }
   },
   {
-    "title": "Component and Dimension Sparsity in Transformer Refusal Mechanisms",
-    "link": "https://arxiv.org/abs/2610.06903",
+    "title": "Emo-Jev: Probabilistic Reasoning for Emotion Classification with Jev",
+    "link": "https://arxiv.org/abs/2610.08829",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「Transformerの拒否メカニズムにおけるコンポーネントと次元のスパース性」は、トランスフォーマーの拒否機能に関連する要素や次元の非密度性についての研究を示しています。この研究は、トランスフォーマーの効率性や性能に与える影響を探ります。"
+      "raw": "タイトルの内容は、Emo-Jevという手法を使用して、感情分類のための確率的推論を行うというものです。この手法は、感情の分析において新しいアプローチを提供します。"
     }
   },
   {
-    "title": "Stabilizing language models under continual learning via condition-anchored distillation",
-    "link": "https://arxiv.org/abs/2610.06940",
+    "title": "CoDR: Training-Free Confidence-Drift Remasking for Diffusion Language Models",
+    "link": "https://arxiv.org/abs/2610.08833",
     "analysis": {
       "error": "json_parse",
-      "raw": "継続学習において、条件に基づく蒸留を使用して言語モデルを安定化する手法に関する研究です。このアプローチは、モデルの性能を維持しながら新しい情報を学習させることを目指しています。"
+      "raw": "CoDRは、拡散型言語モデルにおけるトレーニング不要の信頼度シフト再マスキング手法を提案しています。この手法により、モデルのパフォーマンスを向上させることが期待されます。"
     }
   },
   {
-    "title": "EMODE: Dynamic Para-Semantic Experts for Emotion-Aware Speech Language Modeling",
-    "link": "https://arxiv.org/abs/2610.06956",
+    "title": "Leveraging LLM-Generated Explanations for Detecting Emotionally Rewritten Fake News",
+    "link": "https://arxiv.org/abs/2610.08835",
     "analysis": {
       "error": "json_parse",
-      "raw": "EMODEは、感情に配慮した音声言語モデルを実現するための動的なパラセマンティック専門家を提案しています。これにより、感情を反映した自然な言語生成が可能になります。"
+      "raw": "LLM（大規模言語モデル）によって生成された説明を活用し、感情的に書き直されたフェイクニュースを検出する手法についての研究です。このアプローチにより、偽情報の識別が向上することが期待されています。"
     }
   },
   {
-    "title": "Verdicts Without Annotated Evidence: Rejection Sampling or Label-Only Post-Training for Evidence Recovery?",
-    "link": "https://arxiv.org/abs/2610.06962",
+    "title": "Beyond the Sycophancy Score: How Task, Model, and Pressure Shape LLM Yielding",
+    "link": "https://arxiv.org/abs/2610.08840",
     "analysis": {
       "error": "json_parse",
-      "raw": "注釈付き証拠なしの判決：証拠回復のためのリジェクションサンプリングまたはラベルのみのポストトレーニング手法について。"
+      "raw": "「お世辞スコアを超えて：タスク、モデル、圧力が大規模言語モデルの出力に与える影響」について、大規模言語モデル（LLM）の生成結果がどのようにタスクやモデルの特性、さらに外部からの圧力によって影響を受けるかを探る内容です。"
     }
   },
   {
-    "title": "WavePrune: One period is often enough for RoPE",
-    "link": "https://arxiv.org/abs/2610.06963",
+    "title": "Beyond Risk Prediction: Evidence Grounding and Psychosocial Factor Verification for Explainable Suicide Risk Assessment",
+    "link": "https://arxiv.org/abs/2610.08842",
     "analysis": {
       "error": "json_parse",
-      "raw": "WavePrune: RoPEにおいては、1つの期間が十分であることが多いという研究結果を示しています。これにより、効率的なデータ処理が可能となることが期待されています。"
+      "raw": "リスク予測を超えて、説明可能な自殺リスク評価のための証拠基盤と心理社会的要因の検証についての研究を行った。"
     }
   },
   {
-    "title": "Calibrated Answers About Randomized Trials From a 4-Billion-Parameter Open Model: A Registered Test and a License-Clean Release",
-    "link": "https://arxiv.org/abs/2610.07019",
+    "title": "QuanLing: Cross-Branch Validation of Language Distance Quantification on Western Romance",
+    "link": "https://arxiv.org/abs/2610.08851",
     "analysis": {
       "error": "json_parse",
-      "raw": "4兆パラメータのオープンモデルによるランダム化試験に関する精密な回答が提供され、登録テストとライセンスクリアのリリースが行われた。これにより、研究成果の透明性とアクセスが向上する。"
+      "raw": "タイトル「QuanLing: Cross-Branch Validation of Language Distance Quantification on Western Romance」は、西洋ロマンス語における言語距離の定量化に関する異なる系統間での検証を行った研究について述べています。これにより言語間の距離をより正確に測定する手法が提案されています。"
     }
   },
   {
-    "title": "Investigating Model Compression for Neural Machine Translation in the Biomedical Domain",
-    "link": "https://arxiv.org/abs/2610.07032",
+    "title": "LRCC: Generalizing Low-Rank Compression with Conditional Computation",
+    "link": "https://arxiv.org/abs/2610.08858",
     "analysis": {
       "error": "json_parse",
-      "raw": "バイオメディカル領域におけるニューラル機械翻訳のためのモデル圧縮の調査に関するニュースです。効率的な翻訳モデルの開発を目指しています。"
+      "raw": "LRCCは、条件付き計算を用いて低ランク圧縮を一般化する手法を提案しています。この技術により、モデルの効率性と性能を向上させることが期待されています。"
     }
   }
 ]
