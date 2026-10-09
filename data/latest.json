@@ -1,162 +1,162 @@
 [
   {
-    "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
-    "link": "https://arxiv.org/abs/2610.06910",
+    "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+    "link": "https://arxiv.org/abs/2610.10541",
     "analysis": {
       "error": "json_parse",
-      "raw": "GAMEGOは、実世界の資産に基づいた合成の軌跡を用いて、ゲーム開発エージェントをトレーニングする手法を提案しています。これにより、ゲーム開発の効率を向上させることを目指しています。"
+      "raw": "大規模なセマンティックテーブルの解釈とデータ品質評価のための、説明可能なヘッダー中心のフレームワークに関するニュースです。このフレームワークはテーブルデータの理解を高めることを目的としています。"
     }
   },
   {
-    "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
-    "link": "https://arxiv.org/abs/2610.06914",
+    "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+    "link": "https://arxiv.org/abs/2610.10549",
     "analysis": {
       "error": "json_parse",
-      "raw": "「Text2Dashboard」は、企業データに基づいた自然言語によるダッシュボード生成のための制御されたエージェントアーキテクチャを提供します。この技術により、ユーザーは自然な言葉でデータ可視化を簡単に作成できるようになります。"
+      "raw": "シミュレーションを通じた合成：スケーラブルなエージェントシステムのインタラクションを活用して、整合性のある企業データを生成する手法についての研究です。"
     }
   },
   {
-    "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
-    "link": "https://arxiv.org/abs/2610.06917",
+    "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+    "link": "https://arxiv.org/abs/2610.10590",
     "analysis": {
       "error": "json_parse",
-      "raw": "FluidPDは、SLO（サービスレベル目標）を意識したプレフィル・デコード手法における、インプレースエラスティシティを実現する技術です。このアプローチにより、分散型LLM（大規模言語モデル）の効率的な提供が可能になります。"
+      "raw": "ツールを使用するエージェントのための「エージェント制御の忘却」に関する研究が紹介されており、実践における可逆的な文脈のキュレーション方法が解説されています。"
     }
   },
   {
-    "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
-    "link": "https://arxiv.org/abs/2610.06919",
+    "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+    "link": "https://arxiv.org/abs/2610.10611",
     "analysis": {
       "error": "json_parse",
-      "raw": "「対照学習における意味的幾何学のためのアンカーダイバージェンス」に関するニュースです。この研究は、対照学習の効果を向上させるための新しいアプローチとして、意味的な幾何学を用いたアンカーダイバージェンスの概念を提案しています。"
+      "raw": "「エージェントAIにおける検証と自己改善：基礎と限界」では、AIシステムの評価方法や自己改善の可能性について探求し、それに伴う制約についても考察しています。"
     }
   },
   {
-    "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
-    "link": "https://arxiv.org/abs/2610.06923",
+    "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+    "link": "https://arxiv.org/abs/2610.10629",
     "analysis": {
       "error": "json_parse",
-      "raw": "RadOnc-Agentは、放射線療法のケアパス全体でAIワークフローを調整するための大規模言語モデル（LLM）を活用したフレームワークです。このシステムは、放射線治療におけるさまざまなプロセスを最適化することを目指しています。"
+      "raw": "タイトル：「ハーネスを唯一の変化可能な表面として：信頼性のある自己進化を持つLLMエージェントのクレジットパイプラインにおける適合制限と測定された入場ゲート」\n\n要約：この研究は、クレジットパイプラインにおけるLLMエージェントの自己進化を、特定の制約下でどのように実現するかを探求しています。ハーネスという概念を用いることで、エージェントの変化可能性を制限しつつ、適切な入場ゲートを設けています。"
     }
   },
   {
-    "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
-    "link": "https://arxiv.org/abs/2610.06928",
+    "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+    "link": "https://arxiv.org/abs/2610.10635",
     "analysis": {
       "error": "json_parse",
-      "raw": "「Vision Transformersにおける抽象概念の基盤となるメトニミー回路」についての研究で、視覚情報を通じて抽象的な概念をどのように理解し、関連付けるかを探ります。"
+      "raw": "「ナビゲーターの言語を話す：凍結した空中VLNエージェントのための軌道に基づく指示翻訳」というタイトルは、空中ナビゲーションにおけるエージェントの指示を効果的に翻訳する新しい手法について論じています。具体的には、軌道情報を利用して指示の理解と実行を向上させることを目的としています。"
     }
   },
   {
-    "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
-    "link": "https://arxiv.org/abs/2610.06964",
+    "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+    "link": "https://arxiv.org/abs/2610.10786",
     "analysis": {
       "error": "json_parse",
-      "raw": "「指針となる原則、情報を提供する行動：知識の抽象化を通じたエージェントの進化」というタイトルは、知識の抽象化を通じてエージェントがどのように進化し、原則がその行動を導くかを探る内容を示唆しています。"
+      "raw": "「Plan-and-Patch」は、エージェントの計画を支援するための拡散言語モデルに関する研究です。このモデルは、計画と修正を効果的に行う能力を持ち、さまざまなタスクへの応用が期待されています。"
     }
   },
   {
-    "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
-    "link": "https://arxiv.org/abs/2610.06971",
+    "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+    "link": "https://arxiv.org/abs/2610.10805",
     "analysis": {
       "error": "json_parse",
-      "raw": "AegisFlowは、脆弱なデータエコシステムにおいて自律的な修復と自己治癒を実現するためのマルチエージェント型AIフレームワークです。"
+      "raw": "「誰の真実か？人間中心のAIにおける曖昧さを受け入れる」というタイトルは、人間中心のAIにおいて、異なる視点や価値観が交差する中で、真実の定義がどのように変わり得るかを探求しています。曖昧さを受け入れることの重要性について論じています。"
     }
   },
   {
-    "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
-    "link": "https://arxiv.org/abs/2610.06986",
+    "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
+    "link": "https://arxiv.org/abs/2610.10833",
     "analysis": {
       "error": "json_parse",
-      "raw": "EPOCHは、証拠に基づいた検索を通じて信頼性の高い発見を提供するシステムです。このアプローチにより、情報の正確性と信頼性を向上させます。"
+      "raw": "「時間管理を徹底した生産的なAIエージェントの開発に向けて」というテーマで、時間予算を活用したAIの効率的な運用について述べています。"
     }
   },
   {
-    "title": "When better traffic forecasts fail to improve signal control: a layered diagnostic study of forecast-to-decision value",
-    "link": "https://arxiv.org/abs/2610.06992",
+    "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
+    "link": "https://arxiv.org/abs/2610.10857",
     "analysis": {
       "error": "json_parse",
-      "raw": "「より良い交通予測が信号制御の改善に失敗する際の分析」では、予測から意思決定への価値に関する層別診断スタディを通じて、交通予測が必ずしも信号制御の効果を向上させない理由を探ります。"
+      "raw": "「地平線不変の行動クローン用自己教師ありキーフレーム発見」というタイトルのニュースは、自己教師あり学習を用いて、特定の地平線に依存しない動作模倣のための重要なフレームを自動的に発見する方法について述べています。これは、より効果的な行動学習や自律的なシステムの開発に寄与する技術です。"
     }
   },
   {
-    "title": "Tokka-Bench: Evaluating Tokenizers Across 100 Natural and 20 Programming Languages",
-    "link": "https://arxiv.org/abs/2610.08794",
+    "title": "Diffu-LoRA: A Novel Low-Rank Adaptation for Personalized Diffusion Models",
+    "link": "https://arxiv.org/abs/2610.10550",
     "analysis": {
       "error": "json_parse",
-      "raw": "「Tokka-Bench」は、100の自然言語と20のプログラミング言語にわたるトークナイザーの評価を行うプラットフォームです。この評価により、言語処理技術の性能向上が期待されます。"
+      "raw": "Diffu-LoRAは、個別化された拡散モデルのための新しい低ランク適応手法を提案しています。このアプローチにより、モデルの効率を高めながら、ユーザーのニーズに応じたパーソナライズが可能になります。"
     }
   },
   {
-    "title": "Child ASR Adaptation with Adult Retention: An Empirical Study",
-    "link": "https://arxiv.org/abs/2610.08827",
+    "title": "Wieszcz-XIX: A 3.1-Billion-Word Corpus of Pre-1918 Polish and Temporally Bounded Language Models Trained From Scratch",
+    "link": "https://arxiv.org/abs/2610.10592",
     "analysis": {
       "error": "json_parse",
-      "raw": "「成人保持による子供の音声認識適応：実証研究」というタイトルの研究では、子供向けの音声認識システムが成人のデータを活用してどのように適応するかを実証的に調査しています。"
+      "raw": "タイトルは、「Wieszcz-XIX：1918年以前のポーランド語による31億単語のコーパスと、ゼロからトレーニングされた時間的制約のある言語モデル」です。これは、歴史的なポーランド語データを利用した大規模言語モデルの開発について述べています。"
     }
   },
   {
-    "title": "When Forgetting Looks Like Improvement: Metric Masking in Streaming Diarizer Adaptation and the Price of Rehearsal",
-    "link": "https://arxiv.org/abs/2610.08828",
+    "title": "Large Language Model-Assisted Preparation of Transportation Management Plans: A Case Study with WisDOT WisTMP System",
+    "link": "https://arxiv.org/abs/2610.10650",
     "analysis": {
       "error": "json_parse",
-      "raw": "「忘却が改善に見えるとき：ストリーミングダイアライザー適応におけるメトリックマスキングとリハーサルの代価」では、音声認識システムの適応において、情報の忘却が逆にパフォーマンス向上につながる場合があることを探求し、メトリックマスキングの効果とリハーサルのコストについて考察しています。"
+      "raw": "大型言語モデルを活用した交通管理計画の作成に関するケーススタディで、ウィスコンシン州交通局（WisDOT）のWisTMPシステムを用いた研究が紹介されています。これにより、効率的な計画策定が可能となることが示されています。"
     }
   },
   {
-    "title": "Emo-Jev: Probabilistic Reasoning for Emotion Classification with Jev",
-    "link": "https://arxiv.org/abs/2610.08829",
+    "title": "Cognitive Thermometers: Machine Learning and Logical Complexity",
+    "link": "https://arxiv.org/abs/2610.10724",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトルの内容は、Emo-Jevという手法を使用して、感情分類のための確率的推論を行うというものです。この手法は、感情の分析において新しいアプローチを提供します。"
+      "raw": "「認知温度計：機械学習と論理的複雑性」というタイトルは、機械学習技術が論理的な問題解決にどのように応用され、知能や認知の理解に寄与するかを探求する内容を示しています。"
     }
   },
   {
-    "title": "CoDR: Training-Free Confidence-Drift Remasking for Diffusion Language Models",
-    "link": "https://arxiv.org/abs/2610.08833",
+    "title": "Lossy Compressive Text Autoencoders",
+    "link": "https://arxiv.org/abs/2610.10738",
     "analysis": {
       "error": "json_parse",
-      "raw": "CoDRは、拡散型言語モデルにおけるトレーニング不要の信頼度シフト再マスキング手法を提案しています。この手法により、モデルのパフォーマンスを向上させることが期待されます。"
+      "raw": "ロスィー圧縮テキストオートエンコーダーに関するニュースで、テキストデータを効果的に圧縮しながら情報を保持する新しい手法について説明されています。この技術は、テキスト処理の効率を向上させることが期待されています。"
     }
   },
   {
-    "title": "Leveraging LLM-Generated Explanations for Detecting Emotionally Rewritten Fake News",
-    "link": "https://arxiv.org/abs/2610.08835",
+    "title": "Clarify, Then Focus: Statement Normalization for Conversation Analytics at Scale",
+    "link": "https://arxiv.org/abs/2610.10758",
     "analysis": {
       "error": "json_parse",
-      "raw": "LLM（大規模言語モデル）によって生成された説明を活用し、感情的に書き直されたフェイクニュースを検出する手法についての研究です。このアプローチにより、偽情報の識別が向上することが期待されています。"
+      "raw": "会話分析の大規模化に向けた、発言の正規化に関する取り組みを示す内容です。発言の明確化と集中化を通じて、分析の精度を向上させることを目指しています。"
     }
   },
   {
-    "title": "Beyond the Sycophancy Score: How Task, Model, and Pressure Shape LLM Yielding",
-    "link": "https://arxiv.org/abs/2610.08840",
+    "title": "Grammar Concept Annotation at Scale: Deployed Fine-Tuned Small Language Models Outperform Prompted Frontier Models",
+    "link": "https://arxiv.org/abs/2610.10827",
     "analysis": {
       "error": "json_parse",
-      "raw": "「お世辞スコアを超えて：タスク、モデル、圧力が大規模言語モデルの出力に与える影響」について、大規模言語モデル（LLM）の生成結果がどのようにタスクやモデルの特性、さらに外部からの圧力によって影響を受けるかを探る内容です。"
+      "raw": "「大規模な文法概念の注釈付け：微調整された小型言語モデルが、プロンプトを使用した最先端モデルを上回る」との研究が発表され、特に小型モデルの優位性が示されました。"
     }
   },
   {
-    "title": "Beyond Risk Prediction: Evidence Grounding and Psychosocial Factor Verification for Explainable Suicide Risk Assessment",
-    "link": "https://arxiv.org/abs/2610.08842",
+    "title": "Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute",
+    "link": "https://arxiv.org/abs/2610.10845",
     "analysis": {
       "error": "json_parse",
-      "raw": "リスク予測を超えて、説明可能な自殺リスク評価のための証拠基盤と心理社会的要因の検証についての研究を行った。"
+      "raw": "AIのための真の長期記憶が実現され、50億トークンのウィンドウを持ち、再計算よりも高速かつ低コストで動作する技術が登場しました。"
     }
   },
   {
-    "title": "QuanLing: Cross-Branch Validation of Language Distance Quantification on Western Romance",
-    "link": "https://arxiv.org/abs/2610.08851",
+    "title": "Disentangling Linguistic and Paralinguistic Information with Routed Sparse Autoencoders",
+    "link": "https://arxiv.org/abs/2610.10865",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「QuanLing: Cross-Branch Validation of Language Distance Quantification on Western Romance」は、西洋ロマンス語における言語距離の定量化に関する異なる系統間での検証を行った研究について述べています。これにより言語間の距離をより正確に測定する手法が提案されています。"
+      "raw": "タイトルは「ルーティングスパースオートエンコーダを用いて、言語情報と非言語情報を分離する」という内容です。この研究は、言語的およびパラ言語的情報を効果的に区別する手法を提案しています。"
     }
   },
   {
-    "title": "LRCC: Generalizing Low-Rank Compression with Conditional Computation",
-    "link": "https://arxiv.org/abs/2610.08858",
+    "title": "Sparse Attention Is Matrix Approximation, Not Choosing from a Bag of Values",
+    "link": "https://arxiv.org/abs/2610.10871",
     "analysis": {
       "error": "json_parse",
-      "raw": "LRCCは、条件付き計算を用いて低ランク圧縮を一般化する手法を提案しています。この技術により、モデルの効率性と性能を向上させることが期待されています。"
+      "raw": "スパースアテンションは、値の集合から選択するのではなく、行列の近似であることを示しています。この研究は、スパースアテンションの解析に新たな視点を提供しています。"
     }
   }
 ]
