@@ -1,82 +1,82 @@
 [
   [
-    "type",
-    21
+    "agent",
+    11
   ],
   [
-    "arxiv",
-    20
+    "claude",
+    10
   ],
   [
-    "announce",
-    20
-  ],
-  [
-    "abstract",
-    20
-  ],
-  [
-    "language",
-    14
+    "work",
+    8
   ],
   [
     "with",
-    13
+    7
   ],
   [
-    "agents",
-    12
+    "cloud",
+    6
   ],
   [
-    "only",
-    11
+    "nbsp",
+    6
   ],
   [
-    "that",
-    11
+    "plugins",
+    6
   ],
   [
-    "models",
-    11
+    "google",
+    5
+  ],
+  [
+    "gemini",
+    5
+  ],
+  [
+    "code",
+    4
+  ],
+  [
+    "diagram",
+    4
+  ],
+  [
+    "openai",
+    3
+  ],
+  [
+    "decisions",
+    3
+  ],
+  [
+    "public",
+    3
+  ],
+  [
+    "beta",
+    3
+  ],
+  [
+    "faster",
+    3
+  ],
+  [
+    "typed",
+    3
+  ],
+  [
+    "answers",
+    3
+  ],
+  [
+    "enterprise",
+    3
   ],
   [
     "from",
-    9
-  ],
-  [
-    "model",
-    8
-  ],
-  [
-    "human",
-    8
-  ],
-  [
-    "text",
-    7
-  ],
-  [
-    "this",
-    7
-  ],
-  [
-    "time",
-    7
-  ],
-  [
-    "large",
-    6
-  ],
-  [
-    "scale",
-    6
-  ],
-  [
-    "semantic",
-    6
-  ],
-  [
-    "tool",
-    6
+    3
   ]
 ]

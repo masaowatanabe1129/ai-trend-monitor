@@ -1,162 +1,42 @@
 [
   {
-    "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-    "link": "https://arxiv.org/abs/2610.10541",
+    "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
+    "link": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
     "analysis": {
       "error": "json_parse",
-      "raw": "大規模なセマンティックテーブルの解釈とデータ品質評価のための、説明可能なヘッダー中心のフレームワークに関するニュースです。このフレームワークはテーブルデータの理解を高めることを目的としています。"
+      "raw": "OpenAIのDecision APIがパブリックベータ版に入り、10倍速い型付きの回答を提供できるようになりました。これにより、ユーザーはより迅速かつ効率的に情報を得られるようになります。"
     }
   },
   {
-    "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-    "link": "https://arxiv.org/abs/2610.10549",
+    "title": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
+    "link": "https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/",
     "analysis": {
       "error": "json_parse",
-      "raw": "シミュレーションを通じた合成：スケーラブルなエージェントシステムのインタラクションを活用して、整合性のある企業データを生成する手法についての研究です。"
+      "raw": "Google Cloudは、企業向けのユニバーサルエージェント「Gemini Agent」を発表しました。このエージェントは、さまざまな業務を効率化するために設計されています。"
     }
   },
   {
-    "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-    "link": "https://arxiv.org/abs/2610.10590",
+    "title": "cathrynlavery/diagram-design",
+    "link": "https://github.com/cathrynlavery/diagram-design",
     "analysis": {
       "error": "json_parse",
-      "raw": "ツールを使用するエージェントのための「エージェント制御の忘却」に関する研究が紹介されており、実践における可逆的な文脈のキュレーション方法が解説されています。"
+      "raw": "「cathrynlavery/diagram-design」は、ダイアグラムのデザインに関するプロジェクトやリソースを提供するものです。視覚的な情報の整理や伝達を目的としたツールや手法が紹介されています。"
     }
   },
   {
-    "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-    "link": "https://arxiv.org/abs/2610.10611",
+    "title": "thedotmack/claude-mem",
+    "link": "https://github.com/thedotmack/claude-mem",
     "analysis": {
       "error": "json_parse",
-      "raw": "「エージェントAIにおける検証と自己改善：基礎と限界」では、AIシステムの評価方法や自己改善の可能性について探求し、それに伴う制約についても考察しています。"
+      "raw": "thedotmackの「Claude-Mem」は、AIモデル「Claude」の新機能を紹介する内容です。この機能は、メモリを活用してユーザーとのやり取りをよりパーソナライズするものです。"
     }
   },
   {
-    "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-    "link": "https://arxiv.org/abs/2610.10629",
+    "title": "anthropics/knowledge-work-plugins",
+    "link": "https://github.com/anthropics/knowledge-work-plugins",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル：「ハーネスを唯一の変化可能な表面として：信頼性のある自己進化を持つLLMエージェントのクレジットパイプラインにおける適合制限と測定された入場ゲート」\n\n要約：この研究は、クレジットパイプラインにおけるLLMエージェントの自己進化を、特定の制約下でどのように実現するかを探求しています。ハーネスという概念を用いることで、エージェントの変化可能性を制限しつつ、適切な入場ゲートを設けています。"
-    }
-  },
-  {
-    "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
-    "link": "https://arxiv.org/abs/2610.10635",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「ナビゲーターの言語を話す：凍結した空中VLNエージェントのための軌道に基づく指示翻訳」というタイトルは、空中ナビゲーションにおけるエージェントの指示を効果的に翻訳する新しい手法について論じています。具体的には、軌道情報を利用して指示の理解と実行を向上させることを目的としています。"
-    }
-  },
-  {
-    "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-    "link": "https://arxiv.org/abs/2610.10786",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「Plan-and-Patch」は、エージェントの計画を支援するための拡散言語モデルに関する研究です。このモデルは、計画と修正を効果的に行う能力を持ち、さまざまなタスクへの応用が期待されています。"
-    }
-  },
-  {
-    "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-    "link": "https://arxiv.org/abs/2610.10805",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「誰の真実か？人間中心のAIにおける曖昧さを受け入れる」というタイトルは、人間中心のAIにおいて、異なる視点や価値観が交差する中で、真実の定義がどのように変わり得るかを探求しています。曖昧さを受け入れることの重要性について論じています。"
-    }
-  },
-  {
-    "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
-    "link": "https://arxiv.org/abs/2610.10833",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「時間管理を徹底した生産的なAIエージェントの開発に向けて」というテーマで、時間予算を活用したAIの効率的な運用について述べています。"
-    }
-  },
-  {
-    "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
-    "link": "https://arxiv.org/abs/2610.10857",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「地平線不変の行動クローン用自己教師ありキーフレーム発見」というタイトルのニュースは、自己教師あり学習を用いて、特定の地平線に依存しない動作模倣のための重要なフレームを自動的に発見する方法について述べています。これは、より効果的な行動学習や自律的なシステムの開発に寄与する技術です。"
-    }
-  },
-  {
-    "title": "Diffu-LoRA: A Novel Low-Rank Adaptation for Personalized Diffusion Models",
-    "link": "https://arxiv.org/abs/2610.10550",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "Diffu-LoRAは、個別化された拡散モデルのための新しい低ランク適応手法を提案しています。このアプローチにより、モデルの効率を高めながら、ユーザーのニーズに応じたパーソナライズが可能になります。"
-    }
-  },
-  {
-    "title": "Wieszcz-XIX: A 3.1-Billion-Word Corpus of Pre-1918 Polish and Temporally Bounded Language Models Trained From Scratch",
-    "link": "https://arxiv.org/abs/2610.10592",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルは、「Wieszcz-XIX：1918年以前のポーランド語による31億単語のコーパスと、ゼロからトレーニングされた時間的制約のある言語モデル」です。これは、歴史的なポーランド語データを利用した大規模言語モデルの開発について述べています。"
-    }
-  },
-  {
-    "title": "Large Language Model-Assisted Preparation of Transportation Management Plans: A Case Study with WisDOT WisTMP System",
-    "link": "https://arxiv.org/abs/2610.10650",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "大型言語モデルを活用した交通管理計画の作成に関するケーススタディで、ウィスコンシン州交通局（WisDOT）のWisTMPシステムを用いた研究が紹介されています。これにより、効率的な計画策定が可能となることが示されています。"
-    }
-  },
-  {
-    "title": "Cognitive Thermometers: Machine Learning and Logical Complexity",
-    "link": "https://arxiv.org/abs/2610.10724",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「認知温度計：機械学習と論理的複雑性」というタイトルは、機械学習技術が論理的な問題解決にどのように応用され、知能や認知の理解に寄与するかを探求する内容を示しています。"
-    }
-  },
-  {
-    "title": "Lossy Compressive Text Autoencoders",
-    "link": "https://arxiv.org/abs/2610.10738",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "ロスィー圧縮テキストオートエンコーダーに関するニュースで、テキストデータを効果的に圧縮しながら情報を保持する新しい手法について説明されています。この技術は、テキスト処理の効率を向上させることが期待されています。"
-    }
-  },
-  {
-    "title": "Clarify, Then Focus: Statement Normalization for Conversation Analytics at Scale",
-    "link": "https://arxiv.org/abs/2610.10758",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "会話分析の大規模化に向けた、発言の正規化に関する取り組みを示す内容です。発言の明確化と集中化を通じて、分析の精度を向上させることを目指しています。"
-    }
-  },
-  {
-    "title": "Grammar Concept Annotation at Scale: Deployed Fine-Tuned Small Language Models Outperform Prompted Frontier Models",
-    "link": "https://arxiv.org/abs/2610.10827",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「大規模な文法概念の注釈付け：微調整された小型言語モデルが、プロンプトを使用した最先端モデルを上回る」との研究が発表され、特に小型モデルの優位性が示されました。"
-    }
-  },
-  {
-    "title": "Real Long-Term Memory for AI: A 50-Million-Token Window That Is Faster and Cheaper Than Recompute",
-    "link": "https://arxiv.org/abs/2610.10845",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "AIのための真の長期記憶が実現され、50億トークンのウィンドウを持ち、再計算よりも高速かつ低コストで動作する技術が登場しました。"
-    }
-  },
-  {
-    "title": "Disentangling Linguistic and Paralinguistic Information with Routed Sparse Autoencoders",
-    "link": "https://arxiv.org/abs/2610.10865",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルは「ルーティングスパースオートエンコーダを用いて、言語情報と非言語情報を分離する」という内容です。この研究は、言語的およびパラ言語的情報を効果的に区別する手法を提案しています。"
-    }
-  },
-  {
-    "title": "Sparse Attention Is Matrix Approximation, Not Choosing from a Bag of Values",
-    "link": "https://arxiv.org/abs/2610.10871",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "スパースアテンションは、値の集合から選択するのではなく、行列の近似であることを示しています。この研究は、スパースアテンションの解析に新たな視点を提供しています。"
+      "raw": "「Anthropicの知識作業プラグイン」に関するニュースでは、AI技術を用いて専門的な知識作業を支援する新しいプラグインが紹介されています。このプラグインは、業務の効率化や生産性向上を目指した機能を備えています。"
     }
   }
 ]
