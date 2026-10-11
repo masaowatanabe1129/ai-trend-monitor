@@ -1,18 +1,10 @@
 [
   {
-    "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
-    "link": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
+    "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+    "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
     "analysis": {
       "error": "json_parse",
-      "raw": "OpenAIのDecision APIがパブリックベータ版に入り、10倍速い型付きの回答を提供できるようになりました。これにより、ユーザーはより迅速かつ効率的に情報を得られるようになります。"
-    }
-  },
-  {
-    "title": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
-    "link": "https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "Google Cloudは、企業向けのユニバーサルエージェント「Gemini Agent」を発表しました。このエージェントは、さまざまな業務を効率化するために設計されています。"
+      "raw": "Sakana AIの大規模言語モデル（LLM）による査読システムが、73％の重要な主張エラーを検出しました。この成果は、研究における信頼性向上に寄与する可能性があります。"
     }
   },
   {
@@ -20,15 +12,15 @@
     "link": "https://github.com/cathrynlavery/diagram-design",
     "analysis": {
       "error": "json_parse",
-      "raw": "「cathrynlavery/diagram-design」は、ダイアグラムのデザインに関するプロジェクトやリソースを提供するものです。視覚的な情報の整理や伝達を目的としたツールや手法が紹介されています。"
+      "raw": "「cathrynlavery/diagram-design」は、図やダイアグラムのデザインに関するリソースやプロジェクトを紹介する内容です。デザインの手法やツールが取り上げられています。"
     }
   },
   {
-    "title": "thedotmack/claude-mem",
-    "link": "https://github.com/thedotmack/claude-mem",
+    "title": "alibaba/open-code-review",
+    "link": "https://github.com/alibaba/open-code-review",
     "analysis": {
       "error": "json_parse",
-      "raw": "thedotmackの「Claude-Mem」は、AIモデル「Claude」の新機能を紹介する内容です。この機能は、メモリを活用してユーザーとのやり取りをよりパーソナライズするものです。"
+      "raw": "タイトル「alibaba/open-code-review」は、アリババがオープンソースのコードレビュープロジェクトを立ち上げたことを示しています。これにより、開発者がコードの品質を向上させるための協力が促進されることを目的としています。"
     }
   },
   {
@@ -36,7 +28,15 @@
     "link": "https://github.com/anthropics/knowledge-work-plugins",
     "analysis": {
       "error": "json_parse",
-      "raw": "「Anthropicの知識作業プラグイン」に関するニュースでは、AI技術を用いて専門的な知識作業を支援する新しいプラグインが紹介されています。このプラグインは、業務の効率化や生産性向上を目指した機能を備えています。"
+      "raw": "Anthropicが新しい知識作業用プラグインを発表しました。これにより、ユーザーはAIを利用して情報検索やタスク管理の効率を向上させることが可能になります。"
+    }
+  },
+  {
+    "title": "addyosmani/agent-skills",
+    "link": "https://github.com/addyosmani/agent-skills",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "addyosmani/agent-skillsは、AIエージェントが特定のスキルを習得し適切に機能するためのリポジトリで、開発者向けに技術的リソースやガイドラインを提供します。"
     }
   }
 ]
