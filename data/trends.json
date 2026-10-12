@@ -1,82 +1,82 @@
 [
   [
-    "review",
-    9
+    "type",
+    23
   ],
   [
-    "claude",
-    9
+    "arxiv",
+    20
   ],
   [
-    "code",
-    8
+    "announce",
+    20
   ],
   [
-    "diagram",
-    6
+    "abstract",
+    20
   ],
   [
-    "plugins",
-    6
+    "models",
+    16
   ],
   [
-    "skills",
-    6
+    "language",
+    15
   ],
   [
-    "agent",
-    5
+    "this",
+    14
   ],
   [
-    "design",
-    5
-  ],
-  [
-    "open",
-    5
-  ],
-  [
-    "work",
-    4
-  ],
-  [
-    "sakana",
-    3
-  ],
-  [
-    "system",
-    3
-  ],
-  [
-    "core",
-    3
-  ],
-  [
-    "claim",
-    3
-  ],
-  [
-    "errors",
-    3
-  ],
-  [
-    "https",
-    3
+    "model",
+    14
   ],
   [
     "that",
-    3
+    13
   ],
   [
-    "your",
-    3
+    "data",
+    13
+  ],
+  [
+    "learning",
+    10
+  ],
+  [
+    "tasks",
+    10
   ],
   [
     "agents",
-    3
+    10
   ],
   [
-    "peer",
-    2
+    "their",
+    9
+  ],
+  [
+    "large",
+    9
+  ],
+  [
+    "with",
+    9
+  ],
+  [
+    "training",
+    9
+  ],
+  [
+    "self",
+    8
+  ],
+  [
+    "however",
+    6
+  ],
+  [
+    "event",
+    6
   ]
 ]
