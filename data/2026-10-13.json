@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+    "link": "https://arxiv.org/abs/2610.12493",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルは「説明可能なAIの忠実性メトリクスにおける構造的ミスアライメントに関するポジションペーパー」です。内容としては、特徴の重要性に関する忠実性の評価指標が持つ問題点と、その改善策について論じています。"
+    }
+  },
+  {
+    "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+    "link": "https://arxiv.org/abs/2610.12536",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「EliteTable」は、実行可能な制御ポリシーのための自己改善プログラム検索を行う新しい手法です。この技術により、効率的なポリシーの探索が可能となります。"
+    }
+  },
+  {
+    "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+    "link": "https://arxiv.org/abs/2610.12542",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「等予算モンテカルロ木探索とランダム化再起動リストスケジューリングの比較：DAGワークフローに関する制御された等予算計算研究」というタイトルのニュースは、DAG（有向非巡回グラフ）ワークフローにおける二つの異なるアルゴリズムの性能を比較した研究について述べています。研究では、同じ計算予算のもとでの効果を検証しています。"
+    }
+  },
+  {
+    "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+    "link": "https://arxiv.org/abs/2610.12593",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「知らないことを知る：閉ループ学習のための生成空間を進化させるエージェントデータ合成」というタイトルの記事では、AIが未知の情報を学ぶためにデータを合成し、学習プロセスを最適化するアプローチについて探求しています。"
+    }
+  },
+  {
+    "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+    "link": "https://arxiv.org/abs/2610.12596",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "SpireBenchは、ゲーム「Slay the Spire」を使って、エージェントモデルの長期戦略プレイを評価するためのフレームワークです。このツールを利用することで、AIの戦略的判断力や能力を検証できます。"
+    }
+  },
+  {
+    "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
+    "link": "https://arxiv.org/abs/2610.12598",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「バイナリーを超えた検証可能な報酬：SWEエージェントのための行動自己報酬」というタイトルは、SWE（ソフトウェア工学）エージェントが自己の行動に基づいて報酬を得る新しい方法についての研究を示しています。従来の報酬体系を超え、より柔軟で検証可能な報酬システムの提案をしています。"
+    }
+  },
+  {
+    "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
+    "link": "https://arxiv.org/abs/2610.12655",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "CLEATは、インタラクティブエージェントのための価値に基づく明確化学習手法を提案する研究です。この手法は、エージェントがユーザーの意図をより良く理解し、効果的に応答する能力を向上させることを目指しています。"
+    }
+  },
+  {
+    "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
+    "link": "https://arxiv.org/abs/2610.12659",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「MagicBeanStalk: RLVRゼロアドバンテージ罠からの脱出 - 再帰的データ合成」では、再帰的データ合成を用いて、強化学習におけるアドバンテージの欠如を克服する手法を提案しています。これにより、より効果的な学習プロセスを目指しています。"
+    }
+  },
+  {
+    "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
+    "link": "https://arxiv.org/abs/2610.12762",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「信頼性と完全性を持つLLM支援による階層的ハードウェア知識グラフの自動構築」というタイトルは、LLM（大規模言語モデル）を活用して、階層的なハードウェア関連の知識を体系的に自動で構築する方法について述べています。"
+    }
+  },
+  {
+    "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
+    "link": "https://arxiv.org/abs/2610.12781",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「少数のペアデータからの表現整合性を蒸留最適輸送を通じて実現する」では、限られたデータを用いてAIの表現を効率的に整え、異なるデータ間の関連性を最適化する手法を提案しています。"
+    }
+  },
+  {
+    "title": "AutoIndexer: Flexible-Order Decoding by Training Causal Models on Chains of Edits",
+    "link": "https://arxiv.org/abs/2610.12545",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "AutoIndexerは、編集の連鎖に基づいて因果モデルを訓練することで、柔軟な順序デコーディングを実現する手法です。これにより、より効果的な情報検索やデータ整理が可能になります。"
+    }
+  },
+  {
+    "title": "SWE-Duel: Towards a Self-Scaling Arena for Coding Agents",
+    "link": "https://arxiv.org/abs/2610.12569",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "SWE-Duelは、コーディングエージェントのための自己スケーリングアリーナを目指すプロジェクトです。この取り組みでは、エージェントが競い合う環境を自動で調整し、技術を向上させることを目指しています。"
+    }
+  },
+  {
+    "title": "Contextual Correction of Parallel Draftsfor Speculative Decoding",
+    "link": "https://arxiv.org/abs/2610.12570",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「Contextual Correction of Parallel Drafts for Speculative Decoding」は、推測的デコーディングにおける並行草案の文脈による修正に関する研究を示しています。この手法は、文章生成の精度向上を目指しています。"
+    }
+  },
+  {
+    "title": "CLUE: A Contrastive Learning Framework for Unsupervised Event Type Induction and Annotation",
+    "link": "https://arxiv.org/abs/2610.12580",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「CLUE: A Contrastive Learning Framework for Unsupervised Event Type Induction and Annotation」は、教師なしでイベントタイプを誘導し、注釈を付けるための対照的学習フレームワーク「CLUE」について述べています。この研究は、イベントの自動分類とその注釈付けを効率化する新たな手法を提案しています。"
+    }
+  },
+  {
+    "title": "One Model to Loop Them All: Elastic Latent Recurrence for Language Models",
+    "link": "https://arxiv.org/abs/2610.12582",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「すべてを統一するモデル：言語モデルのための弾性潜在再帰」では、言語処理の性能を向上させるために、新しい再帰的モデルアーキテクチャが提案されています。このモデルは、柔軟な潜在変数を利用して、効率的な情報の循環を可能にします。"
+    }
+  },
+  {
+    "title": "Reflective Prompt Optimization of a Deep-Research Agent: A Topic-Disjoint, Multi-Seed Protocol for Measuring Transferable Gains and Prompt-Level Overfitting",
+    "link": "https://arxiv.org/abs/2610.12601",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "深層研究エージェントの反射的プロンプト最適化についての研究で、トピックが異なる多様なシードプロトコルを用いて、移転可能な利益とプロンプトレベルの過学習を測定する方法が提案された。"
+    }
+  },
+  {
+    "title": "Self-Preservation in Language Models",
+    "link": "https://arxiv.org/abs/2610.12602",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "言語モデルにおける自己保存のメカニズムについての研究が進展。モデルが自身の性能や安全性を維持する方法を探求している。"
+    }
+  },
+  {
+    "title": "GeopoliticalQA: Benchmarking Retrieval and Generation over Intelligence Reports",
+    "link": "https://arxiv.org/abs/2610.12617",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「GeopoliticalQA: Intelligence Reportsに関する情報取得と生成のベンチマーク」は、地政学的な情報に基づいて、知能報告書に対するデータ取得と生成手法の評価を行う研究を紹介しています。"
+    }
+  },
+  {
+    "title": "perturber: A Stateless Service for Semantics-Preserving Text Perturbations",
+    "link": "https://arxiv.org/abs/2610.12667",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "perturber: 意味を保持するテキストの変動を提供するステートレスサービスです。このサービスは、テキストの内容を損なうことなく、多様な表現を生成します。"
+    }
+  },
+  {
+    "title": "GeoFitBench-LLM: A Benchmark for Assessing Large Language Models' Capabilities in Geospatial Data Requirements Elicitation for Geo-Analytic Tasks",
+    "link": "https://arxiv.org/abs/2610.12669",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "GeoFitBench-LLMは、大型言語モデルが地理空間データの要件を抽出する能力を評価するためのベンチマークです。これは、地理分析タスクにおける性能を測定することを目的としています。"
+    }
+  }
+]
