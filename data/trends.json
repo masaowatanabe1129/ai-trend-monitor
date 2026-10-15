@@ -1,82 +1,82 @@
 [
   [
-    "type",
-    23
+    "skills",
+    11
   ],
   [
-    "arxiv",
-    20
+    "agent",
+    7
   ],
   [
-    "announce",
-    20
+    "gemini",
+    5
   ],
   [
-    "abstract",
-    20
+    "context",
+    5
   ],
   [
-    "models",
-    16
+    "skill",
+    5
   ],
   [
-    "language",
-    15
+    "output",
+    4
   ],
   [
-    "this",
-    14
+    "your",
+    4
   ],
   [
-    "model",
-    14
+    "diagram",
+    4
   ],
   [
-    "that",
-    13
+    "design",
+    4
   ],
   [
-    "data",
-    13
+    "vercel",
+    4
   ],
   [
-    "learning",
-    10
+    "labs",
+    4
   ],
   [
-    "tasks",
-    10
+    "google",
+    3
   ],
   [
-    "agents",
-    10
+    "argon",
+    3
   ],
   [
-    "their",
-    9
+    "mode",
+    3
   ],
   [
-    "large",
-    9
+    "tool",
+    3
+  ],
+  [
+    "claude",
+    3
+  ],
+  [
+    "releases",
+    2
   ],
   [
     "with",
-    9
+    2
   ],
   [
-    "training",
-    9
+    "token",
+    2
   ],
   [
-    "self",
-    8
-  ],
-  [
-    "however",
-    6
-  ],
-  [
-    "event",
-    6
+    "limit",
+    2
   ]
 ]
