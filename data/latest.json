@@ -1,34 +1,162 @@
 [
   {
-    "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
-    "link": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
+    "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+    "link": "https://arxiv.org/abs/2610.14005",
     "analysis": {
       "error": "json_parse",
-      "raw": "GoogleがGemini 4 Argon APIを発表し、1百万トークンの出力制限を設けました。この新機能により、大規模なデータ処理が可能になります。"
+      "raw": "「人工性の初めての試験：超知能のためのLLM参照Cテスト」というタイトルは、超知能を評価するために大規模言語モデル(LLM)を用いた新しい試験を紹介しています。人工知能の能力を測る新たな方法に焦点を当てています。"
     }
   },
   {
-    "title": "mksglu/context-mode",
-    "link": "https://github.com/mksglu/context-mode",
+    "title": "The Silent Failures in Agentic Data Science",
+    "link": "https://arxiv.org/abs/2610.14115",
     "analysis": {
       "error": "json_parse",
-      "raw": "「mksglu/context-mode」は、コンテキストに基づいたモードを提供するAIツールに関するニュースです。このツールは、ユーザーがより効率的に情報を処理できるようにすることを目的としています。"
+      "raw": "タイトル「エージェントデータサイエンスにおける静かな失敗」では、データサイエンスの分野での見えない課題や失敗について論じています。特にエージェントに関連する問題点や、注意が払われていないリスクについて焦点を当てています。"
     }
   },
   {
-    "title": "cathrynlavery/diagram-design",
-    "link": "https://github.com/cathrynlavery/diagram-design",
+    "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+    "link": "https://arxiv.org/abs/2610.14118",
     "analysis": {
       "error": "json_parse",
-      "raw": "「cathrynlavery/diagram-design」は、図やデザインの作成に関するプロジェクトやリソースを提供しています。デザインの効率を向上させるためのツールや手法に焦点を当てています。"
+      "raw": "タイトル「ClawLoop: 自己改善エージェントのためのハーネスネイティブトレーニングループ」は、自己改善機能を持つエージェントを開発するための新しいトレーニング手法「ClawLoop」を紹介しています。この手法は、エージェントが自らの経験を活用して効率的に学習することを目指しています。"
     }
   },
   {
-    "title": "vercel-labs/skills",
-    "link": "https://github.com/vercel-labs/skills",
+    "title": "Correction Training for Diffusion Models",
+    "link": "https://arxiv.org/abs/2610.14136",
     "analysis": {
       "error": "json_parse",
-      "raw": "Vercel Labsが提供する「skills」は、ウェブ開発者向けの新しい機能で、効率的な開発を支援します。これにより、開発者はスキルを向上させ、プロジェクトの生産性を高めることが可能です。"
+      "raw": "タイトル「拡散モデルの補正訓練」について、拡散モデルの性能を向上させるための新しい補正訓練手法が提案されています。この手法はモデルの出力品質を改善し、より正確な生成を可能にします。"
+    }
+  },
+  {
+    "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+    "link": "https://arxiv.org/abs/2610.14146",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「Long-Horizon-Terminal-Bench 2.0」は、多様なタスクの自動構築とエージェントの持続的な進捗を測定するための新しいフレームワークです。これにより、長期的なタスク遂行能力が評価される仕組みが導入されます。"
+    }
+  },
+  {
+    "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+    "link": "https://arxiv.org/abs/2610.14149",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "VETNETは、AIを活用した獣医学の革新に向けて、ベンチマークデータセットを作成する取り組みです。これにより、獣医療の改善を促進することを目指しています。"
+    }
+  },
+  {
+    "title": "Unconstrained CTI-REALM with Open-Weights",
+    "link": "https://arxiv.org/abs/2610.14180",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「オープンウェイトを用いた無制約型CTI-REALM」というタイトルは、今までの制約から解放された情報技術の手法であるCTI-REALMに関する新しいアプローチを提案していることを示しています。これにより、柔軟性や効率性が向上する可能性があります。"
+    }
+  },
+  {
+    "title": "Visualizing the World Model in an Agent's Value Function",
+    "link": "https://arxiv.org/abs/2610.14186",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "エージェントの価値関数における世界モデルの可視化について紹介するニュースです。この研究は、エージェントが環境をどのように理解し、価値を評価しているのかを可視化する方法に焦点を当てています。"
+    }
+  },
+  {
+    "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
+    "link": "https://arxiv.org/abs/2610.14190",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "クロスモーダル潜在影響：視覚と言語モデルのためのパッチレベルのトレーニングサンプル帰属についての研究です。この研究は、異なるモード間の関連性を探る方法を提案しています。"
+    }
+  },
+  {
+    "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
+    "link": "https://arxiv.org/abs/2610.14209",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル: 「SLMは運転席にいるべきか？クラウド書き込みエージェントプログラムにおけるローカルモデルの解釈者としての研究」\n\n要約: この研究では、ローカルモデルがクラウドベースのエージェントプログラムにおいて解釈者としての役割を果たすべきかどうかを検討しています。SLM（ストレート・ローカル・モデル）の利用が、エージェントの性能や理解に与える影響について議論されています。"
+    }
+  },
+  {
+    "title": "Following the Flow the Law Requires: Training Voice Agents to Transfer to Unseen Regulated Procedures in Debt Collection",
+    "link": "https://arxiv.org/abs/2610.18881",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "法律に従った流れを追求し、音声エージェントを訓練して債務回収における未知の規制手続きに適応させる方法について述べています。"
+    }
+  },
+  {
+    "title": "Evaluating Large Language Models for Multilingual Abstractive Summarization: A Comprehensive Study of English and Bengali",
+    "link": "https://arxiv.org/abs/2610.19003",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "大規模言語モデルを用いた多言語要約の評価に関する包括的な研究で、英語とベンガル語の抽象的要約に焦点を当てています。"
+    }
+  },
+  {
+    "title": "Can LLMs Access their World Knowledge for Event Prediction?",
+    "link": "https://arxiv.org/abs/2610.19021",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルは「LLMはイベント予測のために世界知識にアクセスできるか？」です。このニュースでは、大規模言語モデル（LLM）が持つ知識を活用して、未来のイベントを予測する能力について探討しています。"
+    }
+  },
+  {
+    "title": "Joint Subspace Sparse Attention for Efficient Long-Context Decoding",
+    "link": "https://arxiv.org/abs/2610.19026",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "長文デコーディングの効率を高めるための「共同サブスペーススパースアテンション」技術に関するニュースです。このアプローチは、長いコンテキストを処理する際の計算リソースの削減を目指しています。"
+    }
+  },
+  {
+    "title": "Crossing the Gender Binary: Modelling Gendered Reference in Science Fiction and General Fiction",
+    "link": "https://arxiv.org/abs/2610.19028",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「性別バイナリーを越えて：サイエンスフィクションと一般フィクションにおける性別参照のモデル化」は、フィクションにおける性別の表現とその多様性を探求する内容です。特に、伝統的な性別概念を超えた新しい視点を提案しています。"
+    }
+  },
+  {
+    "title": "Pre-Trained Language Models as Zero-Shot Tools for Social Science Research",
+    "link": "https://arxiv.org/abs/2610.19048",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "事前学習された言語モデルが、ゼロショットで社会科学研究に役立つツールとして機能することが示されている。これにより、従来の方法に依存せずに新たな知見を得る可能性が広がる。"
+    }
+  },
+  {
+    "title": "Similar Models, Broken Odds: Where Luce's Axiom Fails in Chatbot Arena",
+    "link": "https://arxiv.org/abs/2610.19095",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルは「類似モデル、崩れたオッズ：チャットボット分野におけるルースの公理の失敗」です。このニュースでは、チャットボットの性能比較において、ルースの公理が適用できないケースを取り上げています。類似したモデル間でのオッズ（確率）の不整合が問題として指摘されています。"
+    }
+  },
+  {
+    "title": "From Copying to Composition: How Language Models Develop In-Context Learning",
+    "link": "https://arxiv.org/abs/2610.19113",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "言語モデルがどのように文脈内学習を発展させていくのか、模倣から構成への変化に焦点を当てたニュースです。"
+    }
+  },
+  {
+    "title": "DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision",
+    "link": "https://arxiv.org/abs/2610.19118",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「DecisionRobust」は、テキストとビジョンにおけるJEVスタイルの意思決定モデルのロバスト性を評価するベンチマークを提供するものです。これにより、異なるモデルの堅牢性を比較することが可能になります。"
+    }
+  },
+  {
+    "title": "CAFE: Confining Feature Distillation to Language-Routed Adapters for Compact Multilingual Automatic Speech Recognition",
+    "link": "https://arxiv.org/abs/2610.19134",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "CAFEは、言語経路アダプタに制限した特徴蒸留技術を用いて、コンパクトな多言語自動音声認識を実現する手法を提案しています。このアプローチにより、効率的なモデルの構築を目指しています。"
     }
   }
 ]
