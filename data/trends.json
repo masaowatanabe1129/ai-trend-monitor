@@ -1,82 +1,82 @@
 [
   [
-    "arxiv",
-    20
+    "plugins",
+    9
   ],
   [
-    "announce",
-    20
+    "plugin",
+    7
   ],
   [
-    "type",
-    20
+    "cursor",
+    6
   ],
   [
-    "abstract",
-    20
+    "claude",
+    5
   ],
   [
-    "with",
-    16
+    "official",
+    5
   ],
   [
-    "this",
-    14
+    "code",
+    5
   ],
   [
-    "model",
-    12
+    "context",
+    5
   ],
   [
-    "reasoning",
-    10
+    "directory",
+    4
+  ],
+  [
+    "https",
+    3
+  ],
+  [
+    "mode",
+    3
+  ],
+  [
+    "anthropic",
+    2
+  ],
+  [
+    "high",
+    2
+  ],
+  [
+    "quality",
+    2
+  ],
+  [
+    "other",
+    2
   ],
   [
     "that",
-    10
+    2
   ],
   [
-    "language",
-    9
+    "they",
+    2
   ],
   [
-    "models",
-    9
+    "each",
+    2
   ],
   [
-    "agent",
-    9
+    "optimization",
+    2
   ],
   [
-    "agents",
-    8
+    "memory",
+    2
   ],
   [
-    "from",
-    7
-  ],
-  [
-    "based",
-    7
-  ],
-  [
-    "evidence",
-    7
-  ],
-  [
-    "multi",
-    7
-  ],
-  [
-    "large",
-    6
-  ],
-  [
-    "time",
-    6
-  ],
-  [
-    "when",
-    6
+    "tools",
+    2
   ]
 ]

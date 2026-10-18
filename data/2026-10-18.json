@@ -1,0 +1,34 @@
+[
+  {
+    "title": "anthropics/claude-plugins-official",
+    "link": "https://github.com/anthropics/claude-plugins-official",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「Anthropicが提供するClaudeプラグインの公式情報」が発表されました。これにより、Claudeの機能がさらに拡張され、ユーザーが多様なタスクをこなすための新たなツールが利用可能になります。"
+    }
+  },
+  {
+    "title": "affaan-m/ECC",
+    "link": "https://github.com/affaan-m/ECC",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「affaan-m/ECC」は、特定の技術やプロジェクトに関連するAIニュースのタイトルです。詳細は明示されていませんが、主に機械学習やAIの進行状況や新しい取り組みに関する情報が含まれている可能性があります。"
+    }
+  },
+  {
+    "title": "mksglu/context-mode",
+    "link": "https://github.com/mksglu/context-mode",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「mksglu/context-mode」は、特定のコンテキストに基づいて情報を処理するAIシステムの開発に関するニュースです。このシステムは、ユーザーの入力に応じてコンテキストを理解し、より適切な応答を提供することを目指しています。"
+    }
+  },
+  {
+    "title": "cursor/plugins",
+    "link": "https://github.com/cursor/plugins",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「cursor/plugins」は、AIによるプラグインやツールの開発・管理に関する情報を提供するもので、開発者が効率的に作業できるようにすることを目的としています。"
+    }
+  }
+]

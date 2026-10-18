@@ -1,162 +1,34 @@
 [
   {
-    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-    "link": "https://arxiv.org/abs/2610.20665",
+    "title": "anthropics/claude-plugins-official",
+    "link": "https://github.com/anthropics/claude-plugins-official",
     "analysis": {
       "error": "json_parse",
-      "raw": "「世界は待ってくれない：ライブクロック下でのエージェントの評価と教育」というタイトルでは、リアルタイムの時間制約内でエージェントのパフォーマンスを評価し、効果的に教育する方法について考察されています。"
+      "raw": "「Anthropicが提供するClaudeプラグインの公式情報」が発表されました。これにより、Claudeの機能がさらに拡張され、ユーザーが多様なタスクをこなすための新たなツールが利用可能になります。"
     }
   },
   {
-    "title": "Evaluating Model Capabilities After Benchmark Saturation",
-    "link": "https://arxiv.org/abs/2610.20667",
+    "title": "affaan-m/ECC",
+    "link": "https://github.com/affaan-m/ECC",
     "analysis": {
       "error": "json_parse",
-      "raw": "ベンチマークの飽和後にモデルの能力を評価するというテーマについて、AIモデルの性能が限界に達した際の評価方法を探る内容です。新たな基準や評価軸の必要性が示唆されています。"
+      "raw": "「affaan-m/ECC」は、特定の技術やプロジェクトに関連するAIニュースのタイトルです。詳細は明示されていませんが、主に機械学習やAIの進行状況や新しい取り組みに関する情報が含まれている可能性があります。"
     }
   },
   {
-    "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
-    "link": "https://arxiv.org/abs/2610.20669",
+    "title": "mksglu/context-mode",
+    "link": "https://github.com/mksglu/context-mode",
     "analysis": {
       "error": "json_parse",
-      "raw": "「価値に基づくスケジュール調整による離散拡散における逐次モンテカルロ法の効率化」というタイトルは、離散拡散プロセスにおいて逐次モンテカルロ法を迅速化するための価値情報に基づくスケジュールの調整方法を提案しています。"
+      "raw": "「mksglu/context-mode」は、特定のコンテキストに基づいて情報を処理するAIシステムの開発に関するニュースです。このシステムは、ユーザーの入力に応じてコンテキストを理解し、より適切な応答を提供することを目指しています。"
     }
   },
   {
-    "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
-    "link": "https://arxiv.org/abs/2610.20675",
+    "title": "cursor/plugins",
+    "link": "https://github.com/cursor/plugins",
     "analysis": {
       "error": "json_parse",
-      "raw": "「AlphaDiana」は、検証可能な推論タスクにおけるエージェントの性能を測定するためのシステムです。このシステムは、推論の正確性や効率を評価する目的で設計されています。"
-    }
-  },
-  {
-    "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
-    "link": "https://arxiv.org/abs/2610.20676",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「正確性フィードバックが証拠を消す時：Verusにおける相分離された完全性監査」では、Verusの監査手法が、フィードバックによって証拠を失う可能性があることを指摘しています。研究は、正確性と完全性のバランスを取る重要性に焦点を当てています。"
-    }
-  },
-  {
-    "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
-    "link": "https://arxiv.org/abs/2610.20679",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「対事実近隣リスクフィールド：視覚・言語モデルのための証拠に基づく選択的安全性」というタイトルは、視覚と言語を統合するAIモデルにおける安全性の向上を目的とし、リスクを評価する新しい手法を提案していることを示しています。"
-    }
-  },
-  {
-    "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
-    "link": "https://arxiv.org/abs/2610.20681",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「IneqAgent」は、シンボリックコンピュテーションを用いて、Leanにおけるエージェントの不平等性の証明を行う研究です。この成果は、数学的証明やプログラミング言語の新たな利用法に貢献しています。"
-    }
-  },
-  {
-    "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
-    "link": "https://arxiv.org/abs/2610.20685",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "L2G-SRは、LLM（大規模言語モデル）を基にしたシンボリック回帰を導く新しい学習手法を提案しています。この手法は、シンボリック回帰の精度向上を目指しています。"
-    }
-  },
-  {
-    "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
-    "link": "https://arxiv.org/abs/2610.20764",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「現実が認知を超えるとき：信頼性の高い知性のための新しいスケーリング原則」と題するこの記事では、知能の信頼性を高めるための新たなアプローチが提唱されています。具体的には、現実の複雑さに対処するためのスケーリング原則について議論されています。"
-    }
-  },
-  {
-    "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
-    "link": "https://arxiv.org/abs/2610.20780",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「ARIA: マルチエージェントシステムのためのランタイム検査と修正」では、複数のエージェントが動作するシステムにおいて、実行中の検査と修正を行う手法について論じています。これによりシステムの効率性や信頼性を向上させることを目指しています。"
-    }
-  },
-  {
-    "title": "DeepUnfolding_Agent: A Classical_Quantum Adaptive Control API",
-    "link": "https://arxiv.org/abs/2610.20615",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「DeepUnfolding_Agent: 古典量子適応制御API」に関するニュースで、最新のAI技術を用いた制御手法が提案されています。このAPIは、古典的および量子システムを適応的に制御するための新しいアプローチを提供しています。"
-    }
-  },
-  {
-    "title": "PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design",
-    "link": "https://arxiv.org/abs/2610.20628",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "PRISMは、特権的な兄弟指導によるマルチエージェントのトポロジーデザインに関する研究です。この手法は、複数のエージェント間の効率的な通信構造の設計を目的としています。"
-    }
-  },
-  {
-    "title": "A Large-Scale Dataset for Multi-Class Financial News Classification in Brazilian Portuguese",
-    "link": "https://arxiv.org/abs/2610.20630",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "ブラジルポルトガル語における多クラス財務ニュース分類のための大規模データセットが提供されるという内容です。このデータセットは、さまざまな財務関連のニュースを分類するための研究や実践に役立ちます。"
-    }
-  },
-  {
-    "title": "Real-time Chatbot Romance Scam Detection in Stage Classification",
-    "link": "https://arxiv.org/abs/2610.20631",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "リアルタイムでチャットボットを利用した恋愛詐欺の検出手法が、ステージ分類によって行われるという内容です。この研究は、詐欺の進行状況に応じた効果的な対応を検討しています。"
-    }
-  },
-  {
-    "title": "MeddeX: A Retrieval-Augmented LLaMA-3 System with Gemini Vision for Evidence-Backed Medical Report Analysis",
-    "link": "https://arxiv.org/abs/2610.20632",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "MeddeXは、ジェモニビジョンを搭載したRetrieval-Augmented LLaMA-3システムで、証拠に基づく医療報告の分析を行う技術を紹介しています。"
-    }
-  },
-  {
-    "title": "Context Injection and Long-Horizon Reliability: Separating Duplicate Recognition, Local Processing, and Counter Tracking",
-    "link": "https://arxiv.org/abs/2610.20633",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「コンテキスト注入と長期的信頼性：重複認識、ローカル処理、カウンタートラッキングの分離」というタイトルでは、AIにおける重複認識やデータ処理のプロセスを切り離し、信頼性を高める手法について議論しています。"
-    }
-  },
-  {
-    "title": "Jev-as-a-Judge for RAG Claim Verification: Confidence-Gated Cascading Between a Non-Generative Verifier and a Frontier LLM",
-    "link": "https://arxiv.org/abs/2610.20634",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「Jev-as-a-Judge」は、非生成的な検証者と最新の大規模言語モデル（LLM）との間で自信に基づいた階層的な検証を行う手法を提案します。これにより、RAG（Retrieval-Augmented Generation）によるクレームの検証精度が向上します。"
-    }
-  },
-  {
-    "title": "Exploring the Design Space of Permutation Diffusion LLMs",
-    "link": "https://arxiv.org/abs/2610.20635",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「順列拡散LLMの設計領域を探る」というタイトルでは、順列を用いた新たなタイプの大規模言語モデル（LLM）の設計や特性についての研究を紹介しています。これにより、モデルの性能向上や新しい応用の可能性が探求されています。"
-    }
-  },
-  {
-    "title": "AbridgeKV: Compressing Long Reasoning into the KV Cache of Learned Pause Tokens",
-    "link": "https://arxiv.org/abs/2610.20641",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "AbridgeKVは、長い推論を学習したポーズトークンのKVキャッシュに圧縮する技術を提案しています。これにより、効率的な情報処理とメモリの最適化が可能になります。"
-    }
-  },
-  {
-    "title": "CoTS: Competitive Token Selection for Latent Reasoning in Large Language Models",
-    "link": "https://arxiv.org/abs/2610.20642",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "CoTS（競争的トークン選択）は、大規模言語モデルにおける潜在的な推論のための新しい手法を提案しています。この手法により、文脈に基づいたトークンの選択を最適化し、モデルの推論能力を向上させることを目指しています。"
+      "raw": "タイトル「cursor/plugins」は、AIによるプラグインやツールの開発・管理に関する情報を提供するもので、開発者が効率的に作業できるようにすることを目的としています。"
     }
   }
 ]
