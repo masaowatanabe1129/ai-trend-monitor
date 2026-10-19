@@ -1,30 +1,38 @@
 [
   [
-    "plugins",
-    9
-  ],
-  [
-    "plugin",
-    7
-  ],
-  [
-    "cursor",
-    6
+    "code",
+    19
   ],
   [
     "claude",
+    15
+  ],
+  [
+    "your",
+    11
+  ],
+  [
+    "that",
+    6
+  ],
+  [
+    "memory",
+    6
+  ],
+  [
+    "coding",
+    6
+  ],
+  [
+    "plugins",
     5
   ],
   [
-    "official",
+    "agent",
     5
   ],
   [
-    "code",
-    5
-  ],
-  [
-    "context",
+    "orca",
     5
   ],
   [
@@ -33,11 +41,31 @@
   ],
   [
     "https",
+    4
+  ],
+  [
+    "search",
+    4
+  ],
+  [
+    "official",
     3
   ],
   [
-    "mode",
+    "codex",
     3
+  ],
+  [
+    "agents",
+    3
+  ],
+  [
+    "explaining",
+    3
+  ],
+  [
+    "anthropics",
+    2
   ],
   [
     "anthropic",
@@ -49,34 +77,6 @@
   ],
   [
     "quality",
-    2
-  ],
-  [
-    "other",
-    2
-  ],
-  [
-    "that",
-    2
-  ],
-  [
-    "they",
-    2
-  ],
-  [
-    "each",
-    2
-  ],
-  [
-    "optimization",
-    2
-  ],
-  [
-    "memory",
-    2
-  ],
-  [
-    "tools",
     2
   ]
 ]
