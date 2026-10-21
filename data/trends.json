@@ -1,82 +1,82 @@
 [
   [
-    "arxiv",
-    20
-  ],
-  [
-    "announce",
-    20
-  ],
-  [
-    "type",
-    20
-  ],
-  [
-    "abstract",
-    20
-  ],
-  [
-    "language",
-    15
-  ],
-  [
-    "models",
-    13
-  ],
-  [
-    "that",
-    11
-  ],
-  [
-    "user",
-    11
-  ],
-  [
-    "with",
-    11
-  ],
-  [
-    "agents",
-    9
-  ],
-  [
-    "from",
-    9
-  ],
-  [
-    "systems",
+    "your",
     8
   ],
   [
-    "task",
-    8
-  ],
-  [
-    "based",
+    "claude",
     7
   ],
   [
-    "model",
+    "coding",
     7
-  ],
-  [
-    "their",
-    7
-  ],
-  [
-    "reasoning",
-    6
-  ],
-  [
-    "which",
-    6
   ],
   [
     "agent",
+    7
+  ],
+  [
+    "agents",
+    6
+  ],
+  [
+    "tokens",
     5
   ],
   [
-    "states",
+    "code",
     5
+  ],
+  [
+    "opencode",
+    5
+  ],
+  [
+    "memory",
+    5
+  ],
+  [
+    "orca",
+    5
+  ],
+  [
+    "inception",
+    4
+  ],
+  [
+    "search",
+    4
+  ],
+  [
+    "open",
+    4
+  ],
+  [
+    "https",
+    4
+  ],
+  [
+    "docs",
+    4
+  ],
+  [
+    "mercury",
+    3
+  ],
+  [
+    "diffusion",
+    3
+  ],
+  [
+    "second",
+    3
+  ],
+  [
+    "runs",
+    3
+  ],
+  [
+    "with",
+    3
   ]
 ]

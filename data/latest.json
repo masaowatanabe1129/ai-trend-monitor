@@ -1,162 +1,50 @@
 [
   {
-    "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
-    "link": "https://arxiv.org/abs/2610.22373",
+    "title": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
+    "link": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
     "analysis": {
       "error": "json_parse",
-      "raw": "「構造化された権限注入：型付きMCPオーバーライドを通じたLLMエージェントの持続的な人間の制御」では、LLM（大規模言語モデル）エージェントの操作に対して人間が持続的に制御できる方法を提案しています。特に、型付きMCP（メタ制御プロトコル）を利用することで、エージェントの行動を安全に調整することを目指しています。"
+      "raw": "Inceptionが新しいMercury 3拡散型LLMを発表しました。処理速度は秒間1,068トークンです。"
     }
   },
   {
-    "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
-    "link": "https://arxiv.org/abs/2610.22400",
+    "title": "MadsLorentzen/ai-job-search",
+    "link": "https://github.com/MadsLorentzen/ai-job-search",
     "analysis": {
       "error": "json_parse",
-      "raw": "ユーザーエンコーダーの再考に関する研究で、異なるシナリオに応じたユーザー表現を実現するために、ルーティング技術と拡散状態を活用する方法が提案されています。"
+      "raw": "MadsLorentzenが開発したai-job-searchは、AIを活用して求職活動を支援するツールです。このサービスは、求職者が最適な職を見つけるための情報提供を行います。"
     }
   },
   {
-    "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
-    "link": "https://arxiv.org/abs/2610.22403",
+    "title": "anomalyco/opencode",
+    "link": "https://github.com/anomalyco/opencode",
     "analysis": {
       "error": "json_parse",
-      "raw": "イベントから推論へ：明示的状態における階層的ルール構成についての研究。"
+      "raw": "タイトル「anomalyco/opencode」は、Anomaly Co.によるオープンコードプロジェクトに関する内容です。具体的な詳細は記載されていないため、一般的には、オープンソースのソフトウェアや技術に関する取り組みを示唆しています。"
     }
   },
   {
-    "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
-    "link": "https://arxiv.org/abs/2610.22408",
+    "title": "akitaonrails/ai-memory",
+    "link": "https://github.com/akitaonrails/ai-memory",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「ECHOES」は、再帰的歴史圧縮と特権的オンポリシー蒸留を通じて、現在の画像を超えた視覚を実現する技術について述べています。これにより、AIによる情報理解と生成が向上します。"
+      "raw": "「akitaonrails/ai-memory」は、AIによるメモリ管理や記憶の活用方法に関するプロジェクトで、効率的な情報処理やデータ管理の実現を目指しています。"
     }
   },
   {
-    "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
-    "link": "https://arxiv.org/abs/2610.22420",
+    "title": "stablyai/orca",
+    "link": "https://github.com/stablyai/orca",
     "analysis": {
       "error": "json_parse",
-      "raw": "エージェントベースの農業生態モデルにおける意思決定ルールの感度分析について述べた研究です。この分析は、モデルの性能や出力に対する各ルールの影響を評価しています。"
+      "raw": "タイトル「stablyai/orca」は、AIによる新しいプロジェクトや技術に関する情報を紹介しています。具体的な内容は不明ですが、AI技術の発展や応用について扱われている可能性があります。"
     }
   },
   {
-    "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
-    "link": "https://arxiv.org/abs/2610.22426",
+    "title": "headroomlabs-ai/headroom",
+    "link": "https://github.com/headroomlabs-ai/headroom",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents」は、LLM（大規模言語モデル）エージェントにおける検証可能な証拠に基づく推論の実現に向けた取り組みを示しています。これは、AIの推論プロセスを透明にし、信頼性を高めることを目指しています。"
-    }
-  },
-  {
-    "title": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
-    "link": "https://arxiv.org/abs/2610.22441",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "自然言語の意図を実行可能な制御に変換する、階層的フィードバック指導による大規模言語モデル（LLM）計画の技術が、複数要素からなるサイバーフィジカルシステムにおいて提案されています。"
-    }
-  },
-  {
-    "title": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
-    "link": "https://arxiv.org/abs/2610.22445",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「無効コントロールは必要だが不十分：科学的発見と解釈性のための受け入れガードの評価」というタイトルは、科学的発見や解釈を支えるためには無効コントロールが重要であることを示しているが、それだけでは十分ではないことを論じています。研究結果や手法の受け入れに関する新たなガードレールの必要性が強調されています。"
-    }
-  },
-  {
-    "title": "Learnable Splines for Unstructured Neural Operators",
-    "link": "https://arxiv.org/abs/2610.22446",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「非構造的ニューラルオペレーターのための学習可能なスプライン」というタイトルは、ニューラルネットワークを用いて非構造的データに適応するスプラインの学習方法について述べた研究を示しています。これにより、複雑なデータ構造に対する効率的な解析が可能になることを目指しています。"
-    }
-  },
-  {
-    "title": "Functional Welfare for AI Safety",
-    "link": "https://arxiv.org/abs/2610.22460",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "AIの安全性を確保するための機能的な福利制度に関するニュースです。この取り組みは、AI技術のリスクを軽減し、社会における信頼性を高めることを目指しています。"
-    }
-  },
-  {
-    "title": "Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models",
-    "link": "https://arxiv.org/abs/2610.22428",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "小型および三元言語モデル向けに、16MBの凍結ボキャブラリーが提案され、埋め込みのコストが高すぎる可能性について議論されています。このアプローチは、効率的なパフォーマンスを目指しています。"
-    }
-  },
-  {
-    "title": "Where Prefill Expert Reduction Hurts MoE Models: A Few Prompt Tokens Carry Most of the Short-Answer F1 Loss",
-    "link": "https://arxiv.org/abs/2610.22454",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルは、「プレフィルエキスパート削減がMoEモデルに与える影響：数個のプロンプトトークンが大半の短文回答F1損失を引き起こす」です。この研究では、特定のプロンプトトークンがモデルの性能に大きな影響を与えることが示されています。"
-    }
-  },
-  {
-    "title": "From Parallels to Divergence: Language Models' Learning of Action Nominal Constructions",
-    "link": "https://arxiv.org/abs/2610.22468",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「平行から分岐へ：言語モデルの動作名詞構造の学習」について、言語モデルが動作名詞の構造をどう学ぶかに焦点を当て、平行した学習から異なる理解へと進化する過程を探る内容です。"
-    }
-  },
-  {
-    "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
-    "link": "https://arxiv.org/abs/2610.22507",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「RealCLI」は、コマンドラインインタフェース（CLI）エージェントにおける人間とエージェントの協力を評価するための統一されたアプローチを目指す研究です。これは、協働の効果を測定する新しい基準の提案を含んでいます。"
-    }
-  },
-  {
-    "title": "AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems",
-    "link": "https://arxiv.org/abs/2610.22511",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "AuditKITは、大規模言語モデルやエージェントシステムの評価、判断、比較を行うための統一された評価フレームワークを提供するツールです。"
-    }
-  },
-  {
-    "title": "alkhder at ImageEval 2026 Shared Tasks: Constrained Selection and Rotation-Averaged Logit Scoring for Multimodal Hallucination Detection",
-    "link": "https://arxiv.org/abs/2610.22515",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルは、ImageEval 2026の共通タスクにおける「alkhder」の成果について述べており、制約された選択と回転平均ロジットスコアリングを用いたマルチモーダルな幻覚検出に焦点を当てています。"
-    }
-  },
-  {
-    "title": "Learning User Representations to Improve Simulation Fidelity",
-    "link": "https://arxiv.org/abs/2610.22518",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "ユーザーの表現を学習することで、シミュレーションの忠実度を向上させる研究についてのニュースです。シミュレーションの質を高めるために、ユーザーの行動や好みを分析する手法が提案されています。"
-    }
-  },
-  {
-    "title": "alkhder at AlexandriaX-2026: Context-Aware English-to-Dialectal Arabic Dialogue Translation with QLoRA-Fine-Tuned NileChat-3B",
-    "link": "https://arxiv.org/abs/2610.22525",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルの要約:\nアレクサンドリアX-2026で発表されたalkhderは、文脈に応じた英語から方言アラビア語への対話翻訳を実現する技術であり、QLoRAでファインチューニングされたNileChat-3Bを使用しています。"
-    }
-  },
-  {
-    "title": "Literal Lock-In: How Test Language Shifts Literal Attraction in Typed Decision Models on Bengali Idioms",
-    "link": "https://arxiv.org/abs/2610.22526",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルは、「リテラルロックイン: テスト言語がベンガル語のイディオムに対する文字通りの魅力をどうシフトさせるか」という内容です。これは、決定モデルにおいてテストに使用される言語が、イディオムの解釈に与える影響を探る研究です。"
-    }
-  },
-  {
-    "title": "Pearl-Chat: Engineering a native Luganda language model from first principles in JAX and Flax NNX",
-    "link": "https://arxiv.org/abs/2610.22529",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルは「Pearl-Chat: JAXとFlax NNXを用いて初めから構築したルガンダ語のネイティブ言語モデル」です。このニュースは、ルガンダ語に特化したAIモデルの開発プロセスと技術的アプローチについて紹介しています。"
+      "raw": "Headroom Labsが開発したAI「Headroom」で、ユーザーはデジタルミーティングの質を向上させることができます。このツールは、会議中の発言を自動的に整理し、重要なポイントを強調する機能を提供します。"
     }
   }
 ]

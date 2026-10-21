@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
+    "link": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Inceptionが新しいMercury 3拡散型LLMを発表しました。処理速度は秒間1,068トークンです。"
+    }
+  },
+  {
+    "title": "MadsLorentzen/ai-job-search",
+    "link": "https://github.com/MadsLorentzen/ai-job-search",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "MadsLorentzenが開発したai-job-searchは、AIを活用して求職活動を支援するツールです。このサービスは、求職者が最適な職を見つけるための情報提供を行います。"
+    }
+  },
+  {
+    "title": "anomalyco/opencode",
+    "link": "https://github.com/anomalyco/opencode",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「anomalyco/opencode」は、Anomaly Co.によるオープンコードプロジェクトに関する内容です。具体的な詳細は記載されていないため、一般的には、オープンソースのソフトウェアや技術に関する取り組みを示唆しています。"
+    }
+  },
+  {
+    "title": "akitaonrails/ai-memory",
+    "link": "https://github.com/akitaonrails/ai-memory",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「akitaonrails/ai-memory」は、AIによるメモリ管理や記憶の活用方法に関するプロジェクトで、効率的な情報処理やデータ管理の実現を目指しています。"
+    }
+  },
+  {
+    "title": "stablyai/orca",
+    "link": "https://github.com/stablyai/orca",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「stablyai/orca」は、AIによる新しいプロジェクトや技術に関する情報を紹介しています。具体的な内容は不明ですが、AI技術の発展や応用について扱われている可能性があります。"
+    }
+  },
+  {
+    "title": "headroomlabs-ai/headroom",
+    "link": "https://github.com/headroomlabs-ai/headroom",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Headroom Labsが開発したAI「Headroom」で、ユーザーはデジタルミーティングの質を向上させることができます。このツールは、会議中の発言を自動的に整理し、重要なポイントを強調する機能を提供します。"
+    }
+  }
+]
