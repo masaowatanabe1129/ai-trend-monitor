@@ -1,50 +1,162 @@
 [
   {
-    "title": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
-    "link": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
+    "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+    "link": "https://arxiv.org/abs/2610.26887",
     "analysis": {
       "error": "json_parse",
-      "raw": "Inceptionが新しいMercury 3拡散型LLMを発表しました。処理速度は秒間1,068トークンです。"
+      "raw": "Navaliaは、検証可能なタスク合成と長期的なポストトレーニングを通じて、協働エージェントの進化を促進する技術を開発しています。これにより、AIエージェントのパフォーマンス向上を目指しています。"
     }
   },
   {
-    "title": "MadsLorentzen/ai-job-search",
-    "link": "https://github.com/MadsLorentzen/ai-job-search",
+    "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+    "link": "https://arxiv.org/abs/2610.26899",
     "analysis": {
       "error": "json_parse",
-      "raw": "MadsLorentzenが開発したai-job-searchは、AIを活用して求職活動を支援するツールです。このサービスは、求職者が最適な職を見つけるための情報提供を行います。"
+      "raw": "大規模言語モデルと強化学習を活用した自律的な建設および進捗更新に関するニュースです。これにより、建設プロジェクトの効率化とリアルタイムの進捗管理が可能になることが期待されています。"
     }
   },
   {
-    "title": "anomalyco/opencode",
-    "link": "https://github.com/anomalyco/opencode",
+    "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+    "link": "https://arxiv.org/abs/2610.26904",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「anomalyco/opencode」は、Anomaly Co.によるオープンコードプロジェクトに関する内容です。具体的な詳細は記載されていないため、一般的には、オープンソースのソフトウェアや技術に関する取り組みを示唆しています。"
+      "raw": "パレート最適なRTLコード生成を目的としたマルチオブジェクティブ強化学習に大規模言語モデルを活用する研究が紹介されています。このアプローチにより、複数の目的を同時に最適化したコード生成が可能になります。"
     }
   },
   {
-    "title": "akitaonrails/ai-memory",
-    "link": "https://github.com/akitaonrails/ai-memory",
+    "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+    "link": "https://arxiv.org/abs/2610.26913",
     "analysis": {
       "error": "json_parse",
-      "raw": "「akitaonrails/ai-memory」は、AIによるメモリ管理や記憶の活用方法に関するプロジェクトで、効率的な情報処理やデータ管理の実現を目指しています。"
+      "raw": "MedPAO-Assistは、放射線報告の構造化に特化したエッジデバイス対応のAIツールです。このAIは、異なるモダリティを認識し、医療現場での使用に適しています。"
     }
   },
   {
-    "title": "stablyai/orca",
-    "link": "https://github.com/stablyai/orca",
+    "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+    "link": "https://arxiv.org/abs/2610.26924",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「stablyai/orca」は、AIによる新しいプロジェクトや技術に関する情報を紹介しています。具体的な内容は不明ですが、AI技術の発展や応用について扱われている可能性があります。"
+      "raw": "DataPraxisは、検証されたワークスペースの進化を通じて、分析作業を拡張する方法を提案しています。これにより、データ分析の効率と効果が向上します。"
     }
   },
   {
-    "title": "headroomlabs-ai/headroom",
-    "link": "https://github.com/headroomlabs-ai/headroom",
+    "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+    "link": "https://arxiv.org/abs/2610.26941",
     "analysis": {
       "error": "json_parse",
-      "raw": "Headroom Labsが開発したAI「Headroom」で、ユーザーはデジタルミーティングの質を向上させることができます。このツールは、会議中の発言を自動的に整理し、重要なポイントを強調する機能を提供します。"
+      "raw": "産業向けのエージェントAI：LLMを活用した次世代エージェントによるスマート製造の実現について解説。"
+    }
+  },
+  {
+    "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
+    "link": "https://arxiv.org/abs/2610.26942",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4」は、Lean 4におけるコンパイラ支援の修正手法に関するもので、単なるサンプリングではなく、制約のある修復方法を提案しています。具体的には、プログラムの安定性を向上させるための新しいアプローチが紹介されています。"
+    }
+  },
+  {
+    "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+    "link": "https://arxiv.org/abs/2610.26943",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "MAMath-Benchは、マルチモーダルかつマルチエージェントによる数学的推論の評価を行う新しいプロセス重視のフレームワークです。このシステムは強靭な評価方法を提供し、複雑な数学的問題の解決を支援します。"
+    }
+  },
+  {
+    "title": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
+    "link": "https://arxiv.org/abs/2610.26948",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "LightCRSは、軽量なマルチドメイン対話型推薦システムで、異なる分野でのユーザーとの会話を通じて最適な推薦を行うことを目的としています。"
+    }
+  },
+  {
+    "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
+    "link": "https://arxiv.org/abs/2610.26964",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルの内容は、「大規模言語モデル（LLM）が直面する計画問題の難しさについて、構造的複雑さと意味的解釈可能性を分けて考える」というものです。つまり、問題の構造が複雑だとLLMが解決するのが難しくなることを分析しています。"
+    }
+  },
+  {
+    "title": "H2DF: Calibrated Target Bands for Controllable Language-Model Unlearning",
+    "link": "https://arxiv.org/abs/2610.26864",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "H2DFは、制御可能な言語モデルの忘却を行うために調整されたターゲットバンドに関する研究です。このアプローチにより、特定の情報をモデルから効果的に削除することが可能になります。"
+    }
+  },
+  {
+    "title": "AutoTerm-SST: Adaptive Terminology Memory with Zero Session-Time Setup for Streaming Speech Translation",
+    "link": "https://arxiv.org/abs/2610.26865",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「AutoTerm-SST」は、ストリーミング音声翻訳のための適応型用語メモリを提供し、ゼロセッション時間でのセットアップを実現する技術です。これにより、翻訳プロセスがより効率的になります。"
+    }
+  },
+  {
+    "title": "WaveCommitments: Private and Verifiable Speech-Agent Marketplaces",
+    "link": "https://arxiv.org/abs/2610.26867",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "WaveCommitmentsは、プライバシーを保護しつつ検証可能な音声エージェントのマーケットプレイスを実現する技術です。これにより、ユーザーは音声データを安全に取引できる新しいプラットフォームが提供されます。"
+    }
+  },
+  {
+    "title": "Multimodal Ambivalence and Hesitancy Recognition with Bidirectional Audio--Text Cross-Attention",
+    "link": "https://arxiv.org/abs/2610.26868",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "双方向オーディオとテキストのクロスアテンションを用いたマルチモーダルなあいまいさおよびためらいの認識に関する研究。これは、音声とテキストの両方からの情報を統合して、ユーザーの感情や意思の不確かさを分析する技術に焦点を当てています。"
+    }
+  },
+  {
+    "title": "Mixture of Phonetic Experts Based Low-Rank Adaptation of Conformer Models for Accented English Speech Recognition",
+    "link": "https://arxiv.org/abs/2610.26888",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "コンフォーマーモデルを用いたアクセント付き英語の音声認識における、音声専門家の混合による低ランク適応の手法についての研究です。音声認識の精度向上を目指した技術的アプローチが提案されています。"
+    }
+  },
+  {
+    "title": "AtomSD: Procedural Atom-Guided Self-Distillation for LLM Agents",
+    "link": "https://arxiv.org/abs/2610.26926",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「AtomSD: Procedural Atom-Guided Self-Distillation for LLM Agents」は、LLM（大規模言語モデル）エージェント向けの新しい自己蒸留手法「AtomSD」を提案しています。この手法は、手続き型の原子ガイドを用いてモデルの効率を向上させることを目的としています。"
+    }
+  },
+  {
+    "title": "Do We Need the Largest LLMs for Every Clinical Decision?",
+    "link": "https://arxiv.org/abs/2610.26937",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「すべての診療決定において、最大の大規模言語モデル（LLM）が必要か？」というタイトルのニュースは、臨床判断におけるLLMの必要性とその適用範囲に関する検討を提起しています。大規模なモデルが必ずしも全ての状況で最適であるかどうかを問いかけています。"
+    }
+  },
+  {
+    "title": "The Bottleneck Is Retrieval, Not Reading: Diagnosing Evidence-Based Generation with RAG for Long Context Question Answering",
+    "link": "https://arxiv.org/abs/2610.26951",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルの要約:\n「ボトルネックは情報検索であり、読解ではない：長文の質問応答におけるRAGを用いた証拠に基づく生成の診断」が示すように、長文の質問応答における課題は、テキストの読み取り能力ではなく、情報を効果的に取得する能力にあることを指摘しています。"
+    }
+  },
+  {
+    "title": "A Multi-granularity Interaction Network for Relational Triple Extraction",
+    "link": "https://arxiv.org/abs/2610.26952",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「関係トリプル抽出のための多重粒度相互作用ネットワーク」と題したこの研究は、異なる粒度での情報を統合し、リレーションシップの抽出を効率化する新しいネットワークアプローチを提案しています。"
+    }
+  },
+  {
+    "title": "LAMB: Latent Multi-Hypothesis Beliefs for Long-Horizon Large Language Agents",
+    "link": "https://arxiv.org/abs/2610.26955",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「LAMB: Latent Multi-Hypothesis Beliefs for Long-Horizon Large Language Agents」は、長期的に機能する大規模言語モデルにおいて、隠れた多重仮説の信念を活用する手法について述べています。これにより、より柔軟で適応的な応答生成が可能になることを目指しています。"
     }
   }
 ]
