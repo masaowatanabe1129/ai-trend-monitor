@@ -1,9 +1,5 @@
 [
   [
-    "type",
-    21
-  ],
-  [
     "arxiv",
     20
   ],
@@ -12,20 +8,24 @@
     20
   ],
   [
+    "type",
+    20
+  ],
+  [
     "abstract",
     20
   ],
   [
-    "that",
-    20
+    "language",
+    17
   ],
   [
-    "language",
-    19
+    "with",
+    15
   ],
   [
     "models",
-    16
+    15
   ],
   [
     "agents",
@@ -33,50 +33,50 @@
   ],
   [
     "large",
+    14
+  ],
+  [
+    "that",
     13
   ],
   [
-    "with",
-    12
-  ],
-  [
-    "multi",
-    9
+    "data",
+    10
   ],
   [
     "this",
+    10
+  ],
+  [
+    "learning",
     9
   ],
   [
-    "speech",
-    8
+    "llms",
+    9
   ],
   [
     "from",
-    7
+    8
   ],
   [
-    "requires",
-    7
-  ],
-  [
-    "evidence",
-    7
-  ],
-  [
-    "introduce",
-    7
-  ],
-  [
-    "llms",
-    7
+    "parallel",
+    8
   ],
   [
     "model",
+    7
+  ],
+  [
+    "these",
+    7
+  ],
+  [
+    "reasoning",
     6
   ],
   [
-    "into",
+    "reinforcement",
     6
   ]
 ]

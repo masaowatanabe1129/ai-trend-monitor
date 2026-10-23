@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+    "link": "https://arxiv.org/abs/2610.26887",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Navaliaは、検証可能なタスク合成と長期的なポストトレーニングを通じて、共同作業エージェントの進化を目指しています。この取り組みにより、エージェントの効率や協調性を向上させることを目指しています。"
+    }
+  },
+  {
+    "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+    "link": "https://arxiv.org/abs/2610.26899",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「大規模言語モデルと強化学習を活用した自律型建設および進捗更新」に関するニュースで、これらの技術を用いて建設プロセスの最適化と効率的な進捗管理を目指す取り組みが紹介されています。"
+    }
+  },
+  {
+    "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+    "link": "https://arxiv.org/abs/2610.26904",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "大規模言語モデルを用いた多目的強化学習により、パレート最適なRTLコード生成が実現される技術の紹介です。このアプローチは、複数の目標を同時に最適化することを目指しています。"
+    }
+  },
+  {
+    "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+    "link": "https://arxiv.org/abs/2610.26913",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "MedPAO-Assistは、放射線レポートの構造化を支援するために、エッジデプロイ可能でモダリティを認識するエージェント型AIです。医療現場での効率向上を目指しています。"
+    }
+  },
+  {
+    "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+    "link": "https://arxiv.org/abs/2610.26924",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "データプラクシスは、検証されたワークスペースの進化を通じて分析タスクのスケーリングを実現する手法について紹介しています。これにより、データ解析の効率と精度が向上します。"
+    }
+  },
+  {
+    "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+    "link": "https://arxiv.org/abs/2610.26941",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「産業エージェントAI：スマート製造のためのLLM駆動の新世代エージェント」では、最新の大規模言語モデル（LLM）を利用したAIエージェントが、スマート製造の分野でどのように活用されるかについて述べています。これにより、生産効率や自動化が向上する可能性があります。"
+    }
+  },
+  {
+    "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
+    "link": "https://arxiv.org/abs/2610.26942",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "リーン4におけるコンパイラ主導の修復手法について、単に再サンプリングするのではなく、限界のある修正を行うアプローチが提案されています。この手法により、プログラムの信頼性を向上させることを目指しています。"
+    }
+  },
+  {
+    "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+    "link": "https://arxiv.org/abs/2610.26943",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "MAMath-Benchは、プロセスに配慮した堅牢な評価手法を提供する、マルチモーダル・マルチエージェント数学推論のためのベンチマークです。"
+    }
+  },
+  {
+    "title": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
+    "link": "https://arxiv.org/abs/2610.26948",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "LightCRSは、軽量なマルチドメイン会話型推薦システムです。異なる領域での対話を通じて、ユーザーに最適な推奨を行うことを目的としています。"
+    }
+  },
+  {
+    "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
+    "link": "https://arxiv.org/abs/2610.26964",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルは、「計画問題が大規模言語モデル（LLMs）にとって難しくなるとき：構造的複雑性と意味的解釈可能性の分離」です。要約すると、この記事では、LLMsが直面する計画問題の複雑性を理解するために、問題の構造的な複雑性とその解釈のしやすさを区別することの重要性を論じています。"
+    }
+  },
+  {
+    "title": "How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder",
+    "link": "https://arxiv.org/abs/2610.28673",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルは、Gemma 4スピーチエンコーダーが重みを変えずに、サウジアラビアと湾岸アラビア語の音声認識にどれだけ対応できるかを探る研究に関するものです。具体的には、フローズンエンコーダーとアダプタを用いた場合の性能比較が行われています。"
+    }
+  },
+  {
+    "title": "Translation and data ethics",
+    "link": "https://arxiv.org/abs/2610.28710",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "翻訳とデータ倫理に関するニュースです。AIによる翻訳の現状や、データの取り扱いに関する倫理的な課題について考察しています。"
+    }
+  },
+  {
+    "title": "SkillEval: Learning Interpretable Ability Profiles of LLMs via Cognitive Diagnosis Models",
+    "link": "https://arxiv.org/abs/2610.28767",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "SkillEvalは、認知診断モデルを通じて、大規模言語モデル（LLM）の解釈可能な能力プロファイルを学習する手法を提案しています。このアプローチにより、LLMの性能や特徴をより明確に理解することが可能になります。"
+    }
+  },
+  {
+    "title": "Scaling Therapy Supervision: Assessing Psychotherapy Fidelity Using Large Language Models",
+    "link": "https://arxiv.org/abs/2610.28772",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルは「セラピー監視の拡大：大規模言語モデルを用いた心理療法の忠実度評価」です。これは、大規模な言語モデルを利用して心理療法の実施状況を評価し、セラピーの質を向上させる方法について述べています。"
+    }
+  },
+  {
+    "title": "Is Anyone Enforcing the Cartel? What Reinforcement Learning Teaches LLM Agents in Markets",
+    "link": "https://arxiv.org/abs/2610.28787",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "誰がカルテルを監視しているのか？強化学習が市場のLLMエージェントに何を教えているかについての考察。"
+    }
+  },
+  {
+    "title": "Where Do Legal Factors Live in LLMs?",
+    "link": "https://arxiv.org/abs/2610.28799",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「LLMsにおける法的要因の存在場所」というタイトルは、言語モデル（LLMs）の中で法的要因がどのように位置づけられ、影響を与えるかについて考察していることを示しています。法的側面がどのように組み込まれているのかを探る内容です。"
+    }
+  },
+  {
+    "title": "LIFT: Scoped Constraints for Evaluating and Training Instruction Following",
+    "link": "https://arxiv.org/abs/2610.28819",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "LIFTは、指示に従う能力を評価・訓練するためのスコープ付き制約を提案する手法です。これにより、AIモデルの指示理解と応答の向上を図ります。"
+    }
+  },
+  {
+    "title": "A Parallel Multi-Dialect Arabic Dependency Treebank",
+    "link": "https://arxiv.org/abs/2610.28823",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「並列多方言アラビア語依存関係ツリー銀行」は、異なる方言のアラビア語における文の構造を解析するためのデータベースです。これにより、多様なアラビア語方言間の依存関係を研究するためのリソースが提供されます。"
+    }
+  },
+  {
+    "title": "How to Use Parallel Data for Multilingual Pretraining",
+    "link": "https://arxiv.org/abs/2610.28838",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「多言語事前学習のための平行データの利用方法」というタイトルのニュースでは、多言語モデルの性能を向上させるために、異なる言語で対訳データを活用する手法について解説しています。このアプローチにより、モデルが複数の言語間で知識を共有しやすくなります。"
+    }
+  },
+  {
+    "title": "KIRA: A Full-Stack Reading Screening System with Dual-Pathway Analysis for Children",
+    "link": "https://arxiv.org/abs/2610.28840",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "KIRAは、子ども向けの包括的な読解スクリーニングシステムで、二重経路分析を用いています。このシステムにより、読解能力の評価が効率的に行えることを目指しています。"
+    }
+  }
+]

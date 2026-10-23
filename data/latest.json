@@ -4,7 +4,7 @@
     "link": "https://arxiv.org/abs/2610.26887",
     "analysis": {
       "error": "json_parse",
-      "raw": "Navaliaは、検証可能なタスク合成と長期的なポストトレーニングを通じて、協働エージェントの進化を促進する技術を開発しています。これにより、AIエージェントのパフォーマンス向上を目指しています。"
+      "raw": "Navaliaは、検証可能なタスク合成と長期的なポストトレーニングを通じて、共同作業エージェントの進化を目指しています。この取り組みにより、エージェントの効率や協調性を向上させることを目指しています。"
     }
   },
   {
@@ -12,7 +12,7 @@
     "link": "https://arxiv.org/abs/2610.26899",
     "analysis": {
       "error": "json_parse",
-      "raw": "大規模言語モデルと強化学習を活用した自律的な建設および進捗更新に関するニュースです。これにより、建設プロジェクトの効率化とリアルタイムの進捗管理が可能になることが期待されています。"
+      "raw": "「大規模言語モデルと強化学習を活用した自律型建設および進捗更新」に関するニュースで、これらの技術を用いて建設プロセスの最適化と効率的な進捗管理を目指す取り組みが紹介されています。"
     }
   },
   {
@@ -20,7 +20,7 @@
     "link": "https://arxiv.org/abs/2610.26904",
     "analysis": {
       "error": "json_parse",
-      "raw": "パレート最適なRTLコード生成を目的としたマルチオブジェクティブ強化学習に大規模言語モデルを活用する研究が紹介されています。このアプローチにより、複数の目的を同時に最適化したコード生成が可能になります。"
+      "raw": "大規模言語モデルを用いた多目的強化学習により、パレート最適なRTLコード生成が実現される技術の紹介です。このアプローチは、複数の目標を同時に最適化することを目指しています。"
     }
   },
   {
@@ -28,7 +28,7 @@
     "link": "https://arxiv.org/abs/2610.26913",
     "analysis": {
       "error": "json_parse",
-      "raw": "MedPAO-Assistは、放射線報告の構造化に特化したエッジデバイス対応のAIツールです。このAIは、異なるモダリティを認識し、医療現場での使用に適しています。"
+      "raw": "MedPAO-Assistは、放射線レポートの構造化を支援するために、エッジデプロイ可能でモダリティを認識するエージェント型AIです。医療現場での効率向上を目指しています。"
     }
   },
   {
@@ -36,7 +36,7 @@
     "link": "https://arxiv.org/abs/2610.26924",
     "analysis": {
       "error": "json_parse",
-      "raw": "DataPraxisは、検証されたワークスペースの進化を通じて、分析作業を拡張する方法を提案しています。これにより、データ分析の効率と効果が向上します。"
+      "raw": "データプラクシスは、検証されたワークスペースの進化を通じて分析タスクのスケーリングを実現する手法について紹介しています。これにより、データ解析の効率と精度が向上します。"
     }
   },
   {
@@ -44,7 +44,7 @@
     "link": "https://arxiv.org/abs/2610.26941",
     "analysis": {
       "error": "json_parse",
-      "raw": "産業向けのエージェントAI：LLMを活用した次世代エージェントによるスマート製造の実現について解説。"
+      "raw": "「産業エージェントAI：スマート製造のためのLLM駆動の新世代エージェント」では、最新の大規模言語モデル（LLM）を利用したAIエージェントが、スマート製造の分野でどのように活用されるかについて述べています。これにより、生産効率や自動化が向上する可能性があります。"
     }
   },
   {
@@ -52,7 +52,7 @@
     "link": "https://arxiv.org/abs/2610.26942",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4」は、Lean 4におけるコンパイラ支援の修正手法に関するもので、単なるサンプリングではなく、制約のある修復方法を提案しています。具体的には、プログラムの安定性を向上させるための新しいアプローチが紹介されています。"
+      "raw": "リーン4におけるコンパイラ主導の修復手法について、単に再サンプリングするのではなく、限界のある修正を行うアプローチが提案されています。この手法により、プログラムの信頼性を向上させることを目指しています。"
     }
   },
   {
@@ -60,7 +60,7 @@
     "link": "https://arxiv.org/abs/2610.26943",
     "analysis": {
       "error": "json_parse",
-      "raw": "MAMath-Benchは、マルチモーダルかつマルチエージェントによる数学的推論の評価を行う新しいプロセス重視のフレームワークです。このシステムは強靭な評価方法を提供し、複雑な数学的問題の解決を支援します。"
+      "raw": "MAMath-Benchは、プロセスに配慮した堅牢な評価手法を提供する、マルチモーダル・マルチエージェント数学推論のためのベンチマークです。"
     }
   },
   {
@@ -68,7 +68,7 @@
     "link": "https://arxiv.org/abs/2610.26948",
     "analysis": {
       "error": "json_parse",
-      "raw": "LightCRSは、軽量なマルチドメイン対話型推薦システムで、異なる分野でのユーザーとの会話を通じて最適な推薦を行うことを目的としています。"
+      "raw": "LightCRSは、軽量なマルチドメイン会話型推薦システムです。異なる領域での対話を通じて、ユーザーに最適な推奨を行うことを目的としています。"
     }
   },
   {
@@ -76,87 +76,87 @@
     "link": "https://arxiv.org/abs/2610.26964",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトルの内容は、「大規模言語モデル（LLM）が直面する計画問題の難しさについて、構造的複雑さと意味的解釈可能性を分けて考える」というものです。つまり、問題の構造が複雑だとLLMが解決するのが難しくなることを分析しています。"
+      "raw": "タイトルは、「計画問題が大規模言語モデル（LLMs）にとって難しくなるとき：構造的複雑性と意味的解釈可能性の分離」です。要約すると、この記事では、LLMsが直面する計画問題の複雑性を理解するために、問題の構造的な複雑性とその解釈のしやすさを区別することの重要性を論じています。"
     }
   },
   {
-    "title": "H2DF: Calibrated Target Bands for Controllable Language-Model Unlearning",
-    "link": "https://arxiv.org/abs/2610.26864",
+    "title": "How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder",
+    "link": "https://arxiv.org/abs/2610.28673",
     "analysis": {
       "error": "json_parse",
-      "raw": "H2DFは、制御可能な言語モデルの忘却を行うために調整されたターゲットバンドに関する研究です。このアプローチにより、特定の情報をモデルから効果的に削除することが可能になります。"
+      "raw": "タイトルは、Gemma 4スピーチエンコーダーが重みを変えずに、サウジアラビアと湾岸アラビア語の音声認識にどれだけ対応できるかを探る研究に関するものです。具体的には、フローズンエンコーダーとアダプタを用いた場合の性能比較が行われています。"
     }
   },
   {
-    "title": "AutoTerm-SST: Adaptive Terminology Memory with Zero Session-Time Setup for Streaming Speech Translation",
-    "link": "https://arxiv.org/abs/2610.26865",
+    "title": "Translation and data ethics",
+    "link": "https://arxiv.org/abs/2610.28710",
     "analysis": {
       "error": "json_parse",
-      "raw": "「AutoTerm-SST」は、ストリーミング音声翻訳のための適応型用語メモリを提供し、ゼロセッション時間でのセットアップを実現する技術です。これにより、翻訳プロセスがより効率的になります。"
+      "raw": "翻訳とデータ倫理に関するニュースです。AIによる翻訳の現状や、データの取り扱いに関する倫理的な課題について考察しています。"
     }
   },
   {
-    "title": "WaveCommitments: Private and Verifiable Speech-Agent Marketplaces",
-    "link": "https://arxiv.org/abs/2610.26867",
+    "title": "SkillEval: Learning Interpretable Ability Profiles of LLMs via Cognitive Diagnosis Models",
+    "link": "https://arxiv.org/abs/2610.28767",
     "analysis": {
       "error": "json_parse",
-      "raw": "WaveCommitmentsは、プライバシーを保護しつつ検証可能な音声エージェントのマーケットプレイスを実現する技術です。これにより、ユーザーは音声データを安全に取引できる新しいプラットフォームが提供されます。"
+      "raw": "SkillEvalは、認知診断モデルを通じて、大規模言語モデル（LLM）の解釈可能な能力プロファイルを学習する手法を提案しています。このアプローチにより、LLMの性能や特徴をより明確に理解することが可能になります。"
     }
   },
   {
-    "title": "Multimodal Ambivalence and Hesitancy Recognition with Bidirectional Audio--Text Cross-Attention",
-    "link": "https://arxiv.org/abs/2610.26868",
+    "title": "Scaling Therapy Supervision: Assessing Psychotherapy Fidelity Using Large Language Models",
+    "link": "https://arxiv.org/abs/2610.28772",
     "analysis": {
       "error": "json_parse",
-      "raw": "双方向オーディオとテキストのクロスアテンションを用いたマルチモーダルなあいまいさおよびためらいの認識に関する研究。これは、音声とテキストの両方からの情報を統合して、ユーザーの感情や意思の不確かさを分析する技術に焦点を当てています。"
+      "raw": "タイトルは「セラピー監視の拡大：大規模言語モデルを用いた心理療法の忠実度評価」です。これは、大規模な言語モデルを利用して心理療法の実施状況を評価し、セラピーの質を向上させる方法について述べています。"
     }
   },
   {
-    "title": "Mixture of Phonetic Experts Based Low-Rank Adaptation of Conformer Models for Accented English Speech Recognition",
-    "link": "https://arxiv.org/abs/2610.26888",
+    "title": "Is Anyone Enforcing the Cartel? What Reinforcement Learning Teaches LLM Agents in Markets",
+    "link": "https://arxiv.org/abs/2610.28787",
     "analysis": {
       "error": "json_parse",
-      "raw": "コンフォーマーモデルを用いたアクセント付き英語の音声認識における、音声専門家の混合による低ランク適応の手法についての研究です。音声認識の精度向上を目指した技術的アプローチが提案されています。"
+      "raw": "誰がカルテルを監視しているのか？強化学習が市場のLLMエージェントに何を教えているかについての考察。"
     }
   },
   {
-    "title": "AtomSD: Procedural Atom-Guided Self-Distillation for LLM Agents",
-    "link": "https://arxiv.org/abs/2610.26926",
+    "title": "Where Do Legal Factors Live in LLMs?",
+    "link": "https://arxiv.org/abs/2610.28799",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「AtomSD: Procedural Atom-Guided Self-Distillation for LLM Agents」は、LLM（大規模言語モデル）エージェント向けの新しい自己蒸留手法「AtomSD」を提案しています。この手法は、手続き型の原子ガイドを用いてモデルの効率を向上させることを目的としています。"
+      "raw": "「LLMsにおける法的要因の存在場所」というタイトルは、言語モデル（LLMs）の中で法的要因がどのように位置づけられ、影響を与えるかについて考察していることを示しています。法的側面がどのように組み込まれているのかを探る内容です。"
     }
   },
   {
-    "title": "Do We Need the Largest LLMs for Every Clinical Decision?",
-    "link": "https://arxiv.org/abs/2610.26937",
+    "title": "LIFT: Scoped Constraints for Evaluating and Training Instruction Following",
+    "link": "https://arxiv.org/abs/2610.28819",
     "analysis": {
       "error": "json_parse",
-      "raw": "「すべての診療決定において、最大の大規模言語モデル（LLM）が必要か？」というタイトルのニュースは、臨床判断におけるLLMの必要性とその適用範囲に関する検討を提起しています。大規模なモデルが必ずしも全ての状況で最適であるかどうかを問いかけています。"
+      "raw": "LIFTは、指示に従う能力を評価・訓練するためのスコープ付き制約を提案する手法です。これにより、AIモデルの指示理解と応答の向上を図ります。"
     }
   },
   {
-    "title": "The Bottleneck Is Retrieval, Not Reading: Diagnosing Evidence-Based Generation with RAG for Long Context Question Answering",
-    "link": "https://arxiv.org/abs/2610.26951",
+    "title": "A Parallel Multi-Dialect Arabic Dependency Treebank",
+    "link": "https://arxiv.org/abs/2610.28823",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトルの要約:\n「ボトルネックは情報検索であり、読解ではない：長文の質問応答におけるRAGを用いた証拠に基づく生成の診断」が示すように、長文の質問応答における課題は、テキストの読み取り能力ではなく、情報を効果的に取得する能力にあることを指摘しています。"
+      "raw": "「並列多方言アラビア語依存関係ツリー銀行」は、異なる方言のアラビア語における文の構造を解析するためのデータベースです。これにより、多様なアラビア語方言間の依存関係を研究するためのリソースが提供されます。"
     }
   },
   {
-    "title": "A Multi-granularity Interaction Network for Relational Triple Extraction",
-    "link": "https://arxiv.org/abs/2610.26952",
+    "title": "How to Use Parallel Data for Multilingual Pretraining",
+    "link": "https://arxiv.org/abs/2610.28838",
     "analysis": {
       "error": "json_parse",
-      "raw": "「関係トリプル抽出のための多重粒度相互作用ネットワーク」と題したこの研究は、異なる粒度での情報を統合し、リレーションシップの抽出を効率化する新しいネットワークアプローチを提案しています。"
+      "raw": "「多言語事前学習のための平行データの利用方法」というタイトルのニュースでは、多言語モデルの性能を向上させるために、異なる言語で対訳データを活用する手法について解説しています。このアプローチにより、モデルが複数の言語間で知識を共有しやすくなります。"
     }
   },
   {
-    "title": "LAMB: Latent Multi-Hypothesis Beliefs for Long-Horizon Large Language Agents",
-    "link": "https://arxiv.org/abs/2610.26955",
+    "title": "KIRA: A Full-Stack Reading Screening System with Dual-Pathway Analysis for Children",
+    "link": "https://arxiv.org/abs/2610.28840",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「LAMB: Latent Multi-Hypothesis Beliefs for Long-Horizon Large Language Agents」は、長期的に機能する大規模言語モデルにおいて、隠れた多重仮説の信念を活用する手法について述べています。これにより、より柔軟で適応的な応答生成が可能になることを目指しています。"
+      "raw": "KIRAは、子ども向けの包括的な読解スクリーニングシステムで、二重経路分析を用いています。このシステムにより、読解能力の評価が効率的に行えることを目指しています。"
     }
   }
 ]
