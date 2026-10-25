@@ -1,0 +1,50 @@
+[
+  {
+    "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
+    "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「Underdog Saluki 27Bの運用方法：2ビットQwen3.8-27Bツール呼び出しガイド」と題されたこのニュースでは、Saluki 27Bを効果的に使用するための手順やツールの呼び出し方法について説明しています。AIツールの実用的なガイドが提供されています。"
+    }
+  },
+  {
+    "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+    "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Anthropicが発表した「サンドボックス・ランタイム」は、AIエージェントのためのOSレベルのサンドボックス技術であり、従来のコンテナを使用せずに安全な実行環境を提供します。"
+    }
+  },
+  {
+    "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+    "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Lettaを用いた「ステートフルエージェントエンジニアリングコパイロット」に関するニュースで、コアメモリ、共有状態、セマンティックリトリーバル、カスタムツール、ストリーミング、ポータブルエージェントワークフローが紹介されています。これにより、エージェントの機能と効率が向上します。"
+    }
+  },
+  {
+    "title": "php/php-src",
+    "link": "https://github.com/php/php-src",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "PHPのソースコードに関連するニュースや更新情報が含まれている。特にPHPの開発や新機能に関する内容が扱われている可能性がある。"
+    }
+  },
+  {
+    "title": "anthropics/knowledge-work-plugins",
+    "link": "https://github.com/anthropics/knowledge-work-plugins",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「anthropics/knowledge-work-plugins」は、知識労働に特化したプラグインについての情報を提供しています。それにより、AIが知識ワーカーの作業を支援する新しいツールの開発が進められています。"
+    }
+  },
+  {
+    "title": "SnailSploit/Claude-Red",
+    "link": "https://github.com/SnailSploit/Claude-Red",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「SnailSploit/Claude-Red」は、サイバーセキュリティの脆弱性や攻撃手法に関する情報を示唆しています。具体的には、SnailSploitという新たな攻撃手法と、Claude-Redという関連技術についてのニュースである可能性があります。"
+    }
+  }
+]

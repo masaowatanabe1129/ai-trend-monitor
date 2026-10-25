@@ -1,162 +1,50 @@
 [
   {
-    "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
-    "link": "https://arxiv.org/abs/2610.28686",
+    "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
+    "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
     "analysis": {
       "error": "json_parse",
-      "raw": "小規模モデルによるクエリの明確化を通じて、情報検索を強化する手法の調整に関する研究。これにより、より効果的な情報生成が可能になることを目指している。"
+      "raw": "「Underdog Saluki 27Bの運用方法：2ビットQwen3.8-27Bツール呼び出しガイド」と題されたこのニュースでは、Saluki 27Bを効果的に使用するための手順やツールの呼び出し方法について説明しています。AIツールの実用的なガイドが提供されています。"
     }
   },
   {
-    "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-    "link": "https://arxiv.org/abs/2610.28698",
+    "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+    "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
     "analysis": {
       "error": "json_parse",
-      "raw": "ゲームにおけるスケーリング: 多様な仮想世界での実体エージェントの継続的な事前トレーニングについての研究。エージェントの性能向上を目指した新たなアプローチが提案されている。"
+      "raw": "Anthropicが発表した「サンドボックス・ランタイム」は、AIエージェントのためのOSレベルのサンドボックス技術であり、従来のコンテナを使用せずに安全な実行環境を提供します。"
     }
   },
   {
-    "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
-    "link": "https://arxiv.org/abs/2610.28706",
+    "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+    "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「SpecEvo: 大規模言語モデルを活用した費用対効果の高い科学発見のための仮説進化」は、AIを利用して科学的な発見を効率的に進める方法を提案しています。大型言語モデルが仮説の進化を支援することで、研究コストを削減できる可能性があります。"
+      "raw": "Lettaを用いた「ステートフルエージェントエンジニアリングコパイロット」に関するニュースで、コアメモリ、共有状態、セマンティックリトリーバル、カスタムツール、ストリーミング、ポータブルエージェントワークフローが紹介されています。これにより、エージェントの機能と効率が向上します。"
     }
   },
   {
-    "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
-    "link": "https://arxiv.org/abs/2610.28763",
+    "title": "php/php-src",
+    "link": "https://github.com/php/php-src",
     "analysis": {
       "error": "json_parse",
-      "raw": "科学のための機械学習の自動化：最前線のエージェントは野生の科学的課題に挑戦できるか？という内容を扱っている。エージェントが科学の課題を解決する能力について探求している。"
+      "raw": "PHPのソースコードに関連するニュースや更新情報が含まれている。特にPHPの開発や新機能に関する内容が扱われている可能性がある。"
     }
   },
   {
-    "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
-    "link": "https://arxiv.org/abs/2610.28815",
+    "title": "anthropics/knowledge-work-plugins",
+    "link": "https://github.com/anthropics/knowledge-work-plugins",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「成功的スケールレースを通じたエージェントのハーネス進化：タスクの融合と改善」に関するニュースは、AIエージェントの性能向上のために、異なるタスクを連携させて効果的なハーネスを形作る進化について述べています。"
+      "raw": "タイトル「anthropics/knowledge-work-plugins」は、知識労働に特化したプラグインについての情報を提供しています。それにより、AIが知識ワーカーの作業を支援する新しいツールの開発が進められています。"
     }
   },
   {
-    "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
-    "link": "https://arxiv.org/abs/2610.28826",
+    "title": "SnailSploit/Claude-Red",
+    "link": "https://github.com/SnailSploit/Claude-Red",
     "analysis": {
       "error": "json_parse",
-      "raw": "臨床生成AIのLLM（大規模言語モデル）を評価するための手段として、コスト効果が高く迅速な「意思決定言語モデル」が提案されています。これにより、医療分野でのAIの判断が促進される可能性があります。"
-    }
-  },
-  {
-    "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
-    "link": "https://arxiv.org/abs/2610.28836",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "Sketch2Simは、手描きの回路を分析するためのエンドツーエンドのモジュラーフレームワークです。この技術により、ユーザーは手描きの回路図を簡単に解析できるようになります。"
-    }
-  },
-  {
-    "title": "Speedrunning Relational Foundation Model Pretraining",
-    "link": "https://arxiv.org/abs/2610.28855",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "リレーショナルファンデーションモデルの事前学習を迅速化する手法についてのニュースです。このアプローチにより、効率的なモデルのトレーニングが可能になります。"
-    }
-  },
-  {
-    "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
-    "link": "https://arxiv.org/abs/2610.28875",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「操作するべきか、それともしないべきか：LLM（大規模言語モデル）相互作用における意見の動態」というタイトルは、LLMとの対話における意見形成や変化のメカニズムについて考察しています。"
-    }
-  },
-  {
-    "title": "Fig: Automated Multiagent Behavior Elicitor",
-    "link": "https://arxiv.org/abs/2610.28891",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「Fig: 自動化されたマルチエージェント行動引き出しツール」というタイトルは、複数のエージェントの行動を自動で引き出すシステムに関する内容を示しています。要するに、複数のAIエージェントの行動を効率的に生成する技術について扱っています。"
-    }
-  },
-  {
-    "title": "baseVultra: Compact Nonlinear Recurrence with Reallocated Capacity",
-    "link": "https://arxiv.org/abs/2610.30154",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトル「baseVultra: Compact Nonlinear Recurrence with Reallocated Capacity」は、再配分可能なキャパシティを持つコンパクトな非線形帰納法についての技術的な進展を示しています。この手法は効率的なデータ処理や計算の最適化に寄与する可能性があります。"
-    }
-  },
-  {
-    "title": "Lighthouse: On Building a Trustworthy Digital Assistant for Exploring History with Civil Rights Archives",
-    "link": "https://arxiv.org/abs/2610.30158",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "Lighthouseは、市民権アーカイブを活用した歴史探索のための信頼できるデジタルアシスタントの構築を目指しています。そして、そのプロジェクトの重要性や目的について述べています。"
-    }
-  },
-  {
-    "title": "TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents",
-    "link": "https://arxiv.org/abs/2610.30161",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「TauIndianBankBench」は、ツールを使用する会話型エージェントに対する、手続きに基づいたアクション志向の評価手法を提案します。この手法は、エージェントの性能をより実際の操作に即して評価することを目的としています。"
-    }
-  },
-  {
-    "title": "FusionEval: Benchmarking Model Fusion for Large Language Models",
-    "link": "https://arxiv.org/abs/2610.30162",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "FusionEvalは、大規模言語モデルにおけるモデル融合の性能を評価するためのベンチマークです。これにより、複数のモデルを組み合わせた際の効果を測定し、最適な融合方法を探ることが目的とされています。"
-    }
-  },
-  {
-    "title": "Measuring Research Progress and Linguistic Inclusion in Low-Resource Languages",
-    "link": "https://arxiv.org/abs/2610.30296",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "低リソース言語における研究の進展と言語的包含を測定する方法についての報告です。この研究は、資源の少ない言語の研究状況を評価し、アクセシビリティを向上させることを目的としています。"
-    }
-  },
-  {
-    "title": "AQL-Lite: Enabling Efficient Knowledge Acquisition for Arabic LLMs via Data-Centric Continual Pretraining",
-    "link": "https://arxiv.org/abs/2610.30344",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "AQL-Liteは、アラビア語の大規模言語モデル（LLM）のためのデータ中心の連続的プレトレーニングを通じて、効率的な知識獲得を実現する新しい手法です。このアプローチにより、アラビア語に特化したモデルの性能向上が期待されます。"
-    }
-  },
-  {
-    "title": "Consistency Is Not Validity: Self-Rewarded Moral Argumentation Makes Language Models Decisive but Pliable",
-    "link": "https://arxiv.org/abs/2610.30349",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "自己報酬型の道徳的議論が言語モデルを決定的にする一方で、柔軟性をもたらすことが示されており、結果の一貫性はその妥当性を保証しないという見解が述べられています。"
-    }
-  },
-  {
-    "title": "CiteAnchor: Source-Aware Grounding for Hallucinated Citation Detection and Resolution",
-    "link": "https://arxiv.org/abs/2610.30355",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "CiteAnchorは、虚偽の引用を検出し解決するために、情報源を意識したグラウンディング技術を提供するシステムです。これにより、信頼性の高い引用を行うことが可能になります。"
-    }
-  },
-  {
-    "title": "Climbing the Ladder: Automating Data Pipelines and Reproducing Baselines in Low-Resource Settings",
-    "link": "https://arxiv.org/abs/2610.30374",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「低リソース環境におけるデータパイプラインの自動化と基準の再現」についての研究で、効率的に作業を進める方法が探求されています。データ処理の自動化と手法の統一が中心テーマです。"
-    }
-  },
-  {
-    "title": "MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments",
-    "link": "https://arxiv.org/abs/2610.30379",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "MemPlanは、部分的に観測可能なテキスト環境において、記憶を条件にしたPDDL計画を行う手法です。この手法により、AIが不完全な情報の中で効率的に計画を立てることが可能になります。"
+      "raw": "タイトル「SnailSploit/Claude-Red」は、サイバーセキュリティの脆弱性や攻撃手法に関する情報を示唆しています。具体的には、SnailSploitという新たな攻撃手法と、Claude-Redという関連技術についてのニュースである可能性があります。"
     }
   }
 ]
