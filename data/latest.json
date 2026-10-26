@@ -1,50 +1,58 @@
 [
   {
-    "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
-    "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
+    "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
+    "link": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
     "analysis": {
       "error": "json_parse",
-      "raw": "「Underdog Saluki 27Bの運用方法：2ビットQwen3.8-27Bツール呼び出しガイド」と題されたこのニュースでは、Saluki 27Bを効果的に使用するための手順やツールの呼び出し方法について説明しています。AIツールの実用的なガイドが提供されています。"
+      "raw": "Hugging Faceが、14億パラメータを持つ「Carbon-X」をリリースしました。このオープンなDNA言語モデルは、DNAと自然言語を初めて結びつけるものです。"
     }
   },
   {
-    "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
-    "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+    "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
+    "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
     "analysis": {
       "error": "json_parse",
-      "raw": "Anthropicが発表した「サンドボックス・ランタイム」は、AIエージェントのためのOSレベルのサンドボックス技術であり、従来のコンテナを使用せずに安全な実行環境を提供します。"
+      "raw": "Anthropicが無料のAI脆弱性スキャナー「OSS Scanner」を発表しました。このツールは、AIシステムのセキュリティリスクを検出することを目的としています。"
     }
   },
   {
-    "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
-    "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
+    "title": "aws/agent-toolkit-for-aws",
+    "link": "https://github.com/aws/agent-toolkit-for-aws",
     "analysis": {
       "error": "json_parse",
-      "raw": "Lettaを用いた「ステートフルエージェントエンジニアリングコパイロット」に関するニュースで、コアメモリ、共有状態、セマンティックリトリーバル、カスタムツール、ストリーミング、ポータブルエージェントワークフローが紹介されています。これにより、エージェントの機能と効率が向上します。"
+      "raw": "AWS用エージェントツールキットが発表されました。このツールキットは、AWS環境でのアプリケーション管理やデプロイを簡素化することを目的としています。また、デベロッパーや運用チームの効率を向上させる機能が搭載されています。"
     }
   },
   {
-    "title": "php/php-src",
-    "link": "https://github.com/php/php-src",
+    "title": "Nutlope/hallmark",
+    "link": "https://github.com/Nutlope/hallmark",
     "analysis": {
       "error": "json_parse",
-      "raw": "PHPのソースコードに関連するニュースや更新情報が含まれている。特にPHPの開発や新機能に関する内容が扱われている可能性がある。"
+      "raw": "NutlopeとHallmarkの提携が報じられました。詳細は両者の協力関係や今後の展望について触れられているようです。"
     }
   },
   {
-    "title": "anthropics/knowledge-work-plugins",
-    "link": "https://github.com/anthropics/knowledge-work-plugins",
+    "title": "luongnv89/claude-howto",
+    "link": "https://github.com/luongnv89/claude-howto",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「anthropics/knowledge-work-plugins」は、知識労働に特化したプラグインについての情報を提供しています。それにより、AIが知識ワーカーの作業を支援する新しいツールの開発が進められています。"
+      "raw": "タイトル「luongnv89/claude-howto」は、ClaudeというAIモデルの使い方や活用方法を解説した情報を提供しているリポジトリです。具体的には、使用方法や機能の説明が含まれていると思われます。"
     }
   },
   {
-    "title": "SnailSploit/Claude-Red",
-    "link": "https://github.com/SnailSploit/Claude-Red",
+    "title": "pbakaus/impeccable",
+    "link": "https://github.com/pbakaus/impeccable",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「SnailSploit/Claude-Red」は、サイバーセキュリティの脆弱性や攻撃手法に関する情報を示唆しています。具体的には、SnailSploitという新たな攻撃手法と、Claude-Redという関連技術についてのニュースである可能性があります。"
+      "raw": "タイトル「pbakaus/impeccable」は、AI技術やツールの進化についての内容かもしれません。具体的な情報が不足しているため、詳細な要約は難しいですが、一般的にはAIに関する革新的な取り組みや成果を示唆していると考えられます。"
+    }
+  },
+  {
+    "title": "google-gemini/gemini-cli",
+    "link": "https://github.com/google-gemini/gemini-cli",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "GoogleのGeminiプロジェクトに関連するCLIツールで、AI機能やデータ処理を簡易に行うためのコマンドラインインターフェースが提供されます。開発者向けの利用が想定されています。"
     }
   }
 ]
