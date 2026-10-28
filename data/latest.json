@@ -1,162 +1,162 @@
 [
   {
-    "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
-    "link": "https://arxiv.org/abs/2610.31701",
+    "title": "Counting the Bandages: On measuring the time that AI saves",
+    "link": "https://arxiv.org/abs/2610.35942",
     "analysis": {
       "error": "json_parse",
-      "raw": "「トレードオフを考慮した領域設計：企業の顧客から販売者への割り当てのための多目的意思決定システム」というタイトルは、企業と販売者間の最適な顧客割り当てを実現するために、複数の目標を満たす意思決定システムの提案を示しています。"
+      "raw": "AIがどれだけの時間を節約しているかを測定する方法についての考察を示したニュースです。特に、業務における効率向上に焦点を当てています。"
     }
   },
   {
-    "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-    "link": "https://arxiv.org/abs/2610.31789",
+    "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
+    "link": "https://arxiv.org/abs/2610.35984",
     "analysis": {
       "error": "json_parse",
-      "raw": "「Phronix: エージェントのための能力中心の学習パラダイム」というタイトルは、エージェントが特定の能力に基づいて学ぶ新しい学習モデルに関する内容です。このアプローチは、エージェントの効率的な知識獲得とスキル向上を目指しています。"
+      "raw": "オリーブの木の病気分類におけるデータ生成戦略を通じて、深層学習モデルの性能向上を図る研究が紹介されています。データの増強手法を活用することで、より正確な診断が可能になることを目指しています。"
     }
   },
   {
-    "title": "Patronizing and Condescending Language Detection in English and Mandarin",
-    "link": "https://arxiv.org/abs/2610.31808",
+    "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+    "link": "https://arxiv.org/abs/2610.36077",
     "analysis": {
       "error": "json_parse",
-      "raw": "英語と中国語における、上から目線で威圧的な言葉遣いの検出に関する研究を扱った内容です。"
+      "raw": "トリニティ：マルチモーダルエージェントのための能力駆動型再帰的自己改善の提案です。このアプローチは、異なる情報モードを統合して、エージェントの性能を向上させることを目指しています。"
     }
   },
   {
-    "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-    "link": "https://arxiv.org/abs/2610.31810",
+    "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
+    "link": "https://arxiv.org/abs/2610.36100",
     "analysis": {
       "error": "json_parse",
-      "raw": "PaperFormalizerは、研究論文をLean形式に自動的にフォーマル化するツールで、著者がプロセスに参加できる仕組みを提供します。このツールにより、論文の形式化がより効率的かつ簡便になります。"
+      "raw": "CohortFlowは、特定の地域における意味的な修正を行うことができる、操縦可能な臨床コホートのキュレーションエージェントです。これにより、臨床研究におけるデータの選定と精度向上が期待されます。"
     }
   },
   {
-    "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
-    "link": "https://arxiv.org/abs/2610.31846",
+    "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
+    "link": "https://arxiv.org/abs/2610.36116",
     "analysis": {
       "error": "json_parse",
-      "raw": "自己主導の修正が、エージェントのミスを持続的な学びに変えることを忘れないでください。"
+      "raw": "AIが科学的な作業を得意とする中で、なぜ人間が科学に関与し続ける必要があるのか、またその方法についてのフレームワークを提案しています。人間の理解と指導を基盤にしたアプローチが強調されています。"
     }
   },
   {
-    "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-    "link": "https://arxiv.org/abs/2610.31882",
+    "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
+    "link": "https://arxiv.org/abs/2610.36146",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトルの内容は、RFおよびミリ波モジュールの合成において、ツール駆動型のエージェント回路設計手法「TACS-RF」に関するものです。この手法により、効率的かつ自律的な回路設計が可能になります。"
+      "raw": "構造的フィードバックからプロンプトポリシーへ：忠実なテキストから画像へのプロンプト編集器を学習する研究。"
     }
   },
   {
-    "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
-    "link": "https://arxiv.org/abs/2610.31916",
+    "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
+    "link": "https://arxiv.org/abs/2610.36169",
     "analysis": {
       "error": "json_parse",
-      "raw": "「再試行の許可：AIエージェントのワークフローにおける認可と回復の研究」というタイトルのニュースは、AIエージェントの作業プロセスにおける認可の重要性と、エラーが発生した際の回復方法についての研究を扱っています。エージェントが失敗した場合の再試行に関する許可の枠組みが探求されています。"
+      "raw": "「勝者を選ぶな: 知識の対立にはルールではなく前提が必要」では、知識の対立を解決するためには、単にルールを設けるのではなく、影響を与える前提条件を考慮する重要性について述べています。"
     }
   },
   {
-    "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
-    "link": "https://arxiv.org/abs/2610.31918",
+    "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
+    "link": "https://arxiv.org/abs/2610.36183",
     "analysis": {
       "error": "json_parse",
-      "raw": "トピックは、オンポリシーとオフポリシーの違いを超えて、大規模言語モデル（LLM）のエージェント蒸留において、どのレベルで生徒に従うべきかという問題について考察しています。エージェントの効果的な学習手法についての議論が展開されるでしょう。"
+      "raw": "タイトルは「追跡データにおける分位回帰を用いた人間のスポーツ運動の実現可能性の学習」です。この研究では、分位回帰手法を用いてスポーツにおける人間の動きの解析と実現可能性を探求しています。"
     }
   },
   {
-    "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
-    "link": "https://arxiv.org/abs/2610.31937",
+    "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
+    "link": "https://arxiv.org/abs/2610.36188",
     "analysis": {
       "error": "json_parse",
-      "raw": "$M^3$は、マルチターンのジャイルブレイキングをマルコフ決定過程として扱うマルチLLMシステムです。このシステムは、複数の言語モデルを用いて複雑な対話を解析し、効果的な応答を生成することを目指しています。"
+      "raw": "「Skill Dreaming: プルリクエストの流れを通じてリポジトリスキルを進化させる」というタイトルは、プルリクエストを活用してソフトウェア開発者のスキル向上を図る方法について述べています。具体的には、プロジェクトの進行に伴い、技術や知識の向上を促す取り組みを示唆しています。"
     }
   },
   {
-    "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-    "link": "https://arxiv.org/abs/2610.31971",
+    "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
+    "link": "https://arxiv.org/abs/2610.36234",
     "analysis": {
       "error": "json_parse",
-      "raw": "信頼できる相手を知るだけでは不十分であることを指摘する記事です。特に、繰り返し行われる複数当事者間の大規模言語モデル（LLM）を用いた交渉において、「信頼・合意ギャップ」が問題となることが論じられています。"
+      "raw": "MARQは、モジュール式でLLMに依存しない要求品質評価ツールであり、システム工学の知識を組み込んでいます。このツールは、要求の品質を評価するために設計されています。"
     }
   },
   {
-    "title": "Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead in Interactive LLM Evaluation",
-    "link": "https://arxiv.org/abs/2610.31678",
+    "title": "ReCoPII: A Relation-Grounded Framework for Building Contextual PII Masking Datasets",
+    "link": "https://arxiv.org/abs/2610.35925",
     "analysis": {
       "error": "json_parse",
-      "raw": "インタラクティブな大規模言語モデル（LLM）の評価において、全体的な精度だけに頼ると誤解を招く可能性があるため、スコアを比較することが重要であると論じています。評価方法の妥当性が必要です。"
+      "raw": "ReCoPIIは、文脈に基づいた個人情報（PII）マスキングデータセットを構築するための関係性を重視したフレームワークです。このフレームワークは、より効果的なデータ保護を目指しています。"
     }
   },
   {
-    "title": "MisconceptDialogue: Evaluation Criteria Shape Measured Success in LLM Math Tutoring",
-    "link": "https://arxiv.org/abs/2610.31679",
+    "title": "MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine",
+    "link": "https://arxiv.org/abs/2610.36006",
     "analysis": {
       "error": "json_parse",
-      "raw": "「MisconceptDialogue」は、大規模言語モデル（LLM）を用いた数学指導の成功を評価する基準について述べています。評価基準が学習の結果に与える影響を探っている内容です。"
+      "raw": "MedJevは、医療分野におけるゼロショットシステムワンの意思決定プロセスを評価する研究です。この研究は、新たなAI技術が医療の意思決定にどのように影響を与えるかを探求しています。"
     }
   },
   {
-    "title": "Rethinking Structured Generation: Can Graph-Based Reasoning Resolve Ambiguity?",
-    "link": "https://arxiv.org/abs/2610.31681",
+    "title": "OmniBrain-0: A Unified Agentic Model for Embodied Intelligence",
+    "link": "https://arxiv.org/abs/2610.36013",
     "analysis": {
       "error": "json_parse",
-      "raw": "構造化生成の再考：グラフベースの推論は曖昧さを解消できるか？"
+      "raw": "OmniBrain-0は、具現化された知能のための統合型エージェントモデルです。このモデルは、人工知能の様々な機能を統合し、より効果的なエージェントの動作を可能にします。"
     }
   },
   {
-    "title": "Multi modal perceived conversation success prediction for spontaneous autistic and non-autistic dyadic interactions",
-    "link": "https://arxiv.org/abs/2610.31682",
+    "title": "FinLLM-KG: Knowledge Graph-Enhanced LLMs for Financial Sentiment Analysis in Algorithmic Trading",
+    "link": "https://arxiv.org/abs/2610.36083",
     "analysis": {
       "error": "json_parse",
-      "raw": "自発的な自閉症者と非自閉症者の対話における多モーダルな会話成功予測に関する研究が発表されました。この研究は、二人の相互作用の成功をどのように判断するかに焦点を当てています。"
+      "raw": "タイトル「FinLLM-KG: 知識グラフを活用したLLMによるアルゴリズム取引における金融感情分析」は、金融分野に特化した大規模言語モデル（LLM）と知識グラフを組み合わせて、アルゴリズム取引における感情分析の精度を向上させる技術について述べています。"
     }
   },
   {
-    "title": "The Schema Coherence Inventory: Measuring Whether an Assigned Belief Organizes a Language Model's Cognition",
-    "link": "https://arxiv.org/abs/2610.31683",
+    "title": "3, 7, 14, 17, 42: Instruction Tuning Installs and Sharpens Number-Choice Heuristics in Language Models",
+    "link": "https://arxiv.org/abs/2610.36178",
     "analysis": {
       "error": "json_parse",
-      "raw": "「スキーマ整合性インベントリ：与えられた信念が言語モデルの認知をどのように整理するかを測定する」というタイトルでは、特定の信念が言語モデルの認知構造にどの程度影響を与えるかを評価する手法について説明しています。"
+      "raw": "言語モデルにおける数値選択のヒューリスティックを強化するための指示調整に関する研究が紹介されています。特定の数値（3, 7, 14, 17, 42）に基づいて、モデルの性能が向上することが示されています。"
     }
   },
   {
-    "title": "Knowledge Graphs Quality Assessment in the Era of LLMs: A Conceptual Framework",
-    "link": "https://arxiv.org/abs/2610.31684",
+    "title": "Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It",
+    "link": "https://arxiv.org/abs/2610.36184",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトルは「大規模言語モデル時代における知識グラフの品質評価：概念的枠組み」です。この記事では、大規模言語モデル（LLM）の発展に伴う知識グラフの評価方法についての新たな理論的枠組みを提案しています。"
+      "raw": "Lipi-Ghorは、大規模な多領域ベンガル語音声コーパスであり、その作成のためのスケーラブルなパイプラインを提供します。このコーパスは、ダイアライズ（発話者の区別）された音声データを含んでいます。"
     }
   },
   {
-    "title": "An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation",
-    "link": "https://arxiv.org/abs/2610.31685",
+    "title": "Frankly Speaking: The Company Election Integrity Keeps in Congressional Communication",
+    "link": "https://arxiv.org/abs/2610.36187",
     "analysis": {
       "error": "json_parse",
-      "raw": "「会話における多モード感情推論のための証拠に基づく検証を伴う主体的アプローチ」というタイトルは、会話における感情の理解と推論を向上させるために、主体的な手法とデータに基づく確認プロセスを組み合わせた研究を示しています。"
+      "raw": "「率直に言えば：企業の選挙の透明性が議会のコミュニケーションにおいて重要である」という内容で、選挙の整合性を保つための企業と議会の関係について焦点を当てています。"
     }
   },
   {
-    "title": "From Target Selection to Condition Reuse: Auditing Residual Interventions in Tool-Use Models",
-    "link": "https://arxiv.org/abs/2610.31686",
+    "title": "LLM Hallucination Detection via Low-rank Multilinear Decomposition",
+    "link": "https://arxiv.org/abs/2610.36191",
     "analysis": {
       "error": "json_parse",
-      "raw": "ツール使用モデルにおける残余介入の監査に関する研究で、ターゲット選択から条件再利用までのプロセスが議論されています。これにより、AIのツールの活用における潜在的な問題点が明らかにされることを目的としています。"
+      "raw": "「低ランク多線形分解によるLLMの幻覚検出」という研究は、言語モデルの生成する誤情報を特定するための新たな手法を提案しています。これにより、モデルの信頼性向上が期待されます。"
     }
   },
   {
-    "title": "Distributional Alignment of LLMs and Its Generalization Properties",
-    "link": "https://arxiv.org/abs/2610.31687",
+    "title": "Beyond IceBERT: Open-Data ModernBERT Encoders for Icelandic from 12M to 1B Parameters",
+    "link": "https://arxiv.org/abs/2610.36230",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトルの要約:\n「大規模言語モデル（LLM）の分布整合性とその一般化特性について」。この研究は、LLMがどのように異なる分布に適応し、一般化する能力を探るものです。"
+      "raw": "タイトルは「IceBERTを超えて：アイスランド語のためのオープンデータModernBERTエンコーダー、12Mから1Bパラメータまで」という内容です。新しいモデルは、アイスランド語処理の性能向上を目指し、パラメータ数を大幅に増加させています。"
     }
   },
   {
-    "title": "LAMB: A Modern Contextual Language Model for Latin",
-    "link": "https://arxiv.org/abs/2610.31723",
+    "title": "Detect Before You Disambiguate: Perturbation-Based Input Ambiguity Detection in LLMs",
+    "link": "https://arxiv.org/abs/2610.36353",
     "analysis": {
       "error": "json_parse",
-      "raw": "LAMBは、ラテン語のための現代的な文脈言語モデルです。このモデルは、ラテン語の文脈理解を向上させることを目的としています。"
+      "raw": "タイトルは、「解釈の前に検出せよ: LLMにおける摂動ベースの入力曖昧性検出」です。この研究では、大規模言語モデル（LLM）の入力における曖昧性を、摂動技術を用いて早期に検出する方法が提案されています。"
     }
   }
 ]
