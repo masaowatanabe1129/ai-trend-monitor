@@ -1,162 +1,58 @@
 [
   {
-    "title": "Counting the Bandages: On measuring the time that AI saves",
-    "link": "https://arxiv.org/abs/2610.35942",
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
     "analysis": {
       "error": "json_parse",
-      "raw": "AIがどれだけの時間を節約しているかを測定する方法についての考察を示したニュースです。特に、業務における効率向上に焦点を当てています。"
+      "raw": "「Gemini 4 Carbon」は次世代のフロンティアモデルです。新しい技術やデザインが特徴で、未来の可能性を探求しています。"
     }
   },
   {
-    "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-    "link": "https://arxiv.org/abs/2610.35984",
+    "title": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
+    "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
     "analysis": {
       "error": "json_parse",
-      "raw": "オリーブの木の病気分類におけるデータ生成戦略を通じて、深層学習モデルの性能向上を図る研究が紹介されています。データの増強手法を活用することで、より正確な診断が可能になることを目指しています。"
+      "raw": "Google DeepMindが、サイバー防御とコーディング向けの最上位モデル「Gemini 4 Carbon」を発表しました。これは最新のAI技術を搭載したもので、セキュリティ分野での活用が期待されています。"
     }
   },
   {
-    "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-    "link": "https://arxiv.org/abs/2610.36077",
+    "title": "Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio",
+    "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
     "analysis": {
       "error": "json_parse",
-      "raw": "トリニティ：マルチモーダルエージェントのための能力駆動型再帰的自己改善の提案です。このアプローチは、異なる情報モードを統合して、エージェントの性能を向上させることを目指しています。"
+      "raw": "Google DeepMindの新しいモデル「Genie 4」は、リアルタイムでの世界モデルを提供し、音声にネイティブ対応しています。この技術により、より自然でインタラクティブな体験が可能になります。"
     }
   },
   {
-    "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-    "link": "https://arxiv.org/abs/2610.36100",
+    "title": "elayadesign/ai-design-skills",
+    "link": "https://github.com/elayadesign/ai-design-skills",
     "analysis": {
       "error": "json_parse",
-      "raw": "CohortFlowは、特定の地域における意味的な修正を行うことができる、操縦可能な臨床コホートのキュレーションエージェントです。これにより、臨床研究におけるデータの選定と精度向上が期待されます。"
+      "raw": "「elayadesign」のAIデザインスキルに関する記事では、AIを活用したデザイン技法や、デザイナーが必要とする新しいスキルセットについて解説されています。これにより、AIによるデザインプロセスの効率化や創造性の向上が期待されます。"
     }
   },
   {
-    "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
-    "link": "https://arxiv.org/abs/2610.36116",
+    "title": "Nutlope/hallmark",
+    "link": "https://github.com/Nutlope/hallmark",
     "analysis": {
       "error": "json_parse",
-      "raw": "AIが科学的な作業を得意とする中で、なぜ人間が科学に関与し続ける必要があるのか、またその方法についてのフレームワークを提案しています。人間の理解と指導を基盤にしたアプローチが強調されています。"
+      "raw": "NutlopeとHallmarkが提携し、AI技術を活用した新しいサービスを展開。これにより、ユーザーはよりパーソナライズされたコンテンツを体験できるようになる。"
     }
   },
   {
-    "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
-    "link": "https://arxiv.org/abs/2610.36146",
+    "title": "nightly-labs/openbot",
+    "link": "https://github.com/nightly-labs/openbot",
     "analysis": {
       "error": "json_parse",
-      "raw": "構造的フィードバックからプロンプトポリシーへ：忠実なテキストから画像へのプロンプト編集器を学習する研究。"
+      "raw": "「nightly-labs/openbot」は、オープンソースのAIボット開発プロジェクトです。さまざまな機能を持つボットを簡単に構築・カスタマイズするためのツールやリソースが提供されています。"
     }
   },
   {
-    "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
-    "link": "https://arxiv.org/abs/2610.36169",
+    "title": "affaan-m/ECC",
+    "link": "https://github.com/affaan-m/ECC",
     "analysis": {
       "error": "json_parse",
-      "raw": "「勝者を選ぶな: 知識の対立にはルールではなく前提が必要」では、知識の対立を解決するためには、単にルールを設けるのではなく、影響を与える前提条件を考慮する重要性について述べています。"
-    }
-  },
-  {
-    "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
-    "link": "https://arxiv.org/abs/2610.36183",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルは「追跡データにおける分位回帰を用いた人間のスポーツ運動の実現可能性の学習」です。この研究では、分位回帰手法を用いてスポーツにおける人間の動きの解析と実現可能性を探求しています。"
-    }
-  },
-  {
-    "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
-    "link": "https://arxiv.org/abs/2610.36188",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「Skill Dreaming: プルリクエストの流れを通じてリポジトリスキルを進化させる」というタイトルは、プルリクエストを活用してソフトウェア開発者のスキル向上を図る方法について述べています。具体的には、プロジェクトの進行に伴い、技術や知識の向上を促す取り組みを示唆しています。"
-    }
-  },
-  {
-    "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
-    "link": "https://arxiv.org/abs/2610.36234",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "MARQは、モジュール式でLLMに依存しない要求品質評価ツールであり、システム工学の知識を組み込んでいます。このツールは、要求の品質を評価するために設計されています。"
-    }
-  },
-  {
-    "title": "ReCoPII: A Relation-Grounded Framework for Building Contextual PII Masking Datasets",
-    "link": "https://arxiv.org/abs/2610.35925",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "ReCoPIIは、文脈に基づいた個人情報（PII）マスキングデータセットを構築するための関係性を重視したフレームワークです。このフレームワークは、より効果的なデータ保護を目指しています。"
-    }
-  },
-  {
-    "title": "MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine",
-    "link": "https://arxiv.org/abs/2610.36006",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "MedJevは、医療分野におけるゼロショットシステムワンの意思決定プロセスを評価する研究です。この研究は、新たなAI技術が医療の意思決定にどのように影響を与えるかを探求しています。"
-    }
-  },
-  {
-    "title": "OmniBrain-0: A Unified Agentic Model for Embodied Intelligence",
-    "link": "https://arxiv.org/abs/2610.36013",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "OmniBrain-0は、具現化された知能のための統合型エージェントモデルです。このモデルは、人工知能の様々な機能を統合し、より効果的なエージェントの動作を可能にします。"
-    }
-  },
-  {
-    "title": "FinLLM-KG: Knowledge Graph-Enhanced LLMs for Financial Sentiment Analysis in Algorithmic Trading",
-    "link": "https://arxiv.org/abs/2610.36083",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトル「FinLLM-KG: 知識グラフを活用したLLMによるアルゴリズム取引における金融感情分析」は、金融分野に特化した大規模言語モデル（LLM）と知識グラフを組み合わせて、アルゴリズム取引における感情分析の精度を向上させる技術について述べています。"
-    }
-  },
-  {
-    "title": "3, 7, 14, 17, 42: Instruction Tuning Installs and Sharpens Number-Choice Heuristics in Language Models",
-    "link": "https://arxiv.org/abs/2610.36178",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "言語モデルにおける数値選択のヒューリスティックを強化するための指示調整に関する研究が紹介されています。特定の数値（3, 7, 14, 17, 42）に基づいて、モデルの性能が向上することが示されています。"
-    }
-  },
-  {
-    "title": "Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It",
-    "link": "https://arxiv.org/abs/2610.36184",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "Lipi-Ghorは、大規模な多領域ベンガル語音声コーパスであり、その作成のためのスケーラブルなパイプラインを提供します。このコーパスは、ダイアライズ（発話者の区別）された音声データを含んでいます。"
-    }
-  },
-  {
-    "title": "Frankly Speaking: The Company Election Integrity Keeps in Congressional Communication",
-    "link": "https://arxiv.org/abs/2610.36187",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「率直に言えば：企業の選挙の透明性が議会のコミュニケーションにおいて重要である」という内容で、選挙の整合性を保つための企業と議会の関係について焦点を当てています。"
-    }
-  },
-  {
-    "title": "LLM Hallucination Detection via Low-rank Multilinear Decomposition",
-    "link": "https://arxiv.org/abs/2610.36191",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「低ランク多線形分解によるLLMの幻覚検出」という研究は、言語モデルの生成する誤情報を特定するための新たな手法を提案しています。これにより、モデルの信頼性向上が期待されます。"
-    }
-  },
-  {
-    "title": "Beyond IceBERT: Open-Data ModernBERT Encoders for Icelandic from 12M to 1B Parameters",
-    "link": "https://arxiv.org/abs/2610.36230",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルは「IceBERTを超えて：アイスランド語のためのオープンデータModernBERTエンコーダー、12Mから1Bパラメータまで」という内容です。新しいモデルは、アイスランド語処理の性能向上を目指し、パラメータ数を大幅に増加させています。"
-    }
-  },
-  {
-    "title": "Detect Before You Disambiguate: Perturbation-Based Input Ambiguity Detection in LLMs",
-    "link": "https://arxiv.org/abs/2610.36353",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルは、「解釈の前に検出せよ: LLMにおける摂動ベースの入力曖昧性検出」です。この研究では、大規模言語モデル（LLM）の入力における曖昧性を、摂動技術を用いて早期に検出する方法が提案されています。"
+      "raw": "タイトル「affaan-m/ECC」は、AI関連の新しいプロジェクトや技術に関する情報を提供するもので、具体的な内容や進展についての詳細が含まれている可能性があります。主に最新のAI技術動向や研究成果に関連していると思われます。"
     }
   }
 ]
