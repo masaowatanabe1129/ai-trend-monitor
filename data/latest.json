@@ -1,34 +1,10 @@
 [
   {
-    "title": "Gemini 4 Carbon: Our next frontier model",
-    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「Gemini 4 Carbon」は次世代のフロンティアモデルです。新しい技術やデザインが特徴で、未来の可能性を探求しています。"
-    }
-  },
-  {
-    "title": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
-    "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "Google DeepMindが、サイバー防御とコーディング向けの最上位モデル「Gemini 4 Carbon」を発表しました。これは最新のAI技術を搭載したもので、セキュリティ分野での活用が期待されています。"
-    }
-  },
-  {
-    "title": "Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio",
-    "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "Google DeepMindの新しいモデル「Genie 4」は、リアルタイムでの世界モデルを提供し、音声にネイティブ対応しています。この技術により、より自然でインタラクティブな体験が可能になります。"
-    }
-  },
-  {
     "title": "elayadesign/ai-design-skills",
     "link": "https://github.com/elayadesign/ai-design-skills",
     "analysis": {
       "error": "json_parse",
-      "raw": "「elayadesign」のAIデザインスキルに関する記事では、AIを活用したデザイン技法や、デザイナーが必要とする新しいスキルセットについて解説されています。これにより、AIによるデザインプロセスの効率化や創造性の向上が期待されます。"
+      "raw": "「elayadesign/ai-design-skills」は、AIを活用したデザインスキルの習得について述べています。AI技術の発展に伴い、デザイナーが新たなスキルを身につける必要性が高まっていることが解説されています。"
     }
   },
   {
@@ -36,7 +12,7 @@
     "link": "https://github.com/Nutlope/hallmark",
     "analysis": {
       "error": "json_parse",
-      "raw": "NutlopeとHallmarkが提携し、AI技術を活用した新しいサービスを展開。これにより、ユーザーはよりパーソナライズされたコンテンツを体験できるようになる。"
+      "raw": "Nutlopeは、ホールマークとの提携を発表しました。この協力により、デジタルプラットフォームを通じて新たな体験やサービスを提供することを目指しています。"
     }
   },
   {
@@ -44,15 +20,7 @@
     "link": "https://github.com/nightly-labs/openbot",
     "analysis": {
       "error": "json_parse",
-      "raw": "「nightly-labs/openbot」は、オープンソースのAIボット開発プロジェクトです。さまざまな機能を持つボットを簡単に構築・カスタマイズするためのツールやリソースが提供されています。"
-    }
-  },
-  {
-    "title": "affaan-m/ECC",
-    "link": "https://github.com/affaan-m/ECC",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトル「affaan-m/ECC」は、AI関連の新しいプロジェクトや技術に関する情報を提供するもので、具体的な内容や進展についての詳細が含まれている可能性があります。主に最新のAI技術動向や研究成果に関連していると思われます。"
+      "raw": "「nightly-labs/openbot」は、オープンソースのチャットボットプロジェクトです。このプロジェクトは、開発者がカスタマイズ可能なボットを作成しやすくすることを目的としています。"
     }
   }
 ]

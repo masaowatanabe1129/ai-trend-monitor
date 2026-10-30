@@ -1,0 +1,26 @@
+[
+  {
+    "title": "elayadesign/ai-design-skills",
+    "link": "https://github.com/elayadesign/ai-design-skills",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「elayadesign/ai-design-skills」は、AIを活用したデザインスキルの習得について述べています。AI技術の発展に伴い、デザイナーが新たなスキルを身につける必要性が高まっていることが解説されています。"
+    }
+  },
+  {
+    "title": "Nutlope/hallmark",
+    "link": "https://github.com/Nutlope/hallmark",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Nutlopeは、ホールマークとの提携を発表しました。この協力により、デジタルプラットフォームを通じて新たな体験やサービスを提供することを目指しています。"
+    }
+  },
+  {
+    "title": "nightly-labs/openbot",
+    "link": "https://github.com/nightly-labs/openbot",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「nightly-labs/openbot」は、オープンソースのチャットボットプロジェクトです。このプロジェクトは、開発者がカスタマイズ可能なボットを作成しやすくすることを目的としています。"
+    }
+  }
+]
