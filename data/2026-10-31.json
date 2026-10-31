@@ -1,0 +1,130 @@
+[
+  {
+    "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+    "link": "https://arxiv.org/abs/2610.37720",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "LRMoEは、メモリ制約のあるノードで効率的にMixture of Experts（MoE）を訓練するために、需要側の負荷再調整手法を提案しています。このアプローチにより、リソースを最適化し、高性能なモデルのトレーニングが可能になります。"
+    }
+  },
+  {
+    "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+    "link": "https://arxiv.org/abs/2610.37731",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "モデルキャリブレーションのための amortized localized posterior推論に関する研究で、海洋乱流の閉じ込みに応用されています。この手法は、効率的な推定を通じてモデルの精度を向上させることを目指しています。"
+    }
+  },
+  {
+    "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+    "link": "https://arxiv.org/abs/2610.37732",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "ThinkJevは、予算に応じた適切な選択を行うための思考ツールです。これにより、精度の高い意思決定が可能になります。"
+    }
+  },
+  {
+    "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+    "link": "https://arxiv.org/abs/2610.37739",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「OpenFrontiers」は、科学的再発見のためのオープン研究課題とベンチマークを提供するプロジェクトです。これにより、研究者が新たなアイデアを探求しやすくなります。"
+    }
+  },
+  {
+    "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+    "link": "https://arxiv.org/abs/2610.37786",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「WebAnything: From the Wild Web to Scalable Agent Environments」は、自由なウェブからスケーラブルなエージェント環境への移行について論じています。AI技術を活用し、さまざまなウェブアプリケーションに対して適応可能なエージェントの開発が焦点となっています。"
+    }
+  },
+  {
+    "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+    "link": "https://arxiv.org/abs/2610.37809",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「オントロジーの役割とは？LLMエージェントの知識グラフに対する検証手段としてのキュレーションされたオントロジー、LLM生成オントロジー、データ由来のオントロジーの比較」についてのニュースです。オントロジーが知識の整合性をチェックする手段としてどのように機能するかを探求しています。"
+    }
+  },
+  {
+    "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+    "link": "https://arxiv.org/abs/2610.37830",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルの内容は、エージェント型スマートコントラクトの合成において、意図がどの段階で失われるかを測定することに関するものです。この研究は、スマートコントラクトの開発プロセスにおける意図の明確さやその重要性を探ります。"
+    }
+  },
+  {
+    "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+    "link": "https://arxiv.org/abs/2610.37849",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "AIエージェント間の秘密の共謀を、パートナーと外部者のポジティブリスニングを通じて検出する手法についての研究です。"
+    }
+  },
+  {
+    "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+    "link": "https://arxiv.org/abs/2610.37851",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "AIエージェントの配列プロトコル理解を評価し、改善する方法についての研究です。AIの性能向上に向けた取り組みを探ります。"
+    }
+  },
+  {
+    "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+    "link": "https://arxiv.org/abs/2610.37859",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「Seq@K: Evaluating Language Models Under Sequential Feedback」は、逐次的なフィードバックのもとで言語モデルを評価する手法について論じています。この研究は、モデルの性能を向上させるための新たな評価基準を提案しています。"
+    }
+  },
+  {
+    "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
+    "link": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "AIセキュリティエージェントの比較: Claude、Codex、Mantis、Cloudflareの4つのAIセキュリティツールの特徴やパフォーマンスを分析しています。各ツールの強みや用途に焦点を当てて評価しています。"
+    }
+  },
+  {
+    "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
+    "link": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Samaya AIが「Sterling」を発表しました。このモデルは3Bアクティブファイナンスリサーチエージェントで、FrontierFinanceにおいてClaude Fable 5.1を打ち負かし、コストは11分の1に抑えられています。"
+    }
+  },
+  {
+    "title": "nightly-labs/openbot",
+    "link": "https://github.com/nightly-labs/openbot",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「nightly-labs/openbot」は、AI技術を駆使したオープンソースのチャットボットプロジェクトです。トレーニングやカスタマイズが容易で、多様な用途に対応できるよう設計されています。"
+    }
+  },
+  {
+    "title": "elayadesign/ai-design-skills",
+    "link": "https://github.com/elayadesign/ai-design-skills",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "elayadesignが発表したAIデザインスキルに関するニュースです。AI技術を活用してデザインスキルを向上させる方法や新しいトレンドについての解説が含まれています。"
+    }
+  },
+  {
+    "title": "thedotmack/claude-mem",
+    "link": "https://github.com/thedotmack/claude-mem",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「thedotmack/claude-mem」は、AI Claudeのメモリ機能に関するもので、ユーザーのデータを保存して個別の体験を提供する方法について述べています。これにより、ユーザーはよりパーソナライズされた対話が可能になります。"
+    }
+  },
+  {
+    "title": "CopilotKit/OpenBot",
+    "link": "https://github.com/CopilotKit/OpenBot",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "CopilotKitとOpenBotに関するニュースで、AIを活用した開発ツールやボットの新しい進展について紹介されています。これにより、プログラミングの効率が向上し、開発者の支援が期待されています。"
+    }
+  }
+]
