@@ -1,10 +1,10 @@
 [
   {
-    "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
-    "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
+    "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+    "link": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
     "analysis": {
       "error": "json_parse",
-      "raw": "ファクトリードロイド1.0が登場しました。このエージェントはモデルに依存せず、スクリプトモードに基づいて構築されたコーディングアシスタントです。"
+      "raw": "DeepSeekがdsh-superagentをオープンソース化し、ルーター・ワーカーのコーディングエージェントを提供しました。これにより、開発者は効率的なコーディング作業を行えるようになります。"
     }
   },
   {
@@ -12,15 +12,15 @@
     "link": "https://github.com/thedotmack/claude-mem",
     "analysis": {
       "error": "json_parse",
-      "raw": "AIモデル「Claude」の新しいバージョン「claude-mem」についてのニュースです。このモデルは、ユーザーとのインタラクションを記憶し、よりパーソナライズされた応答を提供する機能を持っています。"
+      "raw": "タイトル「thedotmack/claude-mem」は、AIモデルClaudeのメモリ機能に関するニュースです。これにより、Claudeが過去の会話や情報を記憶し、ユーザーとのインタラクションを向上させることを目的としています。"
     }
   },
   {
-    "title": "CopilotKit/OpenBot",
-    "link": "https://github.com/CopilotKit/OpenBot",
+    "title": "Donchitos/Claude-Code-Game-Studios",
+    "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
     "analysis": {
       "error": "json_parse",
-      "raw": "CopilotKitとOpenBotに関するニュースは、AI技術を活用して効率的なサポートを提供する新しいツールの開発を示しています。これにより、ユーザーはタスクやプロジェクトの管理がさらに簡素化されることが期待されます。"
+      "raw": "タイトル「Donchitos/Claude-Code-Game-Studios」は、ゲーム開発に関する新しいスタジオやプロジェクトについての情報を示しています。このスタジオは、革新的なゲームの制作に注力していると思われます。"
     }
   }
 ]
