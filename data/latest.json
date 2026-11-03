@@ -1,18 +1,10 @@
 [
   {
-    "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
-    "link": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "DeepSeekがdsh-superagentをオープンソース化し、ルーター・ワーカーのコーディングエージェントを提供しました。これにより、開発者は効率的なコーディング作業を行えるようになります。"
-    }
-  },
-  {
     "title": "thedotmack/claude-mem",
     "link": "https://github.com/thedotmack/claude-mem",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「thedotmack/claude-mem」は、AIモデルClaudeのメモリ機能に関するニュースです。これにより、Claudeが過去の会話や情報を記憶し、ユーザーとのインタラクションを向上させることを目的としています。"
+      "raw": "タイトル「thedotmack/claude-mem」は、おそらくAIのClaudeモデルに関連するメモや最新情報を提供するプラットフォームやリポジトリに関する内容です。この情報は、AIの進展や利用方法についての洞察を含んでいる可能性があります。"
     }
   },
   {
@@ -20,7 +12,7 @@
     "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「Donchitos/Claude-Code-Game-Studios」は、ゲーム開発に関する新しいスタジオやプロジェクトについての情報を示しています。このスタジオは、革新的なゲームの制作に注力していると思われます。"
+      "raw": "「DonchitosとClaude-Code-Game-Studiosが提携し、新たなゲーム開発プロジェクトを発表。革新的な技術とクリエイティブなアイデアで、プレイヤーに新しい体験を提供することを目指す。」"
     }
   }
 ]
