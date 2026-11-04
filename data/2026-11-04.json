@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights",
+    "link": "https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "AnthropicがFlashProveを発表しました。これは、応答が約束された重みから来たことを示す暗号証明です。"
+    }
+  },
+  {
+    "title": "thedotmack/claude-mem",
+    "link": "https://github.com/thedotmack/claude-mem",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「thedotmack/claude-mem」は、AI技術に関する最新情報や動向を紹介する内容です。特に、ClaudeというAIモデルに関連するメモや議論を中心に展開しています。"
+    }
+  },
+  {
+    "title": "Donchitos/Claude-Code-Game-Studios",
+    "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「Donchitos/Claude-Code-Game-Studios」は、DonchitosというゲームスタジオとClaude-Codeに関連する新しいゲーム開発の取り組みを指しています。具体的な内容は明示されていませんが、AI技術を活用したゲーム制作に焦点を当てていると思われます。"
+    }
+  }
+]
