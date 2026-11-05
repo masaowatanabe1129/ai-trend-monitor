@@ -1,82 +1,82 @@
 [
   [
-    "claude",
-    7
+    "arxiv",
+    20
   ],
   [
-    "nbsp",
-    6
+    "announce",
+    20
   ],
   [
-    "code",
-    5
+    "type",
+    20
   ],
   [
-    "game",
-    5
-  ],
-  [
-    "from",
-    4
-  ],
-  [
-    "with",
-    4
-  ],
-  [
-    "anthropic",
-    3
-  ],
-  [
-    "flashprove",
-    3
-  ],
-  [
-    "proofs",
-    3
+    "abstract",
+    20
   ],
   [
     "that",
-    3
+    16
   ],
   [
-    "reply",
-    3
+    "agent",
+    14
   ],
   [
-    "came",
-    3
+    "language",
+    13
   ],
   [
-    "committed",
-    3
+    "this",
+    13
   ],
   [
-    "weights",
-    3
+    "from",
+    10
   ],
   [
-    "sessions",
-    3
+    "with",
+    9
+  ],
+  [
+    "models",
+    9
+  ],
+  [
+    "text",
+    9
+  ],
+  [
+    "model",
+    8
   ],
   [
     "into",
-    3
+    8
   ],
   [
-    "studio",
-    3
+    "across",
+    8
   ],
   [
-    "releases",
-    2
+    "multi",
+    7
   ],
   [
-    "cryptographic",
-    2
+    "agents",
+    7
   ],
   [
-    "proves",
-    2
+    "they",
+    7
+  ],
+  [
+    "systems",
+    6
+  ],
+  [
+    "large",
+    6
   ]
 ]

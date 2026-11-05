@@ -1,26 +1,162 @@
 [
   {
-    "title": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights",
-    "link": "https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/",
+    "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+    "link": "https://arxiv.org/abs/2611.05390",
     "analysis": {
       "error": "json_parse",
-      "raw": "AnthropicがFlashProveを発表しました。これは、応答が約束された重みから来たことを示す暗号証明です。"
+      "raw": "タイトル「Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions」の要約:\n大規模言語モデル（LLM）を評価する機関における権限について、誰がその判断を覆すことができるかという問題を検証した研究。証拠に基づく権限の仕組みが焦点となっている。"
     }
   },
   {
-    "title": "thedotmack/claude-mem",
-    "link": "https://github.com/thedotmack/claude-mem",
+    "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+    "link": "https://arxiv.org/abs/2611.05391",
     "analysis": {
       "error": "json_parse",
-      "raw": "「thedotmack/claude-mem」は、AI技術に関する最新情報や動向を紹介する内容です。特に、ClaudeというAIモデルに関連するメモや議論を中心に展開しています。"
+      "raw": "エージェントが認識を活用し、確認されたテレメトリーデータを元に道具を使うエージェントの運用管理を向上させる方法についてのニュースです。"
     }
   },
   {
-    "title": "Donchitos/Claude-Code-Game-Studios",
-    "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+    "link": "https://arxiv.org/abs/2611.05392",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「Donchitos/Claude-Code-Game-Studios」は、DonchitosというゲームスタジオとClaude-Codeに関連する新しいゲーム開発の取り組みを指しています。具体的な内容は明示されていませんが、AI技術を活用したゲーム制作に焦点を当てていると思われます。"
+      "raw": "エージェント型AIシステムのための不確実性を考慮したリソースオーケストレーションに関する研究です。このアプローチは、リソース管理における不確実性を効果的に扱うことを目指しています。"
+    }
+  },
+  {
+    "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+    "link": "https://arxiv.org/abs/2611.05393",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "医療分野におけるマルチエージェント推論のための、メタエージェントの監視を活用した課題認識型知識獲得手法についての研究です。この手法は、複雑な医療判断をサポートすることを目的としています。"
+    }
+  },
+  {
+    "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+    "link": "https://arxiv.org/abs/2611.05394",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「信頼性ゲート付き階層型LLM推論の実現可能性条件」というタイトルは、階層的な言語モデル（LLM）における信頼性ゲートの設定が推論の実行に与える条件を探る研究について述べています。"
+    }
+  },
+  {
+    "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+    "link": "https://arxiv.org/abs/2611.05450",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "堅牢で長寿命のエージェントを目指し、進化する環境における経験ライフサイクルのベンチマークを評価する研究が行われました。エージェントの適応能力や持続性が焦点となっています。"
+    }
+  },
+  {
+    "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+    "link": "https://arxiv.org/abs/2611.05459",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "大規模言語モデルが科学文献をレビューできるかを、102本の論文を基準にテストした研究についてのニュースです。"
+    }
+  },
+  {
+    "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+    "link": "https://arxiv.org/abs/2611.05512",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "SlackBenchは、実際のコードリポジトリを基にした共同プロジェクトにおけるエージェントのパフォーマンスを評価するためのベンチマークです。このツールを用いて、エージェントの能力を測定し、改善点を見出すことを目的としています。"
+    }
+  },
+  {
+    "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
+    "link": "https://arxiv.org/abs/2611.05524",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "MA-SafeDiffuserは、拡散確率モデルを用いた安全なマルチエージェント計画の手法を提案しています。このアプローチにより、複数のエージェントが協力しながらも安全に行動できるように設計されています。"
+    }
+  },
+  {
+    "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
+    "link": "https://arxiv.org/abs/2611.05542",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「ワンパス推論を用いた効率的な全ページランキングに向けて」というタイトルは、効率的なページランキングを実現するための新たな手法を提案していることを示しています。特に、一度の推論で全ページのランク付けを行うアプローチに焦点を当てています。"
+    }
+  },
+  {
+    "title": "Discourse Analysis of Legislative Bill Discussions",
+    "link": "https://arxiv.org/abs/2611.05381",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "立法案に関する議論のディスコース分析に関する研究が行われ、議会での討論や発言の内容が評価され、政治的コミュニケーションや意思決定プロセスに与える影響が探求された。"
+    }
+  },
+  {
+    "title": "DS@GT ARC at CheckThat! 2026: A Verdict-Anchored Pipeline for Generating Fact-Checking Articles",
+    "link": "https://arxiv.org/abs/2611.05382",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "DS@GT ARCは、2026年のCheckThat!で、事実確認記事を生成するための判決に基づいたパイプラインを提案します。これは、信頼性のある情報提供を目指す新たな手法です。"
+    }
+  },
+  {
+    "title": "CCDWIKI: Decoupling Case Formulation from Response Generation in Longitudinal CBT Dialogue",
+    "link": "https://arxiv.org/abs/2611.05383",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "CCDWIKIは、長期的なCBT（認知行動療法）対話において、ケースの定式化を応答生成から分離する新しいアプローチを提案しています。この手法により、対話の効率と効果を向上させることを目指しています。"
+    }
+  },
+  {
+    "title": "Human-like cross-language generalisation in deep neural speaker embeddings and its acoustic foundations",
+    "link": "https://arxiv.org/abs/2611.05384",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "人間のような言語間の一般化を実現する深層神経スピーカー埋め込みとその音響的基盤についての研究です。この研究は、異なる言語における話者の特徴をどう捉えるかに焦点を当てています。"
+    }
+  },
+  {
+    "title": "Same Origin, Different Verdicts: Text Production Conditions Confound Machine-Generated Text Detection in Russian",
+    "link": "https://arxiv.org/abs/2611.05385",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "同一の出典から生成されたテキストでも、異なる判決が下される状況が報告されています。ロシアにおける機械生成テキストの検出が、生産条件によって複雑化することが指摘されています。"
+    }
+  },
+  {
+    "title": "SRRM: A Retrieval-Reconstruction Benchmark for Evaluating Long-Context Memory in Small Language Models",
+    "link": "https://arxiv.org/abs/2611.05386",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "SRRMは、小規模言語モデルにおける長文コンテキストメモリを評価するためのリトリーバル・再構築ベンチマークです。このベンチマークは、モデルの記憶能力を測る新しい基準を提供します。"
+    }
+  },
+  {
+    "title": "AI-Driven SaaS Platform Integration: AI Express for Unified Generative AI Services with Pay-As-You-Go Credit Systems and Scalable Microservice Architecture",
+    "link": "https://arxiv.org/abs/2611.05389",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "AI Expressは、統合ジェネレーティブAIサービスを提供するAI駆動のSaaSプラットフォームで、従量課金制のクレジットシステムとスケーラブルなマイクロサービスアーキテクチャを採用しています。"
+    }
+  },
+  {
+    "title": "When to Ask, When to Answer: Strategic Clarification for Ambiguous Reference Resolution in Dialogue",
+    "link": "https://arxiv.org/abs/2611.05517",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "対話におけるあいまいな参照解決のための戦略的な明確化について、いつ質問をするべきか、いつ答えるべきかを考察した研究です。コミュニケーションの効果を高めるための方法が探求されています。"
+    }
+  },
+  {
+    "title": "Rewrite, Then Veto: Rewriter-Agnostic Edit Gating for LLM-Based Post-OCR Correction",
+    "link": "https://arxiv.org/abs/2611.05539",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルの内容は、OCR（光学式文字認識）によるテキストの誤り修正において、特定の再作成者に依存しない編集ゲーティング手法を提案するものです。この手法は、修正後の結果を再作成する前に、バイパスや拒否を行うプロセスを含んでいます。"
+    }
+  },
+  {
+    "title": "RAGCompass: Generalizable Retriever Routing via Reranking",
+    "link": "https://arxiv.org/abs/2611.05596",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "RAGCompassは、再ランク付けを通じて一般化可能な情報検索ルーティングを提供する新しい手法です。この手法は、情報検索の効率と精度を向上させることを目的としています。"
     }
   }
 ]
