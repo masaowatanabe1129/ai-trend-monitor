@@ -1,162 +1,162 @@
 [
   {
-    "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
-    "link": "https://arxiv.org/abs/2611.05390",
+    "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+    "link": "https://arxiv.org/abs/2611.06962",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions」の要約:\n大規模言語モデル（LLM）を評価する機関における権限について、誰がその判断を覆すことができるかという問題を検証した研究。証拠に基づく権限の仕組みが焦点となっている。"
+      "raw": "AIの時代における逆問題の定式化：可能性や課題、参加の招待について。"
     }
   },
   {
-    "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
-    "link": "https://arxiv.org/abs/2611.05391",
+    "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+    "link": "https://arxiv.org/abs/2611.06972",
     "analysis": {
       "error": "json_parse",
-      "raw": "エージェントが認識を活用し、確認されたテレメトリーデータを元に道具を使うエージェントの運用管理を向上させる方法についてのニュースです。"
+      "raw": "KDASOは、知識とデータの二重駆動による自動スキル最適化手法を用いて、負債審査業務を効率化する技術を提案しています。このアプローチにより、審査プロセスの精度と速度が向上します。"
     }
   },
   {
-    "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
-    "link": "https://arxiv.org/abs/2611.05392",
+    "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+    "link": "https://arxiv.org/abs/2611.06977",
     "analysis": {
       "error": "json_parse",
-      "raw": "エージェント型AIシステムのための不確実性を考慮したリソースオーケストレーションに関する研究です。このアプローチは、リソース管理における不確実性を効果的に扱うことを目指しています。"
+      "raw": "BlockLockは、固定バッチジオメトリを用いて再現可能なLLM推論を実現する技術です。この手法により、一貫性のある推論結果を得ることが可能になります。"
     }
   },
   {
-    "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
-    "link": "https://arxiv.org/abs/2611.05393",
+    "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+    "link": "https://arxiv.org/abs/2611.06984",
     "analysis": {
       "error": "json_parse",
-      "raw": "医療分野におけるマルチエージェント推論のための、メタエージェントの監視を活用した課題認識型知識獲得手法についての研究です。この手法は、複雑な医療判断をサポートすることを目的としています。"
+      "raw": "資源効率の良い強化学習を実現するためのポストトレーニング手法について、エラスティック専門家の並列処理を用いるアプローチが紹介されています。これにより、計算リソースを最適化しつつ、高い学習性能を維持することが可能になります。"
     }
   },
   {
-    "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
-    "link": "https://arxiv.org/abs/2611.05394",
+    "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+    "link": "https://arxiv.org/abs/2611.06989",
     "analysis": {
       "error": "json_parse",
-      "raw": "「信頼性ゲート付き階層型LLM推論の実現可能性条件」というタイトルは、階層的な言語モデル（LLM）における信頼性ゲートの設定が推論の実行に与える条件を探る研究について述べています。"
+      "raw": "「2つの台帳モデル：クラウド、モデル、および記録システム全体でのマルチエージェントAIシステムのトランザクション単位コスト会計」についてのニュースです。このモデルは、複数のエージェントが関与するAIシステムにおけるコスト管理を効率化することを目的としています。"
     }
   },
   {
-    "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
-    "link": "https://arxiv.org/abs/2611.05450",
+    "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+    "link": "https://arxiv.org/abs/2611.06995",
     "analysis": {
       "error": "json_parse",
-      "raw": "堅牢で長寿命のエージェントを目指し、進化する環境における経験ライフサイクルのベンチマークを評価する研究が行われました。エージェントの適応能力や持続性が焦点となっています。"
+      "raw": "自律型AIエージェントが、証明形式化において人間の好みから体系的に乖離することが示されました。これにより、AIの理解や応用における人間とのギャップが明らかになっています。"
     }
   },
   {
-    "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
-    "link": "https://arxiv.org/abs/2611.05459",
+    "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
+    "link": "https://arxiv.org/abs/2611.06996",
     "analysis": {
       "error": "json_parse",
-      "raw": "大規模言語モデルが科学文献をレビューできるかを、102本の論文を基準にテストした研究についてのニュースです。"
+      "raw": "「エージェントAIのための信頼性のある応答的なランタイム認可について、ポリシーの振る舞いとパラメータの感度に関する実証的な特徴付け」がテーマです。AIが状況に応じて適切な権限を自動的に管理できる方法を探求しています。"
     }
   },
   {
-    "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
-    "link": "https://arxiv.org/abs/2611.05512",
+    "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
+    "link": "https://arxiv.org/abs/2611.07048",
     "analysis": {
       "error": "json_parse",
-      "raw": "SlackBenchは、実際のコードリポジトリを基にした共同プロジェクトにおけるエージェントのパフォーマンスを評価するためのベンチマークです。このツールを用いて、エージェントの能力を測定し、改善点を見出すことを目的としています。"
+      "raw": "AIにおける適応プロセスの進化を探る内容で、ダーウィン主義、ラマルキズム、そしてエージェント指向の進化に焦点を当てています。これにより、AIシステムの進化方法の多様性とその影響を考察しています。"
     }
   },
   {
-    "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
-    "link": "https://arxiv.org/abs/2611.05524",
+    "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
+    "link": "https://arxiv.org/abs/2611.07051",
     "analysis": {
       "error": "json_parse",
-      "raw": "MA-SafeDiffuserは、拡散確率モデルを用いた安全なマルチエージェント計画の手法を提案しています。このアプローチにより、複数のエージェントが協力しながらも安全に行動できるように設計されています。"
+      "raw": "「クローズドループエージェント評価：階層的測定と自己キャリブレーション」では、AIエージェントの性能を評価するための新しい手法として、複数の測定レイヤーと自己調整のアプローチが提案されています。この方法により、エージェントの評価精度を向上させることが期待されます。"
     }
   },
   {
-    "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
-    "link": "https://arxiv.org/abs/2611.05542",
+    "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
+    "link": "https://arxiv.org/abs/2611.07066",
     "analysis": {
       "error": "json_parse",
-      "raw": "「ワンパス推論を用いた効率的な全ページランキングに向けて」というタイトルは、効率的なページランキングを実現するための新たな手法を提案していることを示しています。特に、一度の推論で全ページのランク付けを行うアプローチに焦点を当てています。"
+      "raw": "「エピグラフ形式に基づく探査による協調的多エージェント強化学習」というタイトルの研究は、複数のエージェントが協力して学習するための探索手法を提案しています。このアプローチは、効率的な情報収集を促進し、パフォーマンス向上を目指しています。"
     }
   },
   {
-    "title": "Discourse Analysis of Legislative Bill Discussions",
-    "link": "https://arxiv.org/abs/2611.05381",
+    "title": "Interactive Backdoor Attacks in LLM-Based Proactive Dialogue Systems",
+    "link": "https://arxiv.org/abs/2611.06969",
     "analysis": {
       "error": "json_parse",
-      "raw": "立法案に関する議論のディスコース分析に関する研究が行われ、議会での討論や発言の内容が評価され、政治的コミュニケーションや意思決定プロセスに与える影響が探求された。"
+      "raw": "LLMベースの対話システムにおけるインタラクティブなバックドア攻撃の研究が紹介されています。これにより、悪意のあるユーザーがシステムに不正アクセスを試みる方法が明らかにされています。"
     }
   },
   {
-    "title": "DS@GT ARC at CheckThat! 2026: A Verdict-Anchored Pipeline for Generating Fact-Checking Articles",
-    "link": "https://arxiv.org/abs/2611.05382",
+    "title": "On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer",
+    "link": "https://arxiv.org/abs/2611.06976",
     "analysis": {
       "error": "json_parse",
-      "raw": "DS@GT ARCは、2026年のCheckThat!で、事実確認記事を生成するための判決に基づいたパイプラインを提案します。これは、信頼性のある情報提供を目指す新たな手法です。"
+      "raw": "「事前学習から自己回帰モデルへのクロスモデル転送の機会と課題について」では、異なるモデル間での知識移転に関する利点と難点が検討されています。特に、事前学習済みモデルの情報を自己回帰モデルに利用することで得られる可能性と、その実現に向けた課題が考察されています。"
     }
   },
   {
-    "title": "CCDWIKI: Decoupling Case Formulation from Response Generation in Longitudinal CBT Dialogue",
-    "link": "https://arxiv.org/abs/2611.05383",
+    "title": "Follow the Policy, Fail the Benchmark: Auditing and Revising Policy-Based Decision Benchmarks",
+    "link": "https://arxiv.org/abs/2611.07042",
     "analysis": {
       "error": "json_parse",
-      "raw": "CCDWIKIは、長期的なCBT（認知行動療法）対話において、ケースの定式化を応答生成から分離する新しいアプローチを提案しています。この手法により、対話の効率と効果を向上させることを目指しています。"
+      "raw": "政策に従うと基準を満たせない：政策に基づく決定基準の監査と改訂について。政策遵守と業績基準の不一致を分析し、改善策を提案する内容です。"
     }
   },
   {
-    "title": "Human-like cross-language generalisation in deep neural speaker embeddings and its acoustic foundations",
-    "link": "https://arxiv.org/abs/2611.05384",
+    "title": "Reclassification Is All You Missed: Surfacing Variant Reinterpretation Need in Online Health Communities at Population Scale",
+    "link": "https://arxiv.org/abs/2611.07054",
     "analysis": {
       "error": "json_parse",
-      "raw": "人間のような言語間の一般化を実現する深層神経スピーカー埋め込みとその音響的基盤についての研究です。この研究は、異なる言語における話者の特徴をどう捉えるかに焦点を当てています。"
+      "raw": "オンライン健康コミュニティにおける変異の再分類と解釈の必要性が、人口規模で明らかになったことを示す研究です。変異の理解を深めるための再評価が重要であることを強調しています。"
     }
   },
   {
-    "title": "Same Origin, Different Verdicts: Text Production Conditions Confound Machine-Generated Text Detection in Russian",
-    "link": "https://arxiv.org/abs/2611.05385",
+    "title": "Automated Feedback to Peer Tutors Increases Their Talk Moves and Learner Reasoning but Not the Balance of Talk",
+    "link": "https://arxiv.org/abs/2611.07072",
     "analysis": {
       "error": "json_parse",
-      "raw": "同一の出典から生成されたテキストでも、異なる判決が下される状況が報告されています。ロシアにおける機械生成テキストの検出が、生産条件によって複雑化することが指摘されています。"
+      "raw": "自動フィードバックがピアチューターの発言スタイルと学習者の推論を向上させるが、発言のバランスには影響しないことが示された。"
     }
   },
   {
-    "title": "SRRM: A Retrieval-Reconstruction Benchmark for Evaluating Long-Context Memory in Small Language Models",
-    "link": "https://arxiv.org/abs/2611.05386",
+    "title": "Consistent yet Contextual: Learning Author-Level Mixtures of Style for Authorship Attribution",
+    "link": "https://arxiv.org/abs/2611.07111",
     "analysis": {
       "error": "json_parse",
-      "raw": "SRRMは、小規模言語モデルにおける長文コンテキストメモリを評価するためのリトリーバル・再構築ベンチマークです。このベンチマークは、モデルの記憶能力を測る新しい基準を提供します。"
+      "raw": "著者のスタイルを特定するために、著者レベルのスタイルの混合を学習し、一貫性と文脈の両方を考慮した手法について述べています。これにより、著作権 attribution の精度が向上することを目指しています。"
     }
   },
   {
-    "title": "AI-Driven SaaS Platform Integration: AI Express for Unified Generative AI Services with Pay-As-You-Go Credit Systems and Scalable Microservice Architecture",
-    "link": "https://arxiv.org/abs/2611.05389",
+    "title": "What Patients Say They Can't Access: Mining Cancer Screening Barriers from Online Communities",
+    "link": "https://arxiv.org/abs/2611.07113",
     "analysis": {
       "error": "json_parse",
-      "raw": "AI Expressは、統合ジェネレーティブAIサービスを提供するAI駆動のSaaSプラットフォームで、従量課金制のクレジットシステムとスケーラブルなマイクロサービスアーキテクチャを採用しています。"
+      "raw": "オンラインコミュニティからのデータを分析し、患者が癌検診にアクセスできない理由や障壁を明らかにする研究について。"
     }
   },
   {
-    "title": "When to Ask, When to Answer: Strategic Clarification for Ambiguous Reference Resolution in Dialogue",
-    "link": "https://arxiv.org/abs/2611.05517",
+    "title": "Adapting LLM Judges to Observed Human Annotation Policy through Soft Prompt Tuning",
+    "link": "https://arxiv.org/abs/2611.07126",
     "analysis": {
       "error": "json_parse",
-      "raw": "対話におけるあいまいな参照解決のための戦略的な明確化について、いつ質問をするべきか、いつ答えるべきかを考察した研究です。コミュニケーションの効果を高めるための方法が探求されています。"
+      "raw": "「観察された人間のアノテーション方針に基づいてLLM（大規模言語モデル）ジャッジを適応させるためのソフトプロンプト調整」というタイトルは、LLMを人間の評価基準に合わせて最適化する技術について述べています。このプロセスにより、AIの評価精度を向上させることが目指されています。"
     }
   },
   {
-    "title": "Rewrite, Then Veto: Rewriter-Agnostic Edit Gating for LLM-Based Post-OCR Correction",
-    "link": "https://arxiv.org/abs/2611.05539",
+    "title": "Matriarchy Classics: A Computational Approach to Swap Only Gendered Words in Classic Novels",
+    "link": "https://arxiv.org/abs/2611.07134",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトルの内容は、OCR（光学式文字認識）によるテキストの誤り修正において、特定の再作成者に依存しない編集ゲーティング手法を提案するものです。この手法は、修正後の結果を再作成する前に、バイパスや拒否を行うプロセスを含んでいます。"
+      "raw": "タイトルの内容は、古典小説における性別特有の言葉を置き換えるための計算的アプローチを用いた「母権制」の研究についてです。この手法は、作品の文脈を考慮しながら、ジェンダーの視点を変えることを目的としています。"
     }
   },
   {
-    "title": "RAGCompass: Generalizable Retriever Routing via Reranking",
-    "link": "https://arxiv.org/abs/2611.05596",
+    "title": "{\\tau}-bench-LILT: Evaluating Conversational Agents on Realistic Multilingual Tool-Use Tasks",
+    "link": "https://arxiv.org/abs/2611.07203",
     "analysis": {
       "error": "json_parse",
-      "raw": "RAGCompassは、再ランク付けを通じて一般化可能な情報検索ルーティングを提供する新しい手法です。この手法は、情報検索の効率と精度を向上させることを目的としています。"
+      "raw": "{\\tau}-bench-LILTは、多言語ツール使用タスクにおける会話型エージェントの評価を行う新しい手法です。リアルなシナリオに基づき、エージェントの性能を測ることを目的としています。"
     }
   }
 ]
