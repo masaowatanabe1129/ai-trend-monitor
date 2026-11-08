@@ -1,0 +1,10 @@
+[
+  {
+    "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
+    "link": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「NVIDIA Dory 4Bをllama.cppで実行する方法：ステップバイステップのガイド」という内容で、具体的な手順をループ形式で解説しています。"
+    }
+  }
+]
