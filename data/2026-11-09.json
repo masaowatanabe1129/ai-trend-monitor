@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
+    "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「各MoEモデルのルーティング方式は？」というタイトルで、DeepSeek、Qwen、Mixtral、Llama 4、gpt-ossの比較が行われています。主要なモデルのルーティング手法についての分析が提供されています。"
+    }
+  },
+  {
+    "title": "anthropics/skills",
+    "link": "https://github.com/anthropics/skills",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「anthropics/skills」は、AIの技術や能力に関する内容を扱っている可能性があります。具体的なスキルや応用例について詳しく述べられていると考えられますが、タイトルのみでは具体的な内容は不明です。"
+    }
+  }
+]

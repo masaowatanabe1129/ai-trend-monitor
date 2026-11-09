@@ -1,10 +1,18 @@
 [
   {
-    "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
-    "link": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
+    "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
+    "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
     "analysis": {
       "error": "json_parse",
-      "raw": "「NVIDIA Dory 4Bをllama.cppで実行する方法：ステップバイステップのガイド」という内容で、具体的な手順をループ形式で解説しています。"
+      "raw": "「各MoEモデルのルーティング方式は？」というタイトルで、DeepSeek、Qwen、Mixtral、Llama 4、gpt-ossの比較が行われています。主要なモデルのルーティング手法についての分析が提供されています。"
+    }
+  },
+  {
+    "title": "anthropics/skills",
+    "link": "https://github.com/anthropics/skills",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「anthropics/skills」は、AIの技術や能力に関する内容を扱っている可能性があります。具体的なスキルや応用例について詳しく述べられていると考えられますが、タイトルのみでは具体的な内容は不明です。"
     }
   }
 ]

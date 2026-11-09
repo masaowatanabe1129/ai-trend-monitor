@@ -1,82 +1,82 @@
 [
   [
-    "loop",
-    6
+    "skills",
+    7
   ],
   [
-    "nvidia",
+    "claude",
     3
   ],
   [
-    "dory",
-    3
-  ],
-  [
-    "llama",
-    3
-  ],
-  [
-    "guide",
-    3
-  ],
-  [
-    "with",
+    "which",
     2
   ],
   [
-    "explore",
-    1
+    "routing",
+    2
   ],
   [
-    "comprehensive",
-    1
+    "does",
+    2
   ],
   [
-    "coding",
-    1
-  ],
-  [
-    "looped",
-    1
-  ],
-  [
-    "language",
-    1
+    "each",
+    2
   ],
   [
     "model",
+    2
+  ],
+  [
+    "deepseek",
+    2
+  ],
+  [
+    "qwen",
+    2
+  ],
+  [
+    "mixtral",
+    2
+  ],
+  [
+    "llama",
+    2
+  ],
+  [
+    "compared",
+    2
+  ],
+  [
+    "repository",
+    2
+  ],
+  [
+    "agent",
+    2
+  ],
+  [
+    "that",
+    2
+  ],
+  [
+    "tasks",
+    2
+  ],
+  [
+    "config",
     1
   ],
   [
-    "learn",
+    "verified",
     1
   ],
   [
-    "build",
+    "comparison",
     1
   ],
   [
-    "pinned",
-    1
-  ],
-  [
-    "branch",
-    1
-  ],
-  [
-    "analyze",
-    1
-  ],
-  [
-    "compute",
-    1
-  ],
-  [
-    "costs",
-    1
-  ],
-  [
-    "test",
+    "open",
     1
   ]
 ]
