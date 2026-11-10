@@ -1,10 +1,90 @@
 [
   {
-    "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
-    "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
+    "title": "Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP",
+    "link": "https://arxiv.org/abs/2611.08639",
     "analysis": {
       "error": "json_parse",
-      "raw": "「各MoEモデルのルーティング方式は？」というタイトルで、DeepSeek、Qwen、Mixtral、Llama 4、gpt-ossの比較が行われています。主要なモデルのルーティング手法についての分析が提供されています。"
+      "raw": "「手紙の強制が拒否を抑制する：WMDPからのメカニズム的証拠」というタイトルのニュースは、手紙の強制が人々の拒否反応にどのように影響を与えるかについての研究結果を示しています。これにより、意思決定や行動に関する新たな洞察が得られます。"
+    }
+  },
+  {
+    "title": "FinEvolveKG: Controlled and Attributable Prompt Evolution for Financial Knowledge Graph Construction",
+    "link": "https://arxiv.org/abs/2611.08643",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "FinEvolveKGは、金融知識グラフの構築において、制御可能かつ帰属可能なプロンプト進化の手法を提案する研究です。この手法により、知識グラフの質と適応性を向上させることを目指しています。"
+    }
+  },
+  {
+    "title": "Compression of Emotion in Language Model Representations",
+    "link": "https://arxiv.org/abs/2611.08683",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "言語モデルの表現における感情の圧縮に関する研究です。この研究では、言語モデルが感情をどのように捉え、表現するかを探求しています。"
+    }
+  },
+  {
+    "title": "Contextuality and Contradictions: Exploring Real-World Identifications of AI-Generated Writing",
+    "link": "https://arxiv.org/abs/2611.08704",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「文脈性と矛盾：AI生成文章の現実世界における特定の探求」というタイトルでは、AIによって生成された文章がどのように特定されるか、及びその際に生じる文脈的な問題や矛盾について考察しています。"
+    }
+  },
+  {
+    "title": "RL-ATTACK: A Generalized Black-Box Adversarial Attack on Language Models via Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2611.08711",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "RL-ATTACKは、強化学習を利用して、言語モデルに対する一般的なブラックボックス型の敵対的攻撃手法を提案する研究です。この手法により、言語モデルの脆弱性を検証し、より安全なモデルの開発に向けた基盤を提供します。"
+    }
+  },
+  {
+    "title": "Structuring Survey Histories for LLM Digital Twins: A Controlled Study of Background, Decision Procedure, and Evaluation Profiles",
+    "link": "https://arxiv.org/abs/2611.08730",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「LLMデジタルツインのための調査履歴の構造化：背景、意思決定手続き、評価プロファイルに関する制御研究」というタイトルは、LLM（大規模言語モデル）を用いて調査データをどのように整理し、評価するかに関する研究を示しています。研究では、背景要素や意思決定のプロセスがどのように影響するかを調査しています。"
+    }
+  },
+  {
+    "title": "Semantic Conditional Similarity (SCS): A Formal Mathematical Framework",
+    "link": "https://arxiv.org/abs/2611.08778",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「Semantic Conditional Similarity (SCS)」は、条件付き類似性を評価するための正式な数学的フレームワークを提案する内容です。このフレームワークは、意味論的な関連性を基にした類似性の定量化を目指しています。"
+    }
+  },
+  {
+    "title": "Guardrail Erosion in Domain Fine-Tuned Large Language Models: A Paired Audit of Knowledge-Centric Abstention in Biomedical LLMs",
+    "link": "https://arxiv.org/abs/2611.08780",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルは、「領域に特化した大規模言語モデルにおけるガードレールの侵食：バイオメディカルLLMにおける知識中心の控えについてのペア監査」となります。内容は、バイオメディカル分野の大規模言語モデルが知識に基づいて情報を控える際のガードレールの劣化についての評価を行ったものです。"
+    }
+  },
+  {
+    "title": "Richness Is Not Evenness: Ordered Renyi Crossings under Self-Training",
+    "link": "https://arxiv.org/abs/2611.08892",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「リッチネスは均一性ではない：自己学習下の順序化されたレンyi交差」に関する要約です。この研究は、自己学習のプロセスにおけるレンyi交差の特性に焦点を当てており、データのリッチネスとその配置の重要性を示しています。"
+    }
+  },
+  {
+    "title": "From Procedures to Permissions: Learning Precise Subagent Authorization from Agent Skills",
+    "link": "https://arxiv.org/abs/2611.08905",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "手続きから権限へ: エージェントのスキルから精密なサブエージェントの認可方法を学ぶ。"
+    }
+  },
+  {
+    "title": "Baidu’s ERNIE Evolve Automated Research System Beats NanoChat and NanoGPT Records",
+    "link": "https://www.marktechpost.com/2026/11/09/baidu-ernie-evolve-automated-research-system/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "バイドゥのERNIE Evolve自動研究システムが、NanoChatやNanoGPTの記録を超えた。最新のAI技術が進展し、競争力のある成果を上げていることを示している。"
     }
   },
   {
@@ -12,7 +92,23 @@
     "link": "https://github.com/anthropics/skills",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「anthropics/skills」は、AIの技術や能力に関する内容を扱っている可能性があります。具体的なスキルや応用例について詳しく述べられていると考えられますが、タイトルのみでは具体的な内容は不明です。"
+      "raw": "AIニュース「anthropics/skills」は、人間のスキルや能力に焦点を当てた人工知能に関連する話題を扱っています。特に、AIの進化が人間のスキルに与える影響について考察しています。"
+    }
+  },
+  {
+    "title": "anthropics/claude-quickstarts",
+    "link": "https://github.com/anthropics/claude-quickstarts",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「AnthropicのClaudeクイックスタート」が発表され、ユーザーがこのAIを迅速に使い始めるためのリソースやガイドラインが提供されています。これにより、AIの導入が一層容易になることが期待されています。"
+    }
+  },
+  {
+    "title": "homeassistant-ai/ha-mcp",
+    "link": "https://github.com/homeassistant-ai/ha-mcp",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「homeassistant-ai/ha-mcp」に関するニュースは、Home Assistantプラットフォームにおける新たなAI機能や設定方法に焦点を当てています。これにより、ユーザーはより効率的に自宅の自動化を管理できるようになります。"
     }
   }
 ]
