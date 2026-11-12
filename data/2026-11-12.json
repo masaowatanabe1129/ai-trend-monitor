@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
+    "link": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Googleが、Gemini Decision 1を搭載したGemini Decisions APIを発表しました。料金はトークンあたり0.10ドルです。"
+    }
+  },
+  {
+    "title": "anthropics/skills",
+    "link": "https://github.com/anthropics/skills",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「anthropics/skills」は、AI技術や人間のスキルの関係について論じる内容です。この分野では、人間の能力を向上させるためのAIの役割や、その影響が探求されています。"
+    }
+  },
+  {
+    "title": "addyosmani/agent-skills",
+    "link": "https://github.com/addyosmani/agent-skills",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "addyosmani/agent-skillsは、AIエージェントが必要なスキルを学習するためのリソースやツールを提供するプロジェクトです。これにより、エージェントの能力向上が期待されます。"
+    }
+  },
+  {
+    "title": "anthropics/claude-quickstarts",
+    "link": "https://github.com/anthropics/claude-quickstarts",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「anthropics/claude-quickstarts」は、AIモデル「Claude」に関するクイックスタートガイドを提供する内容です。このガイドは、ユーザーがClaudeを迅速に使用開始できるようにサポートします。"
+    }
+  },
+  {
+    "title": "homeassistant-ai/ha-mcp",
+    "link": "https://github.com/homeassistant-ai/ha-mcp",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「homeassistant-ai/ha-mcp」は、Home Assistantに関連する機械学習およびAI機能の統合に関するプロジェクトです。このプロジェクトは、家庭のスマートデバイスの管理・制御をより効率的にすることを目指しています。"
+    }
+  }
+]

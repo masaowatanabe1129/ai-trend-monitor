@@ -1,106 +1,10 @@
 [
   {
-    "title": "Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP",
-    "link": "https://arxiv.org/abs/2611.08639",
+    "title": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
+    "link": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
     "analysis": {
       "error": "json_parse",
-      "raw": "「手紙を強制することが拒否を抑制する：WMDPからの機械的証拠」というタイトルは、手紙を強制的に送ることが人々の拒否反応を抑えるメカニズムに関する研究の成果を示しています。研究は、強制の効果を実験的に検証したものです。"
-    }
-  },
-  {
-    "title": "FinEvolveKG: Controlled and Attributable Prompt Evolution for Financial Knowledge Graph Construction",
-    "link": "https://arxiv.org/abs/2611.08643",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "FinEvolveKGは、金融知識グラフの構築における制御されたプロンプトの進化を可能にし、その過程を説明可能にする手法を提案しています。これにより、金融データの整理と理解が向上します。"
-    }
-  },
-  {
-    "title": "Compression of Emotion in Language Model Representations",
-    "link": "https://arxiv.org/abs/2611.08683",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "言語モデルの表現における感情の圧縮についての研究です。この研究では、感情の取扱いや表現方法がどのように最適化されるかを探ります。"
-    }
-  },
-  {
-    "title": "Contextuality and Contradictions: Exploring Real-World Identifications of AI-Generated Writing",
-    "link": "https://arxiv.org/abs/2611.08704",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "AI生成の文章に関する現実世界での特定と、その文脈性や矛盾を探る内容です。"
-    }
-  },
-  {
-    "title": "RL-ATTACK: A Generalized Black-Box Adversarial Attack on Language Models via Reinforcement Learning",
-    "link": "https://arxiv.org/abs/2611.08711",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "RL-ATTACKは、強化学習を用いた言語モデルに対する一般化されたブラックボックス逆襲攻撃の手法を提案しています。この研究は、言語モデルの脆弱性を新たな視点から探求しています。"
-    }
-  },
-  {
-    "title": "Structuring Survey Histories for LLM Digital Twins: A Controlled Study of Background, Decision Procedure, and Evaluation Profiles",
-    "link": "https://arxiv.org/abs/2611.08730",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "LLMデジタルツインのための調査履歴の構造化に関する制御された研究で、背景、意思決定手順、および評価プロファイルについて検討しています。"
-    }
-  },
-  {
-    "title": "Semantic Conditional Similarity (SCS): A Formal Mathematical Framework",
-    "link": "https://arxiv.org/abs/2611.08778",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「セマンティック条件類似性（SCS）：正式な数学的枠組み」というタイトルのニュースは、条件付きで意味的に類似した情報を比較するための数学的な枠組みを提案していることを示しています。SCSは、情報の関連性や類似性を定量的に評価する手法です。"
-    }
-  },
-  {
-    "title": "Guardrail Erosion in Domain Fine-Tuned Large Language Models: A Paired Audit of Knowledge-Centric Abstention in Biomedical LLMs",
-    "link": "https://arxiv.org/abs/2611.08780",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "ドメイン特化型の大規模言語モデルにおけるガードレールの劣化について、医療関連の知識に基づく行動の抑制を調査した監査の結果が報告されています。技術の安全性と信頼性に関する重要な知見が示されています。"
-    }
-  },
-  {
-    "title": "Richness Is Not Evenness: Ordered Renyi Crossings under Self-Training",
-    "link": "https://arxiv.org/abs/2611.08892",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルは「豊かさは均一性ではない：自己教師あり学習における順序付けられたレンイ交差点」です。この研究は、自己教師あり学習におけるレンイ交差の概念の重要性を示し、データの豊かさと均一性の関係について考察しています。"
-    }
-  },
-  {
-    "title": "From Procedures to Permissions: Learning Precise Subagent Authorization from Agent Skills",
-    "link": "https://arxiv.org/abs/2611.08905",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「手続きから権限へ：エージェントスキルからの正確なサブエージェント認可の学習」というタイトルは、エージェントが持つスキルを基にして、サブエージェントに対する権限を精密に学習するプロセスについて述べています。"
-    }
-  },
-  {
-    "title": "Gemini 4 Carbon is now available",
-    "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「Gemini 4 Carbon」がリリースされました。この新しい製品は、様々な機能と性能を備えています。"
-    }
-  },
-  {
-    "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
-    "link": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "AnthropicがClaude Fable 5.2とMythos 5.2を発表しました。同じモデルながら、異なる安全対策が施されています。"
-    }
-  },
-  {
-    "title": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work",
-    "link": "https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "Metaが「Muse Ember」を発表しました。このモデルは1ミリオンのコンテキストを持ち、高ボリュームのエージェント業務向けに設計されています。"
+      "raw": "Googleが、Gemini Decision 1を搭載したGemini Decisions APIを発表しました。料金はトークンあたり0.10ドルです。"
     }
   },
   {
@@ -108,7 +12,15 @@
     "link": "https://github.com/anthropics/skills",
     "analysis": {
       "error": "json_parse",
-      "raw": "「Anthropic社が新たなAIスキルに関する情報を提供」という内容に関するニュースです。AIの発展や技能に焦点を当てた話題です。"
+      "raw": "タイトル「anthropics/skills」は、AI技術や人間のスキルの関係について論じる内容です。この分野では、人間の能力を向上させるためのAIの役割や、その影響が探求されています。"
+    }
+  },
+  {
+    "title": "addyosmani/agent-skills",
+    "link": "https://github.com/addyosmani/agent-skills",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "addyosmani/agent-skillsは、AIエージェントが必要なスキルを学習するためのリソースやツールを提供するプロジェクトです。これにより、エージェントの能力向上が期待されます。"
     }
   },
   {
@@ -116,7 +28,7 @@
     "link": "https://github.com/anthropics/claude-quickstarts",
     "analysis": {
       "error": "json_parse",
-      "raw": "Anthropic社のAI「Claude」のクイックスタートガイドについてのニュースです。このガイドはユーザーがClaudeを簡単に使い始めるための情報を提供しています。"
+      "raw": "タイトル「anthropics/claude-quickstarts」は、AIモデル「Claude」に関するクイックスタートガイドを提供する内容です。このガイドは、ユーザーがClaudeを迅速に使用開始できるようにサポートします。"
     }
   },
   {
@@ -124,7 +36,7 @@
     "link": "https://github.com/homeassistant-ai/ha-mcp",
     "analysis": {
       "error": "json_parse",
-      "raw": "「homeassistant-ai/ha-mcp」は、Home Assistantに関するAI技術やプロジェクトを紹介するもので、特にコンポーネントや機能の実装についての情報が提供されています。"
+      "raw": "「homeassistant-ai/ha-mcp」は、Home Assistantに関連する機械学習およびAI機能の統合に関するプロジェクトです。このプロジェクトは、家庭のスマートデバイスの管理・制御をより効率的にすることを目指しています。"
     }
   }
 ]
