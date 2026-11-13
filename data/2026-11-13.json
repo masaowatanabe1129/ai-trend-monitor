@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Introducing Gemini 4 Hydrogen",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「Gemini 4水素を紹介」というタイトルは、Gemini 4という新しい水素技術または製品の発表を示しています。詳細な内容は不明ですが、技術革新や持続可能なエネルギーに関するニュースである可能性があります。"
+    }
+  },
+  {
+    "title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
+    "link": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "CopilotKitがOpenBot 1.0をリリースしました。これはMITライセンスのもとで提供される自己ホスト型のAI作業員で、内部にガバナンス機能が備わっています。"
+    }
+  },
+  {
+    "title": "addyosmani/agent-skills",
+    "link": "https://github.com/addyosmani/agent-skills",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「addyosmani/agent-skills」は、エージェントのスキルに関するリポジトリで、AIの能力向上や機能強化に焦点を当てた内容です。開発者向けのリソースや実践的な情報が提供されています。"
+    }
+  },
+  {
+    "title": "homeassistant-ai/ha-mcp",
+    "link": "https://github.com/homeassistant-ai/ha-mcp",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「homeassistant-ai/ha-mcp」は、Home Assistant向けのAI統合プラグインであり、家庭内のスマートデバイスをより効率的に管理するための機能を提供します。ユーザーが簡単にAIを活用できるように設計されています。"
+    }
+  }
+]

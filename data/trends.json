@@ -1,30 +1,14 @@
 [
   [
     "skills",
-    13
-  ],
-  [
-    "claude",
-    10
-  ],
-  [
-    "with",
-    8
-  ],
-  [
-    "gemini",
     6
   ],
   [
-    "that",
-    4
+    "with",
+    5
   ],
   [
-    "quickstarts",
-    4
-  ],
-  [
-    "started",
+    "agents",
     4
   ],
   [
@@ -36,47 +20,63 @@
     4
   ],
   [
-    "google",
+    "copilotkit",
     3
   ],
   [
-    "decisions",
+    "openbot",
     3
   ],
   [
-    "decision",
+    "licensed",
     3
   ],
   [
-    "tokens",
+    "self",
     3
   ],
   [
-    "agent",
+    "hostable",
     3
   ],
   [
-    "using",
+    "coworker",
     3
   ],
   [
-    "agents",
+    "built",
     3
   ],
   [
-    "building",
-    3
-  ],
-  [
-    "launches",
+    "releases",
     2
   ],
   [
-    "anthropics",
+    "governance",
     2
   ],
   [
-    "repository",
+    "every",
+    2
+  ],
+  [
+    "production",
+    2
+  ],
+  [
+    "grade",
+    2
+  ],
+  [
+    "engineering",
+    2
+  ],
+  [
+    "coding",
+    2
+  ],
+  [
+    "https",
     2
   ]
 ]
