@@ -1,82 +1,82 @@
 [
   [
+    "google",
+    8
+  ],
+  [
+    "open",
+    6
+  ],
+  [
+    "source",
+    6
+  ],
+  [
+    "qwen",
+    6
+  ],
+  [
+    "code",
+    6
+  ],
+  [
     "skills",
     6
   ],
   [
-    "with",
+    "gemini",
     5
   ],
   [
-    "agents",
-    4
-  ],
-  [
-    "home",
-    4
-  ],
-  [
-    "assistant",
-    4
-  ],
-  [
-    "copilotkit",
-    3
-  ],
-  [
-    "openbot",
-    3
-  ],
-  [
-    "licensed",
-    3
-  ],
-  [
-    "self",
-    3
-  ],
-  [
-    "hostable",
-    3
-  ],
-  [
-    "coworker",
-    3
-  ],
-  [
-    "built",
-    3
-  ],
-  [
     "releases",
-    2
-  ],
-  [
-    "governance",
-    2
-  ],
-  [
-    "every",
-    2
-  ],
-  [
-    "production",
-    2
-  ],
-  [
-    "grade",
-    2
-  ],
-  [
-    "engineering",
-    2
+    4
   ],
   [
     "coding",
+    4
+  ],
+  [
+    "agent",
+    4
+  ],
+  [
+    "sync",
+    3
+  ],
+  [
+    "transfer",
+    3
+  ],
+  [
+    "that",
+    3
+  ],
+  [
+    "hydrogen",
+    3
+  ],
+  [
+    "terminal",
+    3
+  ],
+  [
+    "preview",
+    3
+  ],
+  [
+    "agents",
+    3
+  ],
+  [
+    "cache",
     2
   ],
   [
-    "https",
+    "tpus",
+    2
+  ],
+  [
+    "released",
     2
   ]
 ]
