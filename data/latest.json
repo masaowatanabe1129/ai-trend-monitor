@@ -1,42 +1,106 @@
 [
   {
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+    "link": "https://arxiv.org/abs/2611.14544",
     "analysis": {
       "error": "json_parse",
-      "raw": "「llama.cpp v1.0.0」は、ローカルAIエコシステムのためのより強力な基盤を提供する更新版です。新機能と改善が加えられ、開発者にとって使いやすくなっています。"
+      "raw": "Zugwiseは、手書きのチェス得点シートをデジタル化するためのドメイン対応ゲーム再構築技術を紹介します。この技術により、複雑な手書きの記録を正確にデジタル形式に変換することが可能になります。"
     }
   },
   {
-    "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
-    "link": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
+    "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+    "link": "https://arxiv.org/abs/2611.14654",
     "analysis": {
       "error": "json_parse",
-      "raw": "GoogleがTPU用のオープンソース、KVキャッシュ転送ツール「TPU Sync」を発表しました。これにより、TPUの効率的なデータ処理が可能になります。"
+      "raw": "エージェントの履歴をクリーニングすると、世界がまだエラーを保持している場合に問題が生じる。履歴を削除しても、根本的なエラーが残ることで影響が出ることを示唆している。"
     }
   },
   {
-    "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
-    "link": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+    "title": "Together Compiler: Continual Compilation for AI Inference",
+    "link": "https://arxiv.org/abs/2611.14681",
     "analysis": {
       "error": "json_parse",
-      "raw": "GoogleがGemini 4 Hydrogenを発表しました。これはGemini 3.8 Flashの2.5倍の速度を実現しています。"
+      "raw": "「Together Compiler」は、AI推論のための継続的コンパイル技術を提供するツールです。これにより、AIモデルの精度を向上させながら推論の効率を高めることが可能になります。"
     }
   },
   {
-    "title": "QwenLM/qwen-code",
-    "link": "https://github.com/QwenLM/qwen-code",
+    "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+    "link": "https://arxiv.org/abs/2611.14736",
     "analysis": {
       "error": "json_parse",
-      "raw": "QwenLMおよびqwen-codeは、AIモデルやコード生成に関する新しい研究や開発を示しています。これにより、プログラミングやAIの活用がさらに進化することが期待されます。"
+      "raw": "部分的に特定された因果発見において、セマンティックプライヤー（意味的事前情報）が導入されるべきタイミングについての考察。因果関係の特定が不完全な場合に、どのように意味的知識が役立つかを探求する内容。"
     }
   },
   {
-    "title": "addyosmani/agent-skills",
-    "link": "https://github.com/addyosmani/agent-skills",
+    "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+    "link": "https://arxiv.org/abs/2611.14765",
     "analysis": {
       "error": "json_parse",
-      "raw": "「addyosmani/agent-skills」は、エージェントのスキルに関するリポジトリで、AIのエージェントが自律的にタスクを遂行するための技術や方法を提案しています。最新の研究や実践例を通じて、エージェントの能力向上を目指しています。"
+      "raw": "SynthCorpがデータエージェントのためのベンチマークを作成するプラットフォームを提供します。このプラットフォームは、AIシステムの評価や比較を容易にすることを目指しています。"
+    }
+  },
+  {
+    "title": "Rational Use of Time for Social Coordination in Humans and AI",
+    "link": "https://arxiv.org/abs/2611.14766",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「人間とAIの社会的調整における時間の合理的利用」というタイトルは、時間を効率的に使うことが人間とAIの社会的な協働にどのように寄与するかを探る内容です。時間の使い方がコミュニケーションや協力の質を向上させることを強調しています。"
+    }
+  },
+  {
+    "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+    "link": "https://arxiv.org/abs/2611.14769",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "リーダーボードハッキング: 好みベースのモデル評価は操作に対して脆弱であるという研究が紹介されました。これは、評価システムへの不正アクセスや操作が可能であることを示唆しています。"
+    }
+  },
+  {
+    "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
+    "link": "https://arxiv.org/abs/2611.14781",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "事前学習された知覚を用いた、タスクに応じた強固な状態推定手法についての研究。様々なタスクに対する適応力を高め、精度の向上を図る。"
+    }
+  },
+  {
+    "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+    "link": "https://arxiv.org/abs/2611.14794",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「証明ステップの検証がそのコストに見合うのはいつか？オープンウェイト数学的推論のための認定または辞退検証の運営要件」では、数学的証明の検証プロセスにおけるコスト対効果を評価し、特にオープンウェイトの文脈でその運用要件を探ります。"
+    }
+  },
+  {
+    "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+    "link": "https://arxiv.org/abs/2611.14804",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "GenPFNは、工学における小規模データセットを強化するための新しい基盤モデルアプローチで、インコンテキストタブラー形式を活用しています。これにより、データの限界を克服し、より効果的な分析が可能になります。"
+    }
+  },
+  {
+    "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
+    "link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Vercelが新しいUI SDKを発表しました。このSDKには50以上のUI動作が含まれており、AIコーディングエージェントの開発を支援します。"
+    }
+  },
+  {
+    "title": "alibaba/open-code-review",
+    "link": "https://github.com/alibaba/open-code-review",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "アリババがオープンソースのコードレビューに関する取り組みを発表しました。このプロジェクトは、開発者がコードを共有し、互いにレビューできるプラットフォームを提供することを目的としています。"
+    }
+  },
+  {
+    "title": "tradermonty/claude-trading-skills",
+    "link": "https://github.com/tradermonty/claude-trading-skills",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「tradermonty/claude-trading-skills」は、ClaudeというAIがトレーディングスキルを向上させるためのリソースやツールについて説明しています。トレーダーにとって有益な情報や戦略が紹介されています。"
     }
   }
 ]

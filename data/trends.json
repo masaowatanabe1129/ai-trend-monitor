@@ -1,18 +1,58 @@
 [
   [
-    "google",
+    "that",
+    11
+  ],
+  [
+    "arxiv",
+    10
+  ],
+  [
+    "announce",
+    10
+  ],
+  [
+    "type",
+    10
+  ],
+  [
+    "abstract",
+    10
+  ],
+  [
+    "data",
     8
   ],
   [
+    "trading",
+    8
+  ],
+  [
+    "model",
+    7
+  ],
+  [
+    "agents",
+    7
+  ],
+  [
+    "claude",
+    7
+  ],
+  [
+    "skills",
+    7
+  ],
+  [
+    "models",
+    6
+  ],
+  [
+    "these",
+    6
+  ],
+  [
     "open",
-    6
-  ],
-  [
-    "source",
-    6
-  ],
-  [
-    "qwen",
     6
   ],
   [
@@ -20,63 +60,23 @@
     6
   ],
   [
-    "skills",
-    6
-  ],
-  [
-    "gemini",
+    "move",
     5
   ],
   [
-    "releases",
-    4
+    "using",
+    5
   ],
   [
-    "coding",
-    4
+    "language",
+    5
   ],
   [
-    "agent",
-    4
+    "causal",
+    5
   ],
   [
-    "sync",
-    3
-  ],
-  [
-    "transfer",
-    3
-  ],
-  [
-    "that",
-    3
-  ],
-  [
-    "hydrogen",
-    3
-  ],
-  [
-    "terminal",
-    3
-  ],
-  [
-    "preview",
-    3
-  ],
-  [
-    "agents",
-    3
-  ],
-  [
-    "cache",
-    2
-  ],
-  [
-    "tpus",
-    2
-  ],
-  [
-    "released",
-    2
+    "time",
+    5
   ]
 ]
