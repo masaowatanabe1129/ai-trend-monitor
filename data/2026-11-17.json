@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
+    "link": "https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "HarkがHandoff²をリリース、Hark Pro用のコンピュータ利用エージェントで、処理速度が2倍に向上しました。"
+    }
+  },
+  {
+    "title": "google-labs-code/stitch-skills",
+    "link": "https://github.com/google-labs-code/stitch-skills",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Google Labsが「Code/Stitch Skills」という新しいツールを発表しました。このツールは、プログラミングスキルを持つユーザーが簡単にアプリケーションを作成できるよう支援します。"
+    }
+  },
+  {
+    "title": "alibaba/open-code-review",
+    "link": "https://github.com/alibaba/open-code-review",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "アリババがオープンソースのコードレビューに関する取り組みを発表しました。この取り組みは、開発者間のコラボレーションと品質向上を促進することを目的としています。"
+    }
+  },
+  {
+    "title": "Tencent/LoopForge",
+    "link": "https://github.com/Tencent/LoopForge",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "TencentがLoopForgeを買収し、ゲーム開発への取り組みを強化する意向を示しています。これにより、技術革新と新たなコンテンツ創造が期待されます。"
+    }
+  },
+  {
+    "title": "elementalsouls/Claude-BugHunter",
+    "link": "https://github.com/elementalsouls/Claude-BugHunter",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「elementalsouls/Claude-BugHunter」は、AIやプログラムにおけるバグを発見・修正するための手法やツールに関連した内容を示しています。特に、ClaudeというAIモデルに焦点を当て、そのバグを狩る（バグハンティング）活動について言及しています。"
+    }
+  }
+]

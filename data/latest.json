@@ -1,10 +1,18 @@
 [
   {
-    "title": "tradermonty/claude-trading-skills",
-    "link": "https://github.com/tradermonty/claude-trading-skills",
+    "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
+    "link": "https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「tradermonty/claude-trading-skills」についての要約です。  \nこの情報は、トレーディングスキルに関するClaudeというAIモデルの能力を紹介しており、取引の戦略や手法について解説しています。初心者から経験者まで、幅広いトレーダー向けの内容が含まれています。"
+      "raw": "HarkがHandoff²をリリース、Hark Pro用のコンピュータ利用エージェントで、処理速度が2倍に向上しました。"
+    }
+  },
+  {
+    "title": "google-labs-code/stitch-skills",
+    "link": "https://github.com/google-labs-code/stitch-skills",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Google Labsが「Code/Stitch Skills」という新しいツールを発表しました。このツールは、プログラミングスキルを持つユーザーが簡単にアプリケーションを作成できるよう支援します。"
     }
   },
   {
@@ -12,15 +20,23 @@
     "link": "https://github.com/alibaba/open-code-review",
     "analysis": {
       "error": "json_parse",
-      "raw": "アリババがオープンコードレビューに関する取り組みを発表。開発者がコードの質を向上させるためのプラットフォームを提供し、コミュニティの協力を促進することを目的としている。"
+      "raw": "アリババがオープンソースのコードレビューに関する取り組みを発表しました。この取り組みは、開発者間のコラボレーションと品質向上を促進することを目的としています。"
     }
   },
   {
-    "title": "QwenLM/qwen-code",
-    "link": "https://github.com/QwenLM/qwen-code",
+    "title": "Tencent/LoopForge",
+    "link": "https://github.com/Tencent/LoopForge",
     "analysis": {
       "error": "json_parse",
-      "raw": "QwenLMおよびqwen-codeは、最新のAIモデルや技術に関する情報を提供するプラットフォームです。これらのモデルは、自然言語処理やコード生成の分野での新たな進展を目指しています。"
+      "raw": "TencentがLoopForgeを買収し、ゲーム開発への取り組みを強化する意向を示しています。これにより、技術革新と新たなコンテンツ創造が期待されます。"
+    }
+  },
+  {
+    "title": "elementalsouls/Claude-BugHunter",
+    "link": "https://github.com/elementalsouls/Claude-BugHunter",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「elementalsouls/Claude-BugHunter」は、AIやプログラムにおけるバグを発見・修正するための手法やツールに関連した内容を示しています。特に、ClaudeというAIモデルに焦点を当て、そのバグを狩る（バグハンティング）活動について言及しています。"
     }
   }
 ]

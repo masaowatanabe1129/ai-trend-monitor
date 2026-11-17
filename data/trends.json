@@ -1,82 +1,82 @@
 [
   [
     "code",
-    12
+    10
   ],
   [
-    "trading",
+    "agent",
+    9
+  ],
+  [
+    "skills",
     8
   ],
   [
     "claude",
-    7
+    8
   ],
   [
-    "skills",
-    7
+    "hark",
+    6
   ],
   [
     "open",
-    7
+    6
   ],
   [
-    "qwen",
-    6
+    "with",
+    5
+  ],
+  [
+    "https",
+    5
   ],
   [
     "review",
     5
   ],
   [
-    "agent",
+    "stitch",
     4
   ],
   [
-    "investors",
-    3
-  ],
-  [
-    "https",
-    3
-  ],
-  [
-    "source",
-    3
-  ],
-  [
-    "preview",
-    3
-  ],
-  [
-    "tradermonty",
-    2
-  ],
-  [
-    "github",
-    2
-  ],
-  [
-    "alibaba",
-    2
-  ],
-  [
-    "tool",
-    2
-  ],
-  [
-    "qwenlm",
-    2
+    "work",
+    4
   ],
   [
     "coding",
-    2
+    4
   ],
   [
-    "your",
-    2
+    "handoff",
+    3
   ],
   [
-    "terminal",
-    2
+    "faster",
+    3
+  ],
+  [
+    "computer",
+    3
+  ],
+  [
+    "skill",
+    3
+  ],
+  [
+    "loopforge",
+    3
+  ],
+  [
+    "self",
+    3
+  ],
+  [
+    "team",
+    3
+  ],
+  [
+    "bughunter",
+    3
   ]
 ]
