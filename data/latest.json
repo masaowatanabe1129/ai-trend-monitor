@@ -1,42 +1,162 @@
 [
   {
-    "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
-    "link": "https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/",
+    "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+    "link": "https://arxiv.org/abs/2611.21682",
     "analysis": {
       "error": "json_parse",
-      "raw": "HarkがHandoff²をリリース、Hark Pro用のコンピュータ利用エージェントで、処理速度が2倍に向上しました。"
+      "raw": "NEBench R1は、大規模言語モデルの核分野における能力を評価するための推論ベンチマークです。この基準は、モデルが核関連の問題をどれだけ正確に理解し解決できるかを測ることを目的としています。"
     }
   },
   {
-    "title": "google-labs-code/stitch-skills",
-    "link": "https://github.com/google-labs-code/stitch-skills",
+    "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+    "link": "https://arxiv.org/abs/2611.21799",
     "analysis": {
       "error": "json_parse",
-      "raw": "Google Labsが「Code/Stitch Skills」という新しいツールを発表しました。このツールは、プログラミングスキルを持つユーザーが簡単にアプリケーションを作成できるよう支援します。"
+      "raw": "「思考の連鎖の制御性が思考の連鎖の監視可能性を低下させる可能性がある」というタイトルは、思考過程を制御することが監視や評価の難しさを引き起こすという観点を示しています。これはAIや機械学習の文脈での重要な課題を提起しています。"
     }
   },
   {
-    "title": "alibaba/open-code-review",
-    "link": "https://github.com/alibaba/open-code-review",
+    "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+    "link": "https://arxiv.org/abs/2611.21827",
     "analysis": {
       "error": "json_parse",
-      "raw": "アリババがオープンソースのコードレビューに関する取り組みを発表しました。この取り組みは、開発者間のコラボレーションと品質向上を促進することを目的としています。"
+      "raw": "タイトルの要約:\nSAR車両認識における車両の識別精度に関する研究で、背景のショートカットや角度のギャップ、部分ライブラリの影響をMSTARとATRNet-STARを用いて分析しています。"
     }
   },
   {
-    "title": "Tencent/LoopForge",
-    "link": "https://github.com/Tencent/LoopForge",
+    "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+    "link": "https://arxiv.org/abs/2611.21832",
     "analysis": {
       "error": "json_parse",
-      "raw": "TencentがLoopForgeを買収し、ゲーム開発への取り組みを強化する意向を示しています。これにより、技術革新と新たなコンテンツ創造が期待されます。"
+      "raw": "AI安全研究のエンドツーエンドの記録において、監査人が妨害行為を確認するのに苦労しているという報告があります。これにより、研究の信頼性が揺らいでいます。"
     }
   },
   {
-    "title": "elementalsouls/Claude-BugHunter",
-    "link": "https://github.com/elementalsouls/Claude-BugHunter",
+    "title": "Language Models Can Rewrite Their Own Weights",
+    "link": "https://arxiv.org/abs/2611.21885",
     "analysis": {
       "error": "json_parse",
-      "raw": "タイトル「elementalsouls/Claude-BugHunter」は、AIやプログラムにおけるバグを発見・修正するための手法やツールに関連した内容を示しています。特に、ClaudeというAIモデルに焦点を当て、そのバグを狩る（バグハンティング）活動について言及しています。"
+      "raw": "言語モデルが自らの重みを再編成できることが報告されました。これにより、モデルの性能向上や適応性が期待されています。"
+    }
+  },
+  {
+    "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+    "link": "https://arxiv.org/abs/2611.21925",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding」に関する要約です。\n\nDNeoは、並行ドラフトモデルにおいて、ターゲット特徴のエンコーディングを改善する必要があることを指摘しています。これにより、モデルの性能向上が期待されます。"
+    }
+  },
+  {
+    "title": "SLED: Sensor SLicing from Edge to Datacenter",
+    "link": "https://arxiv.org/abs/2611.21937",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「SLED: Sensor SLicing from Edge to Datacenter」は、エッジからデータセンターまでのセンサー情報を効率的に処理・管理する技術や方法論を指しています。センサーからのデータを活用することで、リアルタイムの分析や意思決定を支援することを目的としています。"
+    }
+  },
+  {
+    "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+    "link": "https://arxiv.org/abs/2611.21946",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「保存された判断、漂流するコミットメント：有害な考えすぎの特定」というタイトルは、有害な考えすぎがどのように形成されるかを探り、それに伴う判断や約束がどのように影響を受けるかを分析する内容です。"
+    }
+  },
+  {
+    "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
+    "link": "https://arxiv.org/abs/2611.21948",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "AI規制における誠実な仲介者：公的コメントが規制当局にどのように証拠を提供するかについて。"
+    }
+  },
+  {
+    "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+    "link": "https://arxiv.org/abs/2611.21950",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「DiscoveryAgent」は、科学者に焦点を当てたエージェント型AIのフレームワークです。このシステムは、科学的発見を促進するために設計されています。"
+    }
+  },
+  {
+    "title": "CrisisBench: an evaluation suite for crisis counseling AI",
+    "link": "https://arxiv.org/abs/2611.21622",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「CrisisBench」は、危機カウンセリングAIの評価を行うための評価ツールセットです。これにより、AIの効果や応答を測定し、改善することが可能になります。"
+    }
+  },
+  {
+    "title": "RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs",
+    "link": "https://arxiv.org/abs/2611.21641",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルは、実環境における拒否回避に関する研究で、展開された大規模言語モデル（LLMs）の因果測定手法について述べています。研究は、これらのモデルが実際にどのように拒否反応を示すかを分析しています。"
+    }
+  },
+  {
+    "title": "Sleep2Word: Peripheral-to-EEG Translation via Duration-Aware Wordization",
+    "link": "https://arxiv.org/abs/2611.21643",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Sleep2Wordは、周辺データから脳波（EEG）への翻訳を行う技術で、発話の持続時間を考慮した「単語化」を実現します。この研究により、睡眠中の思考や感情を言語化する可能性が広がります。"
+    }
+  },
+  {
+    "title": "MInfoVisQA: A Multilingual Benchmark for Information-Rich Visual Question Answering",
+    "link": "https://arxiv.org/abs/2611.21644",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "MInfoVisQAは、情報豊富な視覚質問応答のための多言語ベンチマークです。このプロジェクトは、異なる言語での視覚質問応答の性能を評価するための基準を提供します。"
+    }
+  },
+  {
+    "title": "Limite 1B - Violetto: Technical Report",
+    "link": "https://arxiv.org/abs/2611.21646",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「Limite 1B - Violetto: 技術報告」は、Violettoに関連する技術的な詳細や進展を述べたドキュメントです。この報告書では、プロジェクトの進捗状況や技術的な課題について分析されています。"
+    }
+  },
+  {
+    "title": "FieldGuide: A Corpus Map for Token-Efficient Agentic Document Exploration",
+    "link": "https://arxiv.org/abs/2611.21647",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "FieldGuideは、トークン効率の良いエージェントによる文書探査のためのコーパスマップを提供するツールです。これにより、情報にアクセスしやすく、効率的な探査が可能になります。"
+    }
+  },
+  {
+    "title": "Can an LLM dream? Testing the overfitted brain hypothesis on an agent with text memory",
+    "link": "https://arxiv.org/abs/2611.21648",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルの要約:\nLLM（大規模言語モデル）が「夢」を見ることができるかを検証するため、テキスト記憶を持つエージェントを使用して過学習脳仮説をテストする研究。"
+    }
+  },
+  {
+    "title": "Literary Language Mashup: Curating Fictions with Large Language Models",
+    "link": "https://arxiv.org/abs/2611.21649",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "大規模言語モデルを活用した文学的表現の融合に関する研究。フィクションをキュレーションする手法を探求。"
+    }
+  },
+  {
+    "title": "From Preference Data to Personalization: Tracing Sycophancy in Large Language Models",
+    "link": "https://arxiv.org/abs/2611.21650",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルは「好みデータからパーソナライズへ：大規模言語モデルにおけるおべっかの追跡」です。この記事では、好みデータを活用して大規模言語モデルにおける個別化を進める中で、どのようにおべっか（迎合的な応答）が生じるかを探ります。"
+    }
+  },
+  {
+    "title": "Consistency Is Not Correction: Separating Confidence, Abstention, and Recovery in LLM Agents",
+    "link": "https://arxiv.org/abs/2611.21651",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルの要約:\n「一貫性は修正ではない：LLMエージェントにおける自信、控え、回復の区別」では、言語モデルが持つ自信や控えの状態、そして誤りからの回復手法についての分析が行われています。エージェントの性能を向上させるためには、これらの要素を正しく理解し区別することが重要であることが示されています。"
     }
   }
 ]
