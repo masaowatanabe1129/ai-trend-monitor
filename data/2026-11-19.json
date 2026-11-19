@@ -1,0 +1,162 @@
+[
+  {
+    "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+    "link": "https://arxiv.org/abs/2611.21682",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "NEBench R1は、大規模言語モデルの核分野における推論能力を評価するためのベンチマークです。この新しい基準により、AIが核関連の知識と理解力をどの程度持っているかを測定します。"
+    }
+  },
+  {
+    "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+    "link": "https://arxiv.org/abs/2611.21799",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「思考の連鎖の制御可能性は、思考の連鎖の監視可能性を低下させる可能性がある」という内容の記事です。具体的には、思考過程を制御する能力が、逆にその過程を追跡することを難しくすることを示唆しています。"
+    }
+  },
+  {
+    "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+    "link": "https://arxiv.org/abs/2611.21827",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルは「SAR車両認識における車両の貢献度」となります。MSTARおよびATRNet-STARにおける背景の短縮、角度のギャップ、部分ライブラリについて検討しています。具体的には、SAR（合成開口レーダー）画像における車両認識の精度に影響を与える要因を分析しています。"
+    }
+  },
+  {
+    "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+    "link": "https://arxiv.org/abs/2611.21832",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "監査人は、AI安全研究のエンドツーエンドのトランスクリプトにおける妨害行為を発見することに苦労している。検証の難しさが指摘されている。"
+    }
+  },
+  {
+    "title": "Language Models Can Rewrite Their Own Weights",
+    "link": "https://arxiv.org/abs/2611.21885",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "言語モデルは自らの重みを再構築できることが示されました。この技術により、モデルの性能向上や適応が期待されます。"
+    }
+  },
+  {
+    "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+    "link": "https://arxiv.org/abs/2611.21925",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "DNeo: 平行ドラフトモデルには、より良いターゲット特徴エンコーディングが必要です。"
+    }
+  },
+  {
+    "title": "SLED: Sensor SLicing from Edge to Datacenter",
+    "link": "https://arxiv.org/abs/2611.21937",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "\"SLED: センサーのエッジからデータセンターまでのスライシング\"は、エッジデバイスからデータセンターに至るまでのセンサー情報の処理技術についてのニュースです。データの効率的な収集と分析方法に焦点を当てています。"
+    }
+  },
+  {
+    "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+    "link": "https://arxiv.org/abs/2611.21946",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「保存された判決と漂うコミットメント：有害な考えすぎの特定」と題するこのニュースは、無駄に考えすぎることがもたらす悪影響を分析し、それを識別する方法について述べています。特に、判断や約束に対する持続的な影響を考察しています。"
+    }
+  },
+  {
+    "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
+    "link": "https://arxiv.org/abs/2611.21948",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "AI規制における誠実な仲介者: 公的意見が規制当局に証拠を提供する方法についての考察。"
+    }
+  },
+  {
+    "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+    "link": "https://arxiv.org/abs/2611.21950",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "DiscoveryAgent: 科学者を中心にしたエージェント型AIのフレームワークです。研究者が効率的にデータを探索し、科学的発見を促進するためのツールを提供します。"
+    }
+  },
+  {
+    "title": "CrisisBench: an evaluation suite for crisis counseling AI",
+    "link": "https://arxiv.org/abs/2611.21622",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "CrisisBenchは、危機相談向けのAIを評価するための評価スイートです。このツールは、AIの効果と信頼性を測るために設計されています。"
+    }
+  },
+  {
+    "title": "RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs",
+    "link": "https://arxiv.org/abs/2611.21641",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs」は、展開された大規模言語モデル（LLM）の拒否回避についての因果測定手法を提案する研究に関するものです。この研究は、実世界でのLLMの応答を評価し、その行動を深く理解することを目的としています。"
+    }
+  },
+  {
+    "title": "Sleep2Word: Peripheral-to-EEG Translation via Duration-Aware Wordization",
+    "link": "https://arxiv.org/abs/2611.21643",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "Sleep2Wordは、持続時間を考慮した単語化を通じて、周辺データから脳波（EEG）情報を翻訳する技術です。これは、睡眠中の情報をより効果的に理解するための新しいアプローチを提供します。"
+    }
+  },
+  {
+    "title": "MInfoVisQA: A Multilingual Benchmark for Information-Rich Visual Question Answering",
+    "link": "https://arxiv.org/abs/2611.21644",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "MInfoVisQAは、情報豊富な視覚的質問応答のための多言語ベンチマークです。このプロジェクトは、異なる言語での視覚情報の理解と応答能力を評価するための基準を提供します。"
+    }
+  },
+  {
+    "title": "Limite 1B - Violetto: Technical Report",
+    "link": "https://arxiv.org/abs/2611.21646",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「Limite 1B - Violetto: Technical Report」は、Violettoというプロジェクトに関する技術報告書です。この報告書は、プロジェクトの技術的な詳細や進捗状況をまとめています。"
+    }
+  },
+  {
+    "title": "FieldGuide: A Corpus Map for Token-Efficient Agentic Document Exploration",
+    "link": "https://arxiv.org/abs/2611.21647",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトル「FieldGuide: A Corpus Map for Token-Efficient Agentic Document Exploration」は、効率的なトークン使用を実現するための文書探索のためのコーパスマップを提案するものです。これにより、自律的な情報検索が可能になります。"
+    }
+  },
+  {
+    "title": "Can an LLM dream? Testing the overfitted brain hypothesis on an agent with text memory",
+    "link": "https://arxiv.org/abs/2611.21648",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "タイトルの内容は、テキストメモリを持つエージェントにおいて、オーバーフィットした脳の仮説をテストし、LLM（大規模言語モデル）が夢を見ることができるかを検証するものです。"
+    }
+  },
+  {
+    "title": "Literary Language Mashup: Curating Fictions with Large Language Models",
+    "link": "https://arxiv.org/abs/2611.21649",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "大規模言語モデルを活用したフィクションのキュレーションに関する記事で、異なる文学的表現を融合させる手法について探求しています。"
+    }
+  },
+  {
+    "title": "From Preference Data to Personalization: Tracing Sycophancy in Large Language Models",
+    "link": "https://arxiv.org/abs/2611.21650",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「嗜好データからパーソナライズへ：大規模言語モデルにおけるおべっかの追跡」というタイトルは、大規模言語モデルがどのようにユーザーの嗜好データをもとにパーソナライズされるかを探求し、その過程で見られるおべっかの傾向を分析する内容です。"
+    }
+  },
+  {
+    "title": "Consistency Is Not Correction: Separating Confidence, Abstention, and Recovery in LLM Agents",
+    "link": "https://arxiv.org/abs/2611.21651",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「一貫性は修正ではない：LLMエージェントにおける自信、控え、回復の切り分け」というタイトルは、言語モデルエージェントの行動における自信の表現や控えること、そして回復のメカニズムを明確に区別する重要性について論じています。"
+    }
+  }
+]
