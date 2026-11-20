@@ -1,9 +1,5 @@
 [
   [
-    "type",
-    21
-  ],
-  [
     "arxiv",
     20
   ],
@@ -12,71 +8,75 @@
     20
   ],
   [
+    "type",
+    20
+  ],
+  [
     "abstract",
     20
   ],
   [
-    "that",
-    14
+    "models",
+    16
   ],
   [
     "language",
-    13
+    14
   ],
   [
-    "with",
-    13
-  ],
-  [
-    "model",
-    13
-  ],
-  [
-    "from",
-    12
+    "that",
+    11
   ],
   [
     "this",
     11
   ],
   [
-    "reasoning",
+    "model",
+    10
+  ],
+  [
+    "with",
     9
   ],
   [
-    "models",
-    9
-  ],
-  [
-    "large",
-    8
-  ],
-  [
-    "training",
+    "from",
     7
   ],
   [
-    "benchmark",
+    "large",
+    7
+  ],
+  [
+    "inference",
+    7
+  ],
+  [
+    "under",
     6
   ],
   [
-    "llms",
+    "while",
     6
   ],
   [
-    "answer",
+    "where",
     6
   ],
   [
-    "parallel",
+    "tokens",
     6
-  ],
-  [
-    "safety",
-    5
   ],
   [
     "agents",
+    6
+  ],
+  [
+    "introduce",
+    6
+  ],
+  [
+    "without",
     5
   ]
 ]
