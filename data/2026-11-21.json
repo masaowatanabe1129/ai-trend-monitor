@@ -1,0 +1,26 @@
+[
+  {
+    "title": "elementalsouls/Claude-BugHunter",
+    "link": "https://github.com/elementalsouls/Claude-BugHunter",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「elementalsouls/Claude-BugHunter」は、ソフトウェアやプログラムのバグを追跡・修正するためのツールやプロジェクトに関連したもので、技術的な改良やフィードバックを提供することを目的としています。プロジェクト名は「Claude」と関係がある可能性があります。"
+    }
+  },
+  {
+    "title": "cursor/plugins",
+    "link": "https://github.com/cursor/plugins",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「cursor/plugins」は、カーソルとプラグインに関連する情報を提供するタイトルです。具体的な内容は記載されていませんが、これらの要素がどのように機能するかや利用方法に焦点を当てていると思われます。"
+    }
+  },
+  {
+    "title": "cathrynlavery/diagram-design",
+    "link": "https://github.com/cathrynlavery/diagram-design",
+    "analysis": {
+      "error": "json_parse",
+      "raw": "「cathrynlavery/diagram-design」は、図表のデザインに関するプロジェクトやリソースを提供するもので、視覚的に情報を効果的に伝えるための手法やツールが紹介されています。具体的なデザインのアイディアやテンプレートが含まれることが想定されます。"
+    }
+  }
+]

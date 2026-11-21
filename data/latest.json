@@ -1,162 +1,26 @@
 [
   {
-    "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-    "link": "https://arxiv.org/abs/2611.23322",
+    "title": "elementalsouls/Claude-BugHunter",
+    "link": "https://github.com/elementalsouls/Claude-BugHunter",
     "analysis": {
       "error": "json_parse",
-      "raw": "「人間とAIの相互依存は、能力の非対称性の下では不安定である」という内容のニュースです。人間とAI間の協力関係は、双方の能力に大きな差があるときに続きにくいことを指摘しています。"
+      "raw": "「elementalsouls/Claude-BugHunter」は、ソフトウェアやプログラムのバグを追跡・修正するためのツールやプロジェクトに関連したもので、技術的な改良やフィードバックを提供することを目的としています。プロジェクト名は「Claude」と関係がある可能性があります。"
     }
   },
   {
-    "title": "Training Language Models for Introspective Oversight",
-    "link": "https://arxiv.org/abs/2611.23365",
+    "title": "cursor/plugins",
+    "link": "https://github.com/cursor/plugins",
     "analysis": {
       "error": "json_parse",
-      "raw": "言語モデルのトレーニングにおいて、自己反省的な監視を行う手法について紹介しています。このアプローチは、モデルの判断をより透明にし、その信頼性を向上させることを目指しています。"
+      "raw": "「cursor/plugins」は、カーソルとプラグインに関連する情報を提供するタイトルです。具体的な内容は記載されていませんが、これらの要素がどのように機能するかや利用方法に焦点を当てていると思われます。"
     }
   },
   {
-    "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-    "link": "https://arxiv.org/abs/2611.23375",
+    "title": "cathrynlavery/diagram-design",
+    "link": "https://github.com/cathrynlavery/diagram-design",
     "analysis": {
       "error": "json_parse",
-      "raw": "「トークンの行く先：エージェント的コーディングにおける熱、エントロピー、エラー」では、エージェント型アルゴリズムの動作に伴うエネルギー変化や情報の乱雑さ、エラー発生の要因について考察されています。エージェントの処理過程における効率性とその限界が焦点とされています。"
-    }
-  },
-  {
-    "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-    "link": "https://arxiv.org/abs/2611.23398",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "HardwareDxは、データセンターの機械修理に特化した基盤的なグラフモデルシステムです。このシステムにより、修理プロセスが効率化され、問題解決が迅速になることを目指しています。"
-    }
-  },
-  {
-    "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
-    "link": "https://arxiv.org/abs/2611.23410",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "RFBenchは、受動RFレイアウト設計と理解のためのシミュレーターに基づくマルチモーダルベンチマークシステムです。これにより、RFデザインの評価や最適化が可能になります。"
-    }
-  },
-  {
-    "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
-    "link": "https://arxiv.org/abs/2611.23445",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「4ビット未満の視覚CNNが崩壊する理由と混合精度回復の限界」に関するニュースは、低ビット幅の畳み込みニューラルネットワークが性能を維持できない理由と、混合精度手法による改善の限界を探る内容です。"
-    }
-  },
-  {
-    "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
-    "link": "https://arxiv.org/abs/2611.23454",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "LusoClinは、欧州ポルトガル語における医療情報検索のための合成臨床ノートデータセットです。このデータセットは、医療関連の研究や開発に役立つ情報を提供します。"
-    }
-  },
-  {
-    "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
-    "link": "https://arxiv.org/abs/2611.23456",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "VeriMathは、人間の介入を通じて、カリキュラムに沿った数学評価項目の生成と検証を行うシステムです。これにより、教育現場での数学テストの質を向上させることを目指しています。"
-    }
-  },
-  {
-    "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
-    "link": "https://arxiv.org/abs/2611.23476",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "GUARDは、後悔導入によって再帰的な自己改善を安定させる手法を提案します。このアプローチにより、AIの自己学習プロセスがより安全で効果的に行えることを目指しています。"
-    }
-  },
-  {
-    "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
-    "link": "https://arxiv.org/abs/2611.23480",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルの内容は、緊急CTおよびMRI検査を読み取るビジョン・ランゲージモデルエージェントの診断精度とナビゲーション行動を評価した研究についてです。この研究は、AIが医療画像解析にどのように貢献できるかを示唆しています。"
-    }
-  },
-  {
-    "title": "LLM Complexity: Towards a Computational Complexity View of Large Language Model Inference",
-    "link": "https://arxiv.org/abs/2611.24943",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルの内容は、大規模言語モデル（LLM）における推論の計算的複雑性を探求することに関するもので、これを理解することでLLMの性能や限界を把握しやすくなるという視点を指しています。"
-    }
-  },
-  {
-    "title": "ICARE: cross-domain text classification with incremental class-aware representation and distillation learning",
-    "link": "https://arxiv.org/abs/2611.24959",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "ICAREは、異なるドメインにおけるテキスト分類を行う手法で、クラス認識型の表現と蒸留学習を用いています。これにより、分類精度を向上させることを目指しています。"
-    }
-  },
-  {
-    "title": "TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents",
-    "link": "https://arxiv.org/abs/2611.24960",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトル「TETHER」は、デザイン主導の長文から階層を抽出し回復するための、トレーニング不要で柔軟な手法を提案するものです。特に、内容の重要性を保持しながら効果的な情報整理を行うことに焦点を当てています。"
-    }
-  },
-  {
-    "title": "Physics of Language Models: Part 4.2, Canon Layers at Scale where Synthetic Pretraining Resonates in Reality",
-    "link": "https://arxiv.org/abs/2611.24963",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトルは「言語モデルの物理学: パート4.2、合成事前学習が現実に共鳴する大規模なキャノン層」です。これは、合成事前学習が大規模なキャノン層でどのように実際の言語処理に影響を与えるかを探る内容です。"
-    }
-  },
-  {
-    "title": "Global Importance Estimation for KV Cache Eviction",
-    "link": "https://arxiv.org/abs/2611.24969",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「KVキャッシュ排除のためのグローバル重要度推定に関する研究です。データの効率的な管理と最適化を目指しています。」"
-    }
-  },
-  {
-    "title": "HireWatch: Evaluating LLM Compliance with U.S. Employment Law Under Contextual Pressure",
-    "link": "https://arxiv.org/abs/2611.24970",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトル「HireWatch: Evaluating LLM Compliance with U.S. Employment Law Under Contextual Pressure」は、法的文脈の下での大規模言語モデル（LLM）がアメリカの雇用法に適合しているかを評価する内容です。雇用関連の規制に対するAIの適合性を検討しています。"
-    }
-  },
-  {
-    "title": "The ROI of Small Examples: Optimizing In-Context Learning Under Token Budgets",
-    "link": "https://arxiv.org/abs/2611.24971",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "小規模な例を用いたROI：トークン予算内でのインコンテキスト学習の最適化に関する研究。トークン制限を考慮した効果的な学習法の提案。"
-    }
-  },
-  {
-    "title": "No-Harm-Jury A Jury-Based Multi-Dimensional Harm Evaluation Framework for Medical AI Responses",
-    "link": "https://arxiv.org/abs/2611.24972",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "「No-Harm-Jury」は、医療用AIの応答に対する多次元的な害評価フレームワークを提案するもので、 juries（陪審員）による評価を基にしています。このフレームワークは、AIの医療応答が引き起こす可能性のある害を評価し、リスクを低減することを目的としています。"
-    }
-  },
-  {
-    "title": "CANDID: Candidate-Driven Intervention for Disciplined Execution in Local Computer-Use Agents",
-    "link": "https://arxiv.org/abs/2611.24977",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "タイトル「CANDID: Candidate-Driven Intervention for Disciplined Execution in Local Computer-Use Agents」は、ローカルコンピュータを使用するエージェントにおける厳格な実行を促進するための候補者主導の介入について述べています。つまり、効果的な運用を図るための新たなアプローチを提案しています。"
-    }
-  },
-  {
-    "title": "Quantifying Cultural-Psychological Constructs in Four Centuries of Ottoman Court Registers",
-    "link": "https://arxiv.org/abs/2611.24981",
-    "analysis": {
-      "error": "json_parse",
-      "raw": "オスマン帝国の宮廷記録における4世紀間の文化的・心理的構造を定量化する研究が行われました。これにより、歴史的な社会の心理面を理解する新たな視点が提供されています。"
+      "raw": "「cathrynlavery/diagram-design」は、図表のデザインに関するプロジェクトやリソースを提供するもので、視覚的に情報を効果的に伝えるための手法やツールが紹介されています。具体的なデザインのアイディアやテンプレートが含まれることが想定されます。"
     }
   }
 ]
